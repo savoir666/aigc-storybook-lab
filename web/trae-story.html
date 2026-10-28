@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#fdf6ea" />
+  <title>✨ 小主角的故事书 · 星芽故事屋</title>
+  <link rel="stylesheet" href="trae-story.css" />
+</head>
+<body>
+  <header class="site-header">
+    <a href="index.html" class="back-home" aria-label="返回主应用">
+      <span class="back-icon">←</span>
+      <span>返回星芽故事屋</span>
+    </a>
+    <div class="site-brand">
+      <span class="brand-dot brand-dot-orange"></span>
+      <span class="brand-dot brand-dot-green"></span>
+      <h1>小主角的故事书</h1>
+    </div>
+    <p class="site-note">本地模板故事与六幕示例插画 · 每一幕都有不同的发现</p>
+  </header>
+
+  <main class="page">
+    <section id="setup-view" class="card setup-card">
+      <div class="card-head">
+        <span class="step-badge step-badge-orange">Step 1</span>
+        <h2>填写你的小主角</h2>
+        <p>告诉我们主角的小秘密，故事会围绕这些小细节展开 🍊</p>
+      </div>
+
+      <form id="story-form" class="setup-form" novalidate>
+        <div class="form-row">
+          <label for="name">
+            <span class="label-text">主角姓名</span>
+            <span class="label-req">必填</span>
+          </label>
+          <input id="name" name="name" type="text" maxlength="20" placeholder="例如：小橘、朵朵、布丁……" autocomplete="off" required />
+          <p class="hint">1–20 个字，会出现在每一幕的旁白里</p>
+        </div>
+
+        <div class="form-row-two">
+          <div>
+            <label for="age"><span class="label-text">主角年龄</span></label>
+            <input id="age" name="age" type="number" min="3" max="12" value="6" />
+          </div>
+          <div>
+            <label for="audience_age"><span class="label-text">读者年龄</span></label>
+            <input id="audience_age" name="audience_age" type="number" min="3" max="12" value="6" />
+          </div>
+        </div>
+
+        <div class="form-row">
+          <label for="interest"><span class="label-text">主角喜欢什么</span></label>
+          <input id="interest" name="interest" type="text" maxlength="120" placeholder="例如：收集石头、吹泡泡、看星星……" />
+          <p class="hint">故事里会安排和这个兴趣有关的小发现</p>
+        </div>
+
+        <div class="form-row">
+          <label for="setting"><span class="label-text">故事背景（可选）</span></label>
+          <textarea id="setting" name="setting" rows="2" maxlength="180" placeholder="例如：住在海边的小木屋、有一只会说话的布偶……"></textarea>
+        </div>
+
+        <div class="form-row">
+          <span class="label-text">选一个你想去的世界</span>
+          <div class="theme-grid" role="radiogroup" aria-label="故事主题">
+            <button type="button" class="theme-card" data-theme="forest" aria-pressed="true">
+              <span class="theme-emoji">🌳</span>
+              <span class="theme-name">森林探险</span>
+              <span class="theme-sub">萤火虫带路 · 树洞秘密</span>
+            </button>
+            <button type="button" class="theme-card" data-theme="space" aria-pressed="false">
+              <span class="theme-emoji">🚀</span>
+              <span class="theme-name">太空旅行</span>
+              <span class="theme-sub">月亮来信 · 小小宇航员</span>
+            </button>
+            <button type="button" class="theme-card" data-theme="ocean" aria-pressed="false">
+              <span class="theme-emoji">🐚</span>
+              <span class="theme-name">海洋奇遇</span>
+              <span class="theme-sub">珊瑚迷宫 · 鲸鱼朋友</span>
+            </button>
+          </div>
+        </div>
+
+        <div class="form-row form-row-length">
+          <span class="label-text">故事长度</span>
+          <div class="length-group" role="radiogroup" aria-label="故事长度">
+            <label class="length-option"><input type="radio" name="length" value="short" /><span>短 · 精简正文</span></label>
+            <label class="length-option"><input type="radio" name="length" value="medium" checked /><span>中 · 标准正文</span></label>
+            <label class="length-option"><input type="radio" name="length" value="long" /><span>长 · 详细正文</span></label>
+          </div>
+        </div>
+
+        <div id="error-banner" class="error-banner" hidden></div>
+
+        <button id="submit-btn" type="submit" class="submit-button">
+          <span class="submit-icon">✨</span>
+          <span class="submit-text">种下这颗故事种子</span>
+        </button>
+      </form>
+    </section>
+
+    <section id="loading-view" class="card loading-card" hidden>
+      <div class="loader">
+        <div class="loader-leaf loader-leaf-1"></div>
+        <div class="loader-leaf loader-leaf-2"></div>
+        <div class="loader-leaf loader-leaf-3"></div>
+      </div>
+      <h2>故事正在发芽……</h2>
+      <p class="loading-tip">为你准备的是本地模板故事，很快就能翻开下一页 🌱</p>
+      <div class="loading-steps">
+        <span class="dot"></span>
+        <span class="dot"></span>
+        <span class="dot"></span>
+      </div>
+    </section>
+
+    <section id="story-view" class="card story-card" hidden>
+      <header class="story-head">
+        <div class="story-title-wrap">
+          <span class="theme-pill" id="story-theme-pill">🌳 森林探险</span>
+          <h2 id="story-title">一段奇妙的冒险</h2>
+          <p class="story-moral" id="story-moral" hidden></p>
+        </div>
+        <div class="story-mode-chip" id="story-mode-chip">本地模板 · Demo</div>
+      </header>
+
+      <section class="characters-section">
+        <h3 class="section-title"><span class="section-dot"></span>故事里的伙伴</h3>
+        <div id="character-list" class="character-list"></div>
+      </section>
+
+      <section class="scene-section">
+        <div class="scene-nav-bar">
+          <button id="prev-btn" class="nav-btn nav-btn-outline" type="button" aria-label="上一幕">
+            <span class="nav-arrow">‹</span>
+            <span>上一幕</span>
+          </button>
+          <div class="scene-counter" id="scene-counter">0 / 0</div>
+          <button id="next-btn" class="nav-btn nav-btn-outline" type="button" aria-label="下一幕">
+            <span>下一幕</span>
+            <span class="nav-arrow">›</span>
+          </button>
+        </div>
+
+        <article class="scene-card">
+          <div class="scene-head">
+            <span class="scene-number" id="scene-number">CHAPTER 00 / 00</span>
+            <h3 class="scene-title" id="scene-title">——</h3>
+            <p class="scene-mood" id="scene-mood" hidden></p>
+          </div>
+          <figure class="scene-illustration"><img id="scene-image" alt="" hidden /><figcaption id="scene-image-note">插画正在准备中</figcaption></figure>
+          <div class="scene-body" id="scene-body"></div>
+        </article>
+      </section>
+
+      <footer class="story-footer">
+        <button id="restart-btn" class="submit-button submit-button-secondary" type="button">
+          <span class="submit-icon">🔁</span>
+          <span>重新创作</span>
+        </button>
+      </footer>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>三个世界，六幕故事。示例插画由本地程序绘制，非AI生成。</p>
+    <a href="index.html" class="back-home-inline">← 回到主应用</a>
+  </footer>
+
+  <script src="trae-story.js"></script>
+</body>
+</html>

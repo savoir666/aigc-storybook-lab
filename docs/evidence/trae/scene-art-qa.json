@@ -1,0 +1,189 @@
+{
+  "operator": "AI assistant actual local browser QA",
+  "themes": [
+    {
+      "theme": "forest",
+      "loaded": 6,
+      "distinct": 6,
+      "scenes": [
+        {
+          "scene": 1,
+          "url": "http://127.0.0.1:8766/demo-scenes/forest-01.svg?v=2",
+          "sha256": "b1a146396de01e870e18367d1144763017a99d139904f1b71e3cf487dbb1e3e9",
+          "naturalSize": [
+            200,
+            150
+          ]
+        },
+        {
+          "scene": 2,
+          "url": "http://127.0.0.1:8766/demo-scenes/forest-02.svg?v=2",
+          "sha256": "376ba3774983cc79242f9b4739facaf6dae1a37229fd28440a1eba0fa81c19f1",
+          "naturalSize": [
+            200,
+            150
+          ]
+        },
+        {
+          "scene": 3,
+          "url": "http://127.0.0.1:8766/demo-scenes/forest-03.svg?v=2",
+          "sha256": "5de0705df832ef833b16c2eb4e61086bc3edab49d86ff2a6577928239982a0a3",
+          "naturalSize": [
+            200,
+            150
+          ]
+        },
+        {
+          "scene": 4,
+          "url": "http://127.0.0.1:8766/demo-scenes/forest-04.svg?v=2",
+          "sha256": "fdf54a22dfbadc8c96c42d7c8aeff9ee49b8fdbd68d7c955708238eb2b23bf69",
+          "naturalSize": [
+            200,
+            150
+          ]
+        },
+        {
+          "scene": 5,
+          "url": "http://127.0.0.1:8766/demo-scenes/forest-05.svg?v=2",
+          "sha256": "b20a0936afacf7d54178acebc76d884263beaf1b936174c61953df49019b0713",
+          "naturalSize": [
+            200,
+            150
+          ]
+        },
+        {
+          "scene": 6,
+          "url": "http://127.0.0.1:8766/demo-scenes/forest-06.svg?v=2",
+          "sha256": "167594dfc9e90e2ef502ec0e9281de572ca901d87a42072a83c5af3c7ad43bde",
+          "naturalSize": [
+            200,
+            150
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "space",
+      "loaded": 6,
+      "distinct": 6,
+      "scenes": [
+        {
+          "scene": 1,
+          "url": "http://127.0.0.1:8766/demo-scenes/space-01.svg?v=2",
+          "sha256": "a03890bf275f1513d2644670afeff5ee57f6e7e00dcc616ec1bedbd7a685d002",
+          "naturalSize": [
+            200,
+            150
+          ]
+        },
+        {
+          "scene": 2,
+          "url": "http://127.0.0.1:8766/demo-scenes/space-02.svg?v=2",
+          "sha256": "3f98b410e471a7fc55248d423903f861d7555cf099b9f4401999481c19dabe55",
+          "naturalSize": [
+            200,
+            150
+          ]
+        },
+        {
+          "scene": 3,
+          "url": "http://127.0.0.1:8766/demo-scenes/space-03.svg?v=2",
+          "sha256": "46ac6ab11897fc7d0ec6b365b1a207c10be3195747652b3dabb1c3d764a02e4e",
+          "naturalSize": [
+            200,
+            150
+          ]
+        },
+        {
+          "scene": 4,
+          "url": "http://127.0.0.1:8766/demo-scenes/space-04.svg?v=2",
+          "sha256": "f52d788c63ea3a996712d74eb62f964f3f42e78419a0074cb63163c08b948cc7",
+          "naturalSize": [
+            200,
+            150
+          ]
+        },
+        {
+          "scene": 5,
+          "url": "http://127.0.0.1:8766/demo-scenes/space-05.svg?v=2",
+          "sha256": "b23682262989eeaccd26646739aaebbe605a7f5241e49537fd56174ac482ca19",
+          "naturalSize": [
+            200,
+            150
+          ]
+        },
+        {
+          "scene": 6,
+          "url": "http://127.0.0.1:8766/demo-scenes/space-06.svg?v=2",
+          "sha256": "b6dad1be36b78d288e7c7bcb914e56ad7b1658dfdc830e9567db4fe7e14c1456",
+          "naturalSize": [
+            200,
+            150
+          ]
+        }
+      ]
+    },
+    {
+      "theme": "ocean",
+      "loaded": 6,
+      "distinct": 6,
+      "scenes": [
+        {
+          "scene": 1,
+          "url": "http://127.0.0.1:8766/demo-scenes/ocean-01.svg?v=2",
+          "sha256": "6ed596002dc4e7d79c38c6686f46b3d89eb853c2bc8febfe210f5a883143bdfc",
+          "naturalSize": [
+            200,
+            150
+          ]
+        },
+        {
+          "scene": 2,
+          "url": "http://127.0.0.1:8766/demo-scenes/ocean-02.svg?v=2",
+          "sha256": "ea27e977e17bc81cfbf7f8abc443fc8d5bc0a8d1ea62704488327607eafa294a",
+          "naturalSize": [
+            200,
+            150
+          ]
+        },
+        {
+          "scene": 3,
+          "url": "http://127.0.0.1:8766/demo-scenes/ocean-03.svg?v=2",
+          "sha256": "eead44da74fda63fd18cbdd7e2348da504b8e7ac00af3ec62e97aa01a2a38eaf",
+          "naturalSize": [
+            200,
+            150
+          ]
+        },
+        {
+          "scene": 4,
+          "url": "http://127.0.0.1:8766/demo-scenes/ocean-04.svg?v=2",
+          "sha256": "e817a798563ab6e3d3418cbed2bb00a3960ffca534e15e9248b71026bc4cc7a6",
+          "naturalSize": [
+            200,
+            150
+          ]
+        },
+        {
+          "scene": 5,
+          "url": "http://127.0.0.1:8766/demo-scenes/ocean-05.svg?v=2",
+          "sha256": "cdea7780c1ca0d2d65e08e8b566188afb84bba19c9e97beb42a042714f403750",
+          "naturalSize": [
+            200,
+            150
+          ]
+        },
+        {
+          "scene": 6,
+          "url": "http://127.0.0.1:8766/demo-scenes/ocean-06.svg?v=2",
+          "sha256": "3f06285bdaadc7afdccc72c1dd0a39ce4db00be485c0c5aed0e8a4500b7a1041",
+          "naturalSize": [
+            200,
+            150
+          ]
+        }
+      ]
+    }
+  ],
+  "externalRequests": 0
+}

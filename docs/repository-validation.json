@@ -1,0 +1,16 @@
+{
+  "date": "2026-10-29",
+  "files_scanned": 108,
+  "bytes_scanned": 23184203,
+  "secret_matches": 0,
+  "issues": [],
+  "first_week_frontend_unchanged": true,
+  "illustrations": 18,
+  "note": "源代码整理，不包含个人.env/历史项目/视频/模型权重；API密钥只在内存中比较，不输出。",
+  "tests": {
+    "command": "pytest tests/test_course_fixes.py tests/test_server_contract.py -q",
+    "passed": 17,
+    "duration_seconds": 2.41,
+    "network_model_calls": false
+  }
+}

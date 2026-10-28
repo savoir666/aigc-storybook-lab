@@ -1,0 +1,78 @@
+{
+  "date": "2026-10-28T09:01:27.920Z",
+  "actor": "Codex browser QA; original Trae creation reported by user separately",
+  "steps": [
+    {
+      "name": "桌面加载、长度文案与返回主应用",
+      "passed": true,
+      "detail": "真实本机页面1440px，长度文案与后端统一6幕相符"
+    },
+    {
+      "name": "空姓名和非法年龄不请求后端",
+      "passed": true,
+      "detail": "空姓名、0岁、小数年龄均拦截"
+    },
+    {
+      "name": "真实模板生成与逐幕阅读 forest",
+      "passed": true,
+      "detail": "真实POST demo，年龄分别7/5，6幕，插图加载，正文无重复，翻页/键盘/防重复提交通过"
+    },
+    {
+      "name": "真实模板生成与逐幕阅读 space",
+      "passed": true,
+      "detail": "真实POST demo，年龄分别7/5，6幕，插图加载，正文无重复，翻页/键盘/防重复提交通过"
+    },
+    {
+      "name": "真实模板生成与逐幕阅读 ocean",
+      "passed": true,
+      "detail": "真实POST demo，年龄分别7/5，6幕，插图加载，正文无重复，翻页/键盘/防重复提交通过"
+    },
+    {
+      "name": "390px手机表单与阅读器无横向溢出",
+      "passed": true,
+      "detail": "390×844真实页面检查通过"
+    },
+    {
+      "name": "后端422错误反馈及按钮恢复",
+      "passed": true,
+      "detail": "interest：String should have at most 120 characters"
+    },
+    {
+      "name": "浏览器与调用范围",
+      "passed": true,
+      "detail": "无浏览器异常，无外部请求，所有生成请求mode=demo"
+    }
+  ],
+  "projects": [
+    {
+      "id": "327e315631044f80",
+      "theme": "forest",
+      "title": "小栗与星光种子的秘密",
+      "scenes": 6,
+      "mode": "demo",
+      "age": 7,
+      "audience_age": 5
+    },
+    {
+      "id": "35d8445606f44ec4",
+      "theme": "space",
+      "title": "小栗与星光电池的秘密",
+      "scenes": 6,
+      "mode": "demo",
+      "age": 7,
+      "audience_age": 5
+    },
+    {
+      "id": "e953c50ec80047e9",
+      "theme": "ocean",
+      "title": "小栗与发光珍珠的秘密",
+      "scenes": 6,
+      "mode": "demo",
+      "age": 7,
+      "audience_age": 5
+    }
+  ],
+  "pageErrors": [],
+  "externalCalls": 0,
+  "posts": 4
+}

@@ -1,0 +1,17 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/cache/
+data/models/
+data/projects/
+data/jobs/
+data/responses/
+data/api_usage.jsonl
+work/
+outputs/
+*.log
+*.mp4
+*.webm
+*.zip

@@ -1,0 +1,2448 @@
+{
+  "version": 1,
+  "title": "星芽故事屋本地示例素材库",
+  "description": "24 张原创程序插画、12 个故事模板、6 个可播放 WAV 音频。示例插画为程序绘制，非 AI 生成。",
+  "license": "项目内程序原创示例素材，可用于本项目学习、演示与故事导出。",
+  "assets": [
+    {
+      "id": "image-forest-01",
+      "type": "image",
+      "title": "晨光中的小木屋",
+      "description": "森林探险主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+      "tags": [
+        "森林探险",
+        "小狐狸",
+        "绘本",
+        "柔和",
+        "儿童",
+        "forest",
+        "晨光中的小木屋"
+      ],
+      "theme": "forest",
+      "path": "images/forest-01.png",
+      "url": "/files/library/images/forest-01.png",
+      "width": 1200,
+      "height": 900,
+      "source": "local_program_demo",
+      "alt": "晨光中的小木屋，小狐狸在森林探险中和伙伴一起探索",
+      "en_description": "An orange fox wearing a teal scarf and a golden backpack explores a gentle green forest with a firefly, trees, mushrooms and a little cottage. Pastel children storybook illustration."
+    },
+    {
+      "id": "image-forest-02",
+      "type": "image",
+      "title": "苔藓桥上的约定",
+      "description": "森林探险主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+      "tags": [
+        "森林探险",
+        "小狐狸",
+        "绘本",
+        "柔和",
+        "儿童",
+        "forest",
+        "苔藓桥上的约定"
+      ],
+      "theme": "forest",
+      "path": "images/forest-02.png",
+      "url": "/files/library/images/forest-02.png",
+      "width": 1200,
+      "height": 900,
+      "source": "local_program_demo",
+      "alt": "苔藓桥上的约定，小狐狸在森林探险中和伙伴一起探索",
+      "en_description": "An orange fox wearing a teal scarf and a golden backpack explores a gentle green forest with a firefly, trees, mushrooms and a little cottage. Pastel children storybook illustration."
+    },
+    {
+      "id": "image-forest-03",
+      "type": "image",
+      "title": "蘑菇邮局的来信",
+      "description": "森林探险主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+      "tags": [
+        "森林探险",
+        "小狐狸",
+        "绘本",
+        "柔和",
+        "儿童",
+        "forest",
+        "蘑菇邮局的来信"
+      ],
+      "theme": "forest",
+      "path": "images/forest-03.png",
+      "url": "/files/library/images/forest-03.png",
+      "width": 1200,
+      "height": 900,
+      "source": "local_program_demo",
+      "alt": "蘑菇邮局的来信，小狐狸在森林探险中和伙伴一起探索",
+      "en_description": "An orange fox wearing a teal scarf and a golden backpack explores a gentle green forest with a firefly, trees, mushrooms and a little cottage. Pastel children storybook illustration."
+    },
+    {
+      "id": "image-forest-04",
+      "type": "image",
+      "title": "会发光的勇气",
+      "description": "森林探险主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+      "tags": [
+        "森林探险",
+        "小狐狸",
+        "绘本",
+        "柔和",
+        "儿童",
+        "forest",
+        "会发光的勇气"
+      ],
+      "theme": "forest",
+      "path": "images/forest-04.png",
+      "url": "/files/library/images/forest-04.png",
+      "width": 1200,
+      "height": 900,
+      "source": "local_program_demo",
+      "alt": "会发光的勇气，小狐狸在森林探险中和伙伴一起探索",
+      "en_description": "An orange fox wearing a teal scarf and a golden backpack explores a gentle green forest with a firefly, trees, mushrooms and a little cottage. Pastel children storybook illustration."
+    },
+    {
+      "id": "image-forest-05",
+      "type": "image",
+      "title": "风铃树下的朋友",
+      "description": "森林探险主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+      "tags": [
+        "森林探险",
+        "小狐狸",
+        "绘本",
+        "柔和",
+        "儿童",
+        "forest",
+        "风铃树下的朋友"
+      ],
+      "theme": "forest",
+      "path": "images/forest-05.png",
+      "url": "/files/library/images/forest-05.png",
+      "width": 1200,
+      "height": 900,
+      "source": "local_program_demo",
+      "alt": "风铃树下的朋友，小狐狸在森林探险中和伙伴一起探索",
+      "en_description": "An orange fox wearing a teal scarf and a golden backpack explores a gentle green forest with a firefly, trees, mushrooms and a little cottage. Pastel children storybook illustration."
+    },
+    {
+      "id": "image-forest-06",
+      "type": "image",
+      "title": "口袋里的种子",
+      "description": "森林探险主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+      "tags": [
+        "森林探险",
+        "小狐狸",
+        "绘本",
+        "柔和",
+        "儿童",
+        "forest",
+        "口袋里的种子"
+      ],
+      "theme": "forest",
+      "path": "images/forest-06.png",
+      "url": "/files/library/images/forest-06.png",
+      "width": 1200,
+      "height": 900,
+      "source": "local_program_demo",
+      "alt": "口袋里的种子，小狐狸在森林探险中和伙伴一起探索",
+      "en_description": "An orange fox wearing a teal scarf and a golden backpack explores a gentle green forest with a firefly, trees, mushrooms and a little cottage. Pastel children storybook illustration."
+    },
+    {
+      "id": "image-forest-07",
+      "type": "image",
+      "title": "雨后的小小发现",
+      "description": "森林探险主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+      "tags": [
+        "森林探险",
+        "小狐狸",
+        "绘本",
+        "柔和",
+        "儿童",
+        "forest",
+        "雨后的小小发现"
+      ],
+      "theme": "forest",
+      "path": "images/forest-07.png",
+      "url": "/files/library/images/forest-07.png",
+      "width": 1200,
+      "height": 900,
+      "source": "local_program_demo",
+      "alt": "雨后的小小发现，小狐狸在森林探险中和伙伴一起探索",
+      "en_description": "An orange fox wearing a teal scarf and a golden backpack explores a gentle green forest with a firefly, trees, mushrooms and a little cottage. Pastel children storybook illustration."
+    },
+    {
+      "id": "image-forest-08",
+      "type": "image",
+      "title": "把星光送回家",
+      "description": "森林探险主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+      "tags": [
+        "森林探险",
+        "小狐狸",
+        "绘本",
+        "柔和",
+        "儿童",
+        "forest",
+        "把星光送回家"
+      ],
+      "theme": "forest",
+      "path": "images/forest-08.png",
+      "url": "/files/library/images/forest-08.png",
+      "width": 1200,
+      "height": 900,
+      "source": "local_program_demo",
+      "alt": "把星光送回家，小狐狸在森林探险中和伙伴一起探索",
+      "en_description": "An orange fox wearing a teal scarf and a golden backpack explores a gentle green forest with a firefly, trees, mushrooms and a little cottage. Pastel children storybook illustration."
+    },
+    {
+      "id": "image-space-01",
+      "type": "image",
+      "title": "装满好奇的火箭",
+      "description": "太空旅行主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+      "tags": [
+        "太空旅行",
+        "小狐狸",
+        "绘本",
+        "柔和",
+        "儿童",
+        "space",
+        "装满好奇的火箭"
+      ],
+      "theme": "space",
+      "path": "images/space-01.png",
+      "url": "/files/library/images/space-01.png",
+      "width": 1200,
+      "height": 900,
+      "source": "local_program_demo",
+      "alt": "装满好奇的火箭，小狐狸在太空旅行中和伙伴一起探索",
+      "en_description": "An orange fox wearing a teal scarf and a golden backpack explores the moon with a mint robot, rocket, planets and stars. Pastel children storybook illustration."
+    },
+    {
+      "id": "image-space-02",
+      "type": "image",
+      "title": "月亮上的第一枚脚印",
+      "description": "太空旅行主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+      "tags": [
+        "太空旅行",
+        "小狐狸",
+        "绘本",
+        "柔和",
+        "儿童",
+        "space",
+        "月亮上的第一枚脚印"
+      ],
+      "theme": "space",
+      "path": "images/space-02.png",
+      "url": "/files/library/images/space-02.png",
+      "width": 1200,
+      "height": 900,
+      "source": "local_program_demo",
+      "alt": "月亮上的第一枚脚印，小狐狸在太空旅行中和伙伴一起探索",
+      "en_description": "An orange fox wearing a teal scarf and a golden backpack explores the moon with a mint robot, rocket, planets and stars. Pastel children storybook illustration."
+    },
+    {
+      "id": "image-space-03",
+      "type": "image",
+      "title": "星星修理铺",
+      "description": "太空旅行主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+      "tags": [
+        "太空旅行",
+        "小狐狸",
+        "绘本",
+        "柔和",
+        "儿童",
+        "space",
+        "星星修理铺"
+      ],
+      "theme": "space",
+      "path": "images/space-03.png",
+      "url": "/files/library/images/space-03.png",
+      "width": 1200,
+      "height": 900,
+      "source": "local_program_demo",
+      "alt": "星星修理铺，小狐狸在太空旅行中和伙伴一起探索",
+      "en_description": "An orange fox wearing a teal scarf and a golden backpack explores the moon with a mint robot, rocket, planets and stars. Pastel children storybook illustration."
+    },
+    {
+      "id": "image-space-04",
+      "type": "image",
+      "title": "机器人也会想家",
+      "description": "太空旅行主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+      "tags": [
+        "太空旅行",
+        "小狐狸",
+        "绘本",
+        "柔和",
+        "儿童",
+        "space",
+        "机器人也会想家"
+      ],
+      "theme": "space",
+      "path": "images/space-04.png",
+      "url": "/files/library/images/space-04.png",
+      "width": 1200,
+      "height": 900,
+      "source": "local_program_demo",
+      "alt": "机器人也会想家，小狐狸在太空旅行中和伙伴一起探索",
+      "en_description": "An orange fox wearing a teal scarf and a golden backpack explores the moon with a mint robot, rocket, planets and stars. Pastel children storybook illustration."
+    },
+    {
+      "id": "image-space-05",
+      "type": "image",
+      "title": "环形星球的拥抱",
+      "description": "太空旅行主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+      "tags": [
+        "太空旅行",
+        "小狐狸",
+        "绘本",
+        "柔和",
+        "儿童",
+        "space",
+        "环形星球的拥抱"
+      ],
+      "theme": "space",
+      "path": "images/space-05.png",
+      "url": "/files/library/images/space-05.png",
+      "width": 1200,
+      "height": 900,
+      "source": "local_program_demo",
+      "alt": "环形星球的拥抱，小狐狸在太空旅行中和伙伴一起探索",
+      "en_description": "An orange fox wearing a teal scarf and a golden backpack explores the moon with a mint robot, rocket, planets and stars. Pastel children storybook illustration."
+    },
+    {
+      "id": "image-space-06",
+      "type": "image",
+      "title": "银河信使",
+      "description": "太空旅行主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+      "tags": [
+        "太空旅行",
+        "小狐狸",
+        "绘本",
+        "柔和",
+        "儿童",
+        "space",
+        "银河信使"
+      ],
+      "theme": "space",
+      "path": "images/space-06.png",
+      "url": "/files/library/images/space-06.png",
+      "width": 1200,
+      "height": 900,
+      "source": "local_program_demo",
+      "alt": "银河信使，小狐狸在太空旅行中和伙伴一起探索",
+      "en_description": "An orange fox wearing a teal scarf and a golden backpack explores the moon with a mint robot, rocket, planets and stars. Pastel children storybook illustration."
+    },
+    {
+      "id": "image-space-07",
+      "type": "image",
+      "title": "寻找温柔的光",
+      "description": "太空旅行主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+      "tags": [
+        "太空旅行",
+        "小狐狸",
+        "绘本",
+        "柔和",
+        "儿童",
+        "space",
+        "寻找温柔的光"
+      ],
+      "theme": "space",
+      "path": "images/space-07.png",
+      "url": "/files/library/images/space-07.png",
+      "width": 1200,
+      "height": 900,
+      "source": "local_program_demo",
+      "alt": "寻找温柔的光，小狐狸在太空旅行中和伙伴一起探索",
+      "en_description": "An orange fox wearing a teal scarf and a golden backpack explores the moon with a mint robot, rocket, planets and stars. Pastel children storybook illustration."
+    },
+    {
+      "id": "image-space-08",
+      "type": "image",
+      "title": "我们共享一片星空",
+      "description": "太空旅行主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+      "tags": [
+        "太空旅行",
+        "小狐狸",
+        "绘本",
+        "柔和",
+        "儿童",
+        "space",
+        "我们共享一片星空"
+      ],
+      "theme": "space",
+      "path": "images/space-08.png",
+      "url": "/files/library/images/space-08.png",
+      "width": 1200,
+      "height": 900,
+      "source": "local_program_demo",
+      "alt": "我们共享一片星空，小狐狸在太空旅行中和伙伴一起探索",
+      "en_description": "An orange fox wearing a teal scarf and a golden backpack explores the moon with a mint robot, rocket, planets and stars. Pastel children storybook illustration."
+    },
+    {
+      "id": "image-ocean-01",
+      "type": "image",
+      "title": "穿过蓝色的光",
+      "description": "海洋奇遇主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+      "tags": [
+        "海洋奇遇",
+        "小狐狸",
+        "绘本",
+        "柔和",
+        "儿童",
+        "ocean",
+        "穿过蓝色的光"
+      ],
+      "theme": "ocean",
+      "path": "images/ocean-01.png",
+      "url": "/files/library/images/ocean-01.png",
+      "width": 1200,
+      "height": 900,
+      "source": "local_program_demo",
+      "alt": "穿过蓝色的光，小狐狸在海洋奇遇中和伙伴一起探索",
+      "en_description": "An orange fox wearing a teal scarf and a golden backpack explores a blue ocean with a sea turtle, coral, fish and shells. Pastel children storybook illustration."
+    },
+    {
+      "id": "image-ocean-02",
+      "type": "image",
+      "title": "珊瑚花园的秘密",
+      "description": "海洋奇遇主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+      "tags": [
+        "海洋奇遇",
+        "小狐狸",
+        "绘本",
+        "柔和",
+        "儿童",
+        "ocean",
+        "珊瑚花园的秘密"
+      ],
+      "theme": "ocean",
+      "path": "images/ocean-02.png",
+      "url": "/files/library/images/ocean-02.png",
+      "width": 1200,
+      "height": 900,
+      "source": "local_program_demo",
+      "alt": "珊瑚花园的秘密，小狐狸在海洋奇遇中和伙伴一起探索",
+      "en_description": "An orange fox wearing a teal scarf and a golden backpack explores a blue ocean with a sea turtle, coral, fish and shells. Pastel children storybook illustration."
+    },
+    {
+      "id": "image-ocean-03",
+      "type": "image",
+      "title": "海龟米粒的地图",
+      "description": "海洋奇遇主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+      "tags": [
+        "海洋奇遇",
+        "小狐狸",
+        "绘本",
+        "柔和",
+        "儿童",
+        "ocean",
+        "海龟米粒的地图"
+      ],
+      "theme": "ocean",
+      "path": "images/ocean-03.png",
+      "url": "/files/library/images/ocean-03.png",
+      "width": 1200,
+      "height": 900,
+      "source": "local_program_demo",
+      "alt": "海龟米粒的地图，小狐狸在海洋奇遇中和伙伴一起探索",
+      "en_description": "An orange fox wearing a teal scarf and a golden backpack explores a blue ocean with a sea turtle, coral, fish and shells. Pastel children storybook illustration."
+    },
+    {
+      "id": "image-ocean-04",
+      "type": "image",
+      "title": "贝壳里的小愿望",
+      "description": "海洋奇遇主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+      "tags": [
+        "海洋奇遇",
+        "小狐狸",
+        "绘本",
+        "柔和",
+        "儿童",
+        "ocean",
+        "贝壳里的小愿望"
+      ],
+      "theme": "ocean",
+      "path": "images/ocean-04.png",
+      "url": "/files/library/images/ocean-04.png",
+      "width": 1200,
+      "height": 900,
+      "source": "local_program_demo",
+      "alt": "贝壳里的小愿望，小狐狸在海洋奇遇中和伙伴一起探索",
+      "en_description": "An orange fox wearing a teal scarf and a golden backpack explores a blue ocean with a sea turtle, coral, fish and shells. Pastel children storybook illustration."
+    },
+    {
+      "id": "image-ocean-05",
+      "type": "image",
+      "title": "水母灯下的舞会",
+      "description": "海洋奇遇主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+      "tags": [
+        "海洋奇遇",
+        "小狐狸",
+        "绘本",
+        "柔和",
+        "儿童",
+        "ocean",
+        "水母灯下的舞会"
+      ],
+      "theme": "ocean",
+      "path": "images/ocean-05.png",
+      "url": "/files/library/images/ocean-05.png",
+      "width": 1200,
+      "height": 900,
+      "source": "local_program_demo",
+      "alt": "水母灯下的舞会，小狐狸在海洋奇遇中和伙伴一起探索",
+      "en_description": "An orange fox wearing a teal scarf and a golden backpack explores a blue ocean with a sea turtle, coral, fish and shells. Pastel children storybook illustration."
+    },
+    {
+      "id": "image-ocean-06",
+      "type": "image",
+      "title": "勇敢的小小信使",
+      "description": "海洋奇遇主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+      "tags": [
+        "海洋奇遇",
+        "小狐狸",
+        "绘本",
+        "柔和",
+        "儿童",
+        "ocean",
+        "勇敢的小小信使"
+      ],
+      "theme": "ocean",
+      "path": "images/ocean-06.png",
+      "url": "/files/library/images/ocean-06.png",
+      "width": 1200,
+      "height": 900,
+      "source": "local_program_demo",
+      "alt": "勇敢的小小信使，小狐狸在海洋奇遇中和伙伴一起探索",
+      "en_description": "An orange fox wearing a teal scarf and a golden backpack explores a blue ocean with a sea turtle, coral, fish and shells. Pastel children storybook illustration."
+    },
+    {
+      "id": "image-ocean-07",
+      "type": "image",
+      "title": "潮汐带来的礼物",
+      "description": "海洋奇遇主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+      "tags": [
+        "海洋奇遇",
+        "小狐狸",
+        "绘本",
+        "柔和",
+        "儿童",
+        "ocean",
+        "潮汐带来的礼物"
+      ],
+      "theme": "ocean",
+      "path": "images/ocean-07.png",
+      "url": "/files/library/images/ocean-07.png",
+      "width": 1200,
+      "height": 900,
+      "source": "local_program_demo",
+      "alt": "潮汐带来的礼物，小狐狸在海洋奇遇中和伙伴一起探索",
+      "en_description": "An orange fox wearing a teal scarf and a golden backpack explores a blue ocean with a sea turtle, coral, fish and shells. Pastel children storybook illustration."
+    },
+    {
+      "id": "image-ocean-08",
+      "type": "image",
+      "title": "一起守护蓝色家园",
+      "description": "海洋奇遇主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+      "tags": [
+        "海洋奇遇",
+        "小狐狸",
+        "绘本",
+        "柔和",
+        "儿童",
+        "ocean",
+        "一起守护蓝色家园"
+      ],
+      "theme": "ocean",
+      "path": "images/ocean-08.png",
+      "url": "/files/library/images/ocean-08.png",
+      "width": 1200,
+      "height": 900,
+      "source": "local_program_demo",
+      "alt": "一起守护蓝色家园，小狐狸在海洋奇遇中和伙伴一起探索",
+      "en_description": "An orange fox wearing a teal scarf and a golden backpack explores a blue ocean with a sea turtle, coral, fish and shells. Pastel children storybook illustration."
+    },
+    {
+      "id": "template-forest-01",
+      "type": "template",
+      "title": "会发光的种子",
+      "description": "小栗和萤火虫米粒寻找一粒会发光的种子，发现它只在被认真照顾时亮起。",
+      "premise": "小栗和萤火虫米粒寻找一粒会发光的种子，发现它只在被认真照顾时亮起。",
+      "moral": "耐心照顾小生命，比急着看见结果更重要。",
+      "tags": [
+        "森林探险",
+        "自然",
+        "耐心",
+        "种子",
+        "成长",
+        "故事模板",
+        "forest"
+      ],
+      "theme": "forest",
+      "path": "templates/template-forest-01.json",
+      "url": "/files/library/templates/template-forest-01.json",
+      "age_range": "4–9 岁",
+      "scene_count": 6,
+      "outline": [
+        {
+          "title": "口袋里的小愿望",
+          "text": "小栗和萤火虫米粒寻找一粒会发光的种子，发现它只在被认真照顾时亮起。 这是第 1 幕：口袋里的小愿望。以小栗和米粒的行动、感受和对话推动情节，结尾回应“耐心照顾小生命，比急着看见结果更重要。”。",
+          "visual_prompt": "森林探险，晨光中的小木屋，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "好奇"
+        },
+        {
+          "title": "和伙伴一起出发",
+          "text": "小栗和萤火虫米粒寻找一粒会发光的种子，发现它只在被认真照顾时亮起。 这是第 2 幕：和伙伴一起出发。以小栗和米粒的行动、感受和对话推动情节，结尾回应“耐心照顾小生命，比急着看见结果更重要。”。",
+          "visual_prompt": "森林探险，苔藓桥上的约定，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "期待"
+        },
+        {
+          "title": "一个意想不到的困难",
+          "text": "小栗和萤火虫米粒寻找一粒会发光的种子，发现它只在被认真照顾时亮起。 这是第 3 幕：一个意想不到的困难。以小栗和米粒的行动、感受和对话推动情节，结尾回应“耐心照顾小生命，比急着看见结果更重要。”。",
+          "visual_prompt": "森林探险，蘑菇邮局的来信，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "紧张"
+        },
+        {
+          "title": "停下来，认真想一想",
+          "text": "小栗和萤火虫米粒寻找一粒会发光的种子，发现它只在被认真照顾时亮起。 这是第 4 幕：停下来，认真想一想。以小栗和米粒的行动、感受和对话推动情节，结尾回应“耐心照顾小生命，比急着看见结果更重要。”。",
+          "visual_prompt": "森林探险，会发光的勇气，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "安静"
+        },
+        {
+          "title": "一起试试新的办法",
+          "text": "小栗和萤火虫米粒寻找一粒会发光的种子，发现它只在被认真照顾时亮起。 这是第 5 幕：一起试试新的办法。以小栗和米粒的行动、感受和对话推动情节，结尾回应“耐心照顾小生命，比急着看见结果更重要。”。",
+          "visual_prompt": "森林探险，风铃树下的朋友，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "勇敢"
+        },
+        {
+          "title": "把发现带回家",
+          "text": "小栗和萤火虫米粒寻找一粒会发光的种子，发现它只在被认真照顾时亮起。 这是第 6 幕：把发现带回家。以小栗和米粒的行动、感受和对话推动情节，结尾回应“耐心照顾小生命，比急着看见结果更重要。”。",
+          "visual_prompt": "森林探险，口袋里的种子，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "温暖"
+        }
+      ],
+      "characters": [
+        {
+          "name": "小栗",
+          "role": "protagonist",
+          "appearance": "暖橘色小狐狸、奶油白脸颊和尾尖、青绿色围巾、金色小背包"
+        },
+        {
+          "name": "米粒",
+          "role": "companion",
+          "appearance": "一只温柔的小萤火虫"
+        }
+      ],
+      "source": "local_story_template",
+      "cover_url": "/files/library/images/forest-01.png"
+    },
+    {
+      "id": "template-forest-02",
+      "type": "template",
+      "title": "蘑菇邮局的一封信",
+      "description": "一封被雨打湿的信没有写地址。小栗跟着森林里的声音，替它找到等待的朋友。",
+      "premise": "一封被雨打湿的信没有写地址。小栗跟着森林里的声音，替它找到等待的朋友。",
+      "moral": "认真倾听，能找到被忽略的需要。",
+      "tags": [
+        "森林探险",
+        "友谊",
+        "倾听",
+        "助人",
+        "邮局",
+        "故事模板",
+        "forest"
+      ],
+      "theme": "forest",
+      "path": "templates/template-forest-02.json",
+      "url": "/files/library/templates/template-forest-02.json",
+      "age_range": "4–9 岁",
+      "scene_count": 6,
+      "outline": [
+        {
+          "title": "口袋里的小愿望",
+          "text": "一封被雨打湿的信没有写地址。小栗跟着森林里的声音，替它找到等待的朋友。 这是第 1 幕：口袋里的小愿望。以小栗和米粒的行动、感受和对话推动情节，结尾回应“认真倾听，能找到被忽略的需要。”。",
+          "visual_prompt": "森林探险，晨光中的小木屋，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "好奇"
+        },
+        {
+          "title": "和伙伴一起出发",
+          "text": "一封被雨打湿的信没有写地址。小栗跟着森林里的声音，替它找到等待的朋友。 这是第 2 幕：和伙伴一起出发。以小栗和米粒的行动、感受和对话推动情节，结尾回应“认真倾听，能找到被忽略的需要。”。",
+          "visual_prompt": "森林探险，苔藓桥上的约定，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "期待"
+        },
+        {
+          "title": "一个意想不到的困难",
+          "text": "一封被雨打湿的信没有写地址。小栗跟着森林里的声音，替它找到等待的朋友。 这是第 3 幕：一个意想不到的困难。以小栗和米粒的行动、感受和对话推动情节，结尾回应“认真倾听，能找到被忽略的需要。”。",
+          "visual_prompt": "森林探险，蘑菇邮局的来信，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "紧张"
+        },
+        {
+          "title": "停下来，认真想一想",
+          "text": "一封被雨打湿的信没有写地址。小栗跟着森林里的声音，替它找到等待的朋友。 这是第 4 幕：停下来，认真想一想。以小栗和米粒的行动、感受和对话推动情节，结尾回应“认真倾听，能找到被忽略的需要。”。",
+          "visual_prompt": "森林探险，会发光的勇气，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "安静"
+        },
+        {
+          "title": "一起试试新的办法",
+          "text": "一封被雨打湿的信没有写地址。小栗跟着森林里的声音，替它找到等待的朋友。 这是第 5 幕：一起试试新的办法。以小栗和米粒的行动、感受和对话推动情节，结尾回应“认真倾听，能找到被忽略的需要。”。",
+          "visual_prompt": "森林探险，风铃树下的朋友，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "勇敢"
+        },
+        {
+          "title": "把发现带回家",
+          "text": "一封被雨打湿的信没有写地址。小栗跟着森林里的声音，替它找到等待的朋友。 这是第 6 幕：把发现带回家。以小栗和米粒的行动、感受和对话推动情节，结尾回应“认真倾听，能找到被忽略的需要。”。",
+          "visual_prompt": "森林探险，口袋里的种子，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "温暖"
+        }
+      ],
+      "characters": [
+        {
+          "name": "小栗",
+          "role": "protagonist",
+          "appearance": "暖橘色小狐狸、奶油白脸颊和尾尖、青绿色围巾、金色小背包"
+        },
+        {
+          "name": "米粒",
+          "role": "companion",
+          "appearance": "一只温柔的小萤火虫"
+        }
+      ],
+      "source": "local_story_template",
+      "cover_url": "/files/library/images/forest-02.png"
+    },
+    {
+      "id": "template-forest-03",
+      "type": "template",
+      "title": "胆小的风也要出发",
+      "description": "小栗不敢独自穿过苔藓桥，米粒陪他把大困难拆成一步一步的小目标。",
+      "premise": "小栗不敢独自穿过苔藓桥，米粒陪他把大困难拆成一步一步的小目标。",
+      "moral": "勇敢可以很小，也可以和朋友一起练习。",
+      "tags": [
+        "森林探险",
+        "勇气",
+        "情绪",
+        "桥",
+        "合作",
+        "故事模板",
+        "forest"
+      ],
+      "theme": "forest",
+      "path": "templates/template-forest-03.json",
+      "url": "/files/library/templates/template-forest-03.json",
+      "age_range": "4–9 岁",
+      "scene_count": 6,
+      "outline": [
+        {
+          "title": "口袋里的小愿望",
+          "text": "小栗不敢独自穿过苔藓桥，米粒陪他把大困难拆成一步一步的小目标。 这是第 1 幕：口袋里的小愿望。以小栗和米粒的行动、感受和对话推动情节，结尾回应“勇敢可以很小，也可以和朋友一起练习。”。",
+          "visual_prompt": "森林探险，晨光中的小木屋，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "好奇"
+        },
+        {
+          "title": "和伙伴一起出发",
+          "text": "小栗不敢独自穿过苔藓桥，米粒陪他把大困难拆成一步一步的小目标。 这是第 2 幕：和伙伴一起出发。以小栗和米粒的行动、感受和对话推动情节，结尾回应“勇敢可以很小，也可以和朋友一起练习。”。",
+          "visual_prompt": "森林探险，苔藓桥上的约定，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "期待"
+        },
+        {
+          "title": "一个意想不到的困难",
+          "text": "小栗不敢独自穿过苔藓桥，米粒陪他把大困难拆成一步一步的小目标。 这是第 3 幕：一个意想不到的困难。以小栗和米粒的行动、感受和对话推动情节，结尾回应“勇敢可以很小，也可以和朋友一起练习。”。",
+          "visual_prompt": "森林探险，蘑菇邮局的来信，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "紧张"
+        },
+        {
+          "title": "停下来，认真想一想",
+          "text": "小栗不敢独自穿过苔藓桥，米粒陪他把大困难拆成一步一步的小目标。 这是第 4 幕：停下来，认真想一想。以小栗和米粒的行动、感受和对话推动情节，结尾回应“勇敢可以很小，也可以和朋友一起练习。”。",
+          "visual_prompt": "森林探险，会发光的勇气，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "安静"
+        },
+        {
+          "title": "一起试试新的办法",
+          "text": "小栗不敢独自穿过苔藓桥，米粒陪他把大困难拆成一步一步的小目标。 这是第 5 幕：一起试试新的办法。以小栗和米粒的行动、感受和对话推动情节，结尾回应“勇敢可以很小，也可以和朋友一起练习。”。",
+          "visual_prompt": "森林探险，风铃树下的朋友，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "勇敢"
+        },
+        {
+          "title": "把发现带回家",
+          "text": "小栗不敢独自穿过苔藓桥，米粒陪他把大困难拆成一步一步的小目标。 这是第 6 幕：把发现带回家。以小栗和米粒的行动、感受和对话推动情节，结尾回应“勇敢可以很小，也可以和朋友一起练习。”。",
+          "visual_prompt": "森林探险，口袋里的种子，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "温暖"
+        }
+      ],
+      "characters": [
+        {
+          "name": "小栗",
+          "role": "protagonist",
+          "appearance": "暖橘色小狐狸、奶油白脸颊和尾尖、青绿色围巾、金色小背包"
+        },
+        {
+          "name": "米粒",
+          "role": "companion",
+          "appearance": "一只温柔的小萤火虫"
+        }
+      ],
+      "source": "local_story_template",
+      "cover_url": "/files/library/images/forest-03.png"
+    },
+    {
+      "id": "template-forest-04",
+      "type": "template",
+      "title": "把星光送回家",
+      "description": "森林停电了，小栗召集朋友，用自己的微光为迷路的猫头鹰照亮回家的路。",
+      "premise": "森林停电了，小栗召集朋友，用自己的微光为迷路的猫头鹰照亮回家的路。",
+      "moral": "每个人的一点点力量，都能照亮别人。",
+      "tags": [
+        "森林探险",
+        "合作",
+        "分享",
+        "星光",
+        "归家",
+        "故事模板",
+        "forest"
+      ],
+      "theme": "forest",
+      "path": "templates/template-forest-04.json",
+      "url": "/files/library/templates/template-forest-04.json",
+      "age_range": "4–9 岁",
+      "scene_count": 6,
+      "outline": [
+        {
+          "title": "口袋里的小愿望",
+          "text": "森林停电了，小栗召集朋友，用自己的微光为迷路的猫头鹰照亮回家的路。 这是第 1 幕：口袋里的小愿望。以小栗和米粒的行动、感受和对话推动情节，结尾回应“每个人的一点点力量，都能照亮别人。”。",
+          "visual_prompt": "森林探险，晨光中的小木屋，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "好奇"
+        },
+        {
+          "title": "和伙伴一起出发",
+          "text": "森林停电了，小栗召集朋友，用自己的微光为迷路的猫头鹰照亮回家的路。 这是第 2 幕：和伙伴一起出发。以小栗和米粒的行动、感受和对话推动情节，结尾回应“每个人的一点点力量，都能照亮别人。”。",
+          "visual_prompt": "森林探险，苔藓桥上的约定，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "期待"
+        },
+        {
+          "title": "一个意想不到的困难",
+          "text": "森林停电了，小栗召集朋友，用自己的微光为迷路的猫头鹰照亮回家的路。 这是第 3 幕：一个意想不到的困难。以小栗和米粒的行动、感受和对话推动情节，结尾回应“每个人的一点点力量，都能照亮别人。”。",
+          "visual_prompt": "森林探险，蘑菇邮局的来信，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "紧张"
+        },
+        {
+          "title": "停下来，认真想一想",
+          "text": "森林停电了，小栗召集朋友，用自己的微光为迷路的猫头鹰照亮回家的路。 这是第 4 幕：停下来，认真想一想。以小栗和米粒的行动、感受和对话推动情节，结尾回应“每个人的一点点力量，都能照亮别人。”。",
+          "visual_prompt": "森林探险，会发光的勇气，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "安静"
+        },
+        {
+          "title": "一起试试新的办法",
+          "text": "森林停电了，小栗召集朋友，用自己的微光为迷路的猫头鹰照亮回家的路。 这是第 5 幕：一起试试新的办法。以小栗和米粒的行动、感受和对话推动情节，结尾回应“每个人的一点点力量，都能照亮别人。”。",
+          "visual_prompt": "森林探险，风铃树下的朋友，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "勇敢"
+        },
+        {
+          "title": "把发现带回家",
+          "text": "森林停电了，小栗召集朋友，用自己的微光为迷路的猫头鹰照亮回家的路。 这是第 6 幕：把发现带回家。以小栗和米粒的行动、感受和对话推动情节，结尾回应“每个人的一点点力量，都能照亮别人。”。",
+          "visual_prompt": "森林探险，口袋里的种子，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "温暖"
+        }
+      ],
+      "characters": [
+        {
+          "name": "小栗",
+          "role": "protagonist",
+          "appearance": "暖橘色小狐狸、奶油白脸颊和尾尖、青绿色围巾、金色小背包"
+        },
+        {
+          "name": "米粒",
+          "role": "companion",
+          "appearance": "一只温柔的小萤火虫"
+        }
+      ],
+      "source": "local_story_template",
+      "cover_url": "/files/library/images/forest-04.png"
+    },
+    {
+      "id": "template-space-01",
+      "type": "template",
+      "title": "月亮忘记了晚安",
+      "description": "月亮没有收到地球的晚安信，小栗和机器人米粒乘纸火箭，修好一条失灵的星际邮路。",
+      "premise": "月亮没有收到地球的晚安信，小栗和机器人米粒乘纸火箭，修好一条失灵的星际邮路。",
+      "moral": "表达关心，让遥远的朋友也感到温暖。",
+      "tags": [
+        "太空旅行",
+        "月亮",
+        "表达",
+        "火箭",
+        "友谊",
+        "故事模板",
+        "space"
+      ],
+      "theme": "space",
+      "path": "templates/template-space-01.json",
+      "url": "/files/library/templates/template-space-01.json",
+      "age_range": "4–9 岁",
+      "scene_count": 6,
+      "outline": [
+        {
+          "title": "口袋里的小愿望",
+          "text": "月亮没有收到地球的晚安信，小栗和机器人米粒乘纸火箭，修好一条失灵的星际邮路。 这是第 1 幕：口袋里的小愿望。以小栗和米粒的行动、感受和对话推动情节，结尾回应“表达关心，让遥远的朋友也感到温暖。”。",
+          "visual_prompt": "太空旅行，装满好奇的火箭，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "好奇"
+        },
+        {
+          "title": "和伙伴一起出发",
+          "text": "月亮没有收到地球的晚安信，小栗和机器人米粒乘纸火箭，修好一条失灵的星际邮路。 这是第 2 幕：和伙伴一起出发。以小栗和米粒的行动、感受和对话推动情节，结尾回应“表达关心，让遥远的朋友也感到温暖。”。",
+          "visual_prompt": "太空旅行，月亮上的第一枚脚印，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "期待"
+        },
+        {
+          "title": "一个意想不到的困难",
+          "text": "月亮没有收到地球的晚安信，小栗和机器人米粒乘纸火箭，修好一条失灵的星际邮路。 这是第 3 幕：一个意想不到的困难。以小栗和米粒的行动、感受和对话推动情节，结尾回应“表达关心，让遥远的朋友也感到温暖。”。",
+          "visual_prompt": "太空旅行，星星修理铺，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "紧张"
+        },
+        {
+          "title": "停下来，认真想一想",
+          "text": "月亮没有收到地球的晚安信，小栗和机器人米粒乘纸火箭，修好一条失灵的星际邮路。 这是第 4 幕：停下来，认真想一想。以小栗和米粒的行动、感受和对话推动情节，结尾回应“表达关心，让遥远的朋友也感到温暖。”。",
+          "visual_prompt": "太空旅行，机器人也会想家，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "安静"
+        },
+        {
+          "title": "一起试试新的办法",
+          "text": "月亮没有收到地球的晚安信，小栗和机器人米粒乘纸火箭，修好一条失灵的星际邮路。 这是第 5 幕：一起试试新的办法。以小栗和米粒的行动、感受和对话推动情节，结尾回应“表达关心，让遥远的朋友也感到温暖。”。",
+          "visual_prompt": "太空旅行，环形星球的拥抱，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "勇敢"
+        },
+        {
+          "title": "把发现带回家",
+          "text": "月亮没有收到地球的晚安信，小栗和机器人米粒乘纸火箭，修好一条失灵的星际邮路。 这是第 6 幕：把发现带回家。以小栗和米粒的行动、感受和对话推动情节，结尾回应“表达关心，让遥远的朋友也感到温暖。”。",
+          "visual_prompt": "太空旅行，银河信使，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "温暖"
+        }
+      ],
+      "characters": [
+        {
+          "name": "小栗",
+          "role": "protagonist",
+          "appearance": "暖橘色小狐狸、奶油白脸颊和尾尖、青绿色围巾、金色小背包"
+        },
+        {
+          "name": "米粒",
+          "role": "companion",
+          "appearance": "有发光心形灯的薄荷绿机器人"
+        }
+      ],
+      "source": "local_story_template",
+      "cover_url": "/files/library/images/space-01.png"
+    },
+    {
+      "id": "template-space-02",
+      "type": "template",
+      "title": "星星修理铺",
+      "description": "小栗发现一颗忽明忽暗的星星。它并没有坏，只是需要有人听完它的小烦恼。",
+      "premise": "小栗发现一颗忽明忽暗的星星。它并没有坏，只是需要有人听完它的小烦恼。",
+      "moral": "难过时，可以说出来，也可以被认真倾听。",
+      "tags": [
+        "太空旅行",
+        "星星",
+        "情绪",
+        "倾听",
+        "同理心",
+        "故事模板",
+        "space"
+      ],
+      "theme": "space",
+      "path": "templates/template-space-02.json",
+      "url": "/files/library/templates/template-space-02.json",
+      "age_range": "4–9 岁",
+      "scene_count": 6,
+      "outline": [
+        {
+          "title": "口袋里的小愿望",
+          "text": "小栗发现一颗忽明忽暗的星星。它并没有坏，只是需要有人听完它的小烦恼。 这是第 1 幕：口袋里的小愿望。以小栗和米粒的行动、感受和对话推动情节，结尾回应“难过时，可以说出来，也可以被认真倾听。”。",
+          "visual_prompt": "太空旅行，装满好奇的火箭，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "好奇"
+        },
+        {
+          "title": "和伙伴一起出发",
+          "text": "小栗发现一颗忽明忽暗的星星。它并没有坏，只是需要有人听完它的小烦恼。 这是第 2 幕：和伙伴一起出发。以小栗和米粒的行动、感受和对话推动情节，结尾回应“难过时，可以说出来，也可以被认真倾听。”。",
+          "visual_prompt": "太空旅行，月亮上的第一枚脚印，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "期待"
+        },
+        {
+          "title": "一个意想不到的困难",
+          "text": "小栗发现一颗忽明忽暗的星星。它并没有坏，只是需要有人听完它的小烦恼。 这是第 3 幕：一个意想不到的困难。以小栗和米粒的行动、感受和对话推动情节，结尾回应“难过时，可以说出来，也可以被认真倾听。”。",
+          "visual_prompt": "太空旅行，星星修理铺，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "紧张"
+        },
+        {
+          "title": "停下来，认真想一想",
+          "text": "小栗发现一颗忽明忽暗的星星。它并没有坏，只是需要有人听完它的小烦恼。 这是第 4 幕：停下来，认真想一想。以小栗和米粒的行动、感受和对话推动情节，结尾回应“难过时，可以说出来，也可以被认真倾听。”。",
+          "visual_prompt": "太空旅行，机器人也会想家，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "安静"
+        },
+        {
+          "title": "一起试试新的办法",
+          "text": "小栗发现一颗忽明忽暗的星星。它并没有坏，只是需要有人听完它的小烦恼。 这是第 5 幕：一起试试新的办法。以小栗和米粒的行动、感受和对话推动情节，结尾回应“难过时，可以说出来，也可以被认真倾听。”。",
+          "visual_prompt": "太空旅行，环形星球的拥抱，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "勇敢"
+        },
+        {
+          "title": "把发现带回家",
+          "text": "小栗发现一颗忽明忽暗的星星。它并没有坏，只是需要有人听完它的小烦恼。 这是第 6 幕：把发现带回家。以小栗和米粒的行动、感受和对话推动情节，结尾回应“难过时，可以说出来，也可以被认真倾听。”。",
+          "visual_prompt": "太空旅行，银河信使，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "温暖"
+        }
+      ],
+      "characters": [
+        {
+          "name": "小栗",
+          "role": "protagonist",
+          "appearance": "暖橘色小狐狸、奶油白脸颊和尾尖、青绿色围巾、金色小背包"
+        },
+        {
+          "name": "米粒",
+          "role": "companion",
+          "appearance": "有发光心形灯的薄荷绿机器人"
+        }
+      ],
+      "source": "local_story_template",
+      "cover_url": "/files/library/images/space-02.png"
+    },
+    {
+      "id": "template-space-03",
+      "type": "template",
+      "title": "机器人米粒的新朋友",
+      "description": "米粒误把陨石当成礼物，小栗和星际向导一起认识不同星球的生活习惯。",
+      "premise": "米粒误把陨石当成礼物，小栗和星际向导一起认识不同星球的生活习惯。",
+      "moral": "不同的想法，也值得被理解和尊重。",
+      "tags": [
+        "太空旅行",
+        "机器人",
+        "尊重",
+        "差异",
+        "科学",
+        "故事模板",
+        "space"
+      ],
+      "theme": "space",
+      "path": "templates/template-space-03.json",
+      "url": "/files/library/templates/template-space-03.json",
+      "age_range": "4–9 岁",
+      "scene_count": 6,
+      "outline": [
+        {
+          "title": "口袋里的小愿望",
+          "text": "米粒误把陨石当成礼物，小栗和星际向导一起认识不同星球的生活习惯。 这是第 1 幕：口袋里的小愿望。以小栗和米粒的行动、感受和对话推动情节，结尾回应“不同的想法，也值得被理解和尊重。”。",
+          "visual_prompt": "太空旅行，装满好奇的火箭，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "好奇"
+        },
+        {
+          "title": "和伙伴一起出发",
+          "text": "米粒误把陨石当成礼物，小栗和星际向导一起认识不同星球的生活习惯。 这是第 2 幕：和伙伴一起出发。以小栗和米粒的行动、感受和对话推动情节，结尾回应“不同的想法，也值得被理解和尊重。”。",
+          "visual_prompt": "太空旅行，月亮上的第一枚脚印，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "期待"
+        },
+        {
+          "title": "一个意想不到的困难",
+          "text": "米粒误把陨石当成礼物，小栗和星际向导一起认识不同星球的生活习惯。 这是第 3 幕：一个意想不到的困难。以小栗和米粒的行动、感受和对话推动情节，结尾回应“不同的想法，也值得被理解和尊重。”。",
+          "visual_prompt": "太空旅行，星星修理铺，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "紧张"
+        },
+        {
+          "title": "停下来，认真想一想",
+          "text": "米粒误把陨石当成礼物，小栗和星际向导一起认识不同星球的生活习惯。 这是第 4 幕：停下来，认真想一想。以小栗和米粒的行动、感受和对话推动情节，结尾回应“不同的想法，也值得被理解和尊重。”。",
+          "visual_prompt": "太空旅行，机器人也会想家，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "安静"
+        },
+        {
+          "title": "一起试试新的办法",
+          "text": "米粒误把陨石当成礼物，小栗和星际向导一起认识不同星球的生活习惯。 这是第 5 幕：一起试试新的办法。以小栗和米粒的行动、感受和对话推动情节，结尾回应“不同的想法，也值得被理解和尊重。”。",
+          "visual_prompt": "太空旅行，环形星球的拥抱，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "勇敢"
+        },
+        {
+          "title": "把发现带回家",
+          "text": "米粒误把陨石当成礼物，小栗和星际向导一起认识不同星球的生活习惯。 这是第 6 幕：把发现带回家。以小栗和米粒的行动、感受和对话推动情节，结尾回应“不同的想法，也值得被理解和尊重。”。",
+          "visual_prompt": "太空旅行，银河信使，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "温暖"
+        }
+      ],
+      "characters": [
+        {
+          "name": "小栗",
+          "role": "protagonist",
+          "appearance": "暖橘色小狐狸、奶油白脸颊和尾尖、青绿色围巾、金色小背包"
+        },
+        {
+          "name": "米粒",
+          "role": "companion",
+          "appearance": "有发光心形灯的薄荷绿机器人"
+        }
+      ],
+      "source": "local_story_template",
+      "cover_url": "/files/library/images/space-03.png"
+    },
+    {
+      "id": "template-space-04",
+      "type": "template",
+      "title": "一口袋银河尘",
+      "description": "为了给家人带回一条银河，小栗收集星尘，却发现最好的纪念是一起经历的故事。",
+      "premise": "为了给家人带回一条银河，小栗收集星尘，却发现最好的纪念是一起经历的故事。",
+      "moral": "珍贵的记忆，来自陪伴和经历。",
+      "tags": [
+        "太空旅行",
+        "银河",
+        "亲情",
+        "陪伴",
+        "探索",
+        "故事模板",
+        "space"
+      ],
+      "theme": "space",
+      "path": "templates/template-space-04.json",
+      "url": "/files/library/templates/template-space-04.json",
+      "age_range": "4–9 岁",
+      "scene_count": 6,
+      "outline": [
+        {
+          "title": "口袋里的小愿望",
+          "text": "为了给家人带回一条银河，小栗收集星尘，却发现最好的纪念是一起经历的故事。 这是第 1 幕：口袋里的小愿望。以小栗和米粒的行动、感受和对话推动情节，结尾回应“珍贵的记忆，来自陪伴和经历。”。",
+          "visual_prompt": "太空旅行，装满好奇的火箭，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "好奇"
+        },
+        {
+          "title": "和伙伴一起出发",
+          "text": "为了给家人带回一条银河，小栗收集星尘，却发现最好的纪念是一起经历的故事。 这是第 2 幕：和伙伴一起出发。以小栗和米粒的行动、感受和对话推动情节，结尾回应“珍贵的记忆，来自陪伴和经历。”。",
+          "visual_prompt": "太空旅行，月亮上的第一枚脚印，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "期待"
+        },
+        {
+          "title": "一个意想不到的困难",
+          "text": "为了给家人带回一条银河，小栗收集星尘，却发现最好的纪念是一起经历的故事。 这是第 3 幕：一个意想不到的困难。以小栗和米粒的行动、感受和对话推动情节，结尾回应“珍贵的记忆，来自陪伴和经历。”。",
+          "visual_prompt": "太空旅行，星星修理铺，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "紧张"
+        },
+        {
+          "title": "停下来，认真想一想",
+          "text": "为了给家人带回一条银河，小栗收集星尘，却发现最好的纪念是一起经历的故事。 这是第 4 幕：停下来，认真想一想。以小栗和米粒的行动、感受和对话推动情节，结尾回应“珍贵的记忆，来自陪伴和经历。”。",
+          "visual_prompt": "太空旅行，机器人也会想家，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "安静"
+        },
+        {
+          "title": "一起试试新的办法",
+          "text": "为了给家人带回一条银河，小栗收集星尘，却发现最好的纪念是一起经历的故事。 这是第 5 幕：一起试试新的办法。以小栗和米粒的行动、感受和对话推动情节，结尾回应“珍贵的记忆，来自陪伴和经历。”。",
+          "visual_prompt": "太空旅行，环形星球的拥抱，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "勇敢"
+        },
+        {
+          "title": "把发现带回家",
+          "text": "为了给家人带回一条银河，小栗收集星尘，却发现最好的纪念是一起经历的故事。 这是第 6 幕：把发现带回家。以小栗和米粒的行动、感受和对话推动情节，结尾回应“珍贵的记忆，来自陪伴和经历。”。",
+          "visual_prompt": "太空旅行，银河信使，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "温暖"
+        }
+      ],
+      "characters": [
+        {
+          "name": "小栗",
+          "role": "protagonist",
+          "appearance": "暖橘色小狐狸、奶油白脸颊和尾尖、青绿色围巾、金色小背包"
+        },
+        {
+          "name": "米粒",
+          "role": "companion",
+          "appearance": "有发光心形灯的薄荷绿机器人"
+        }
+      ],
+      "source": "local_story_template",
+      "cover_url": "/files/library/images/space-04.png"
+    },
+    {
+      "id": "template-ocean-01",
+      "type": "template",
+      "title": "会唱歌的贝壳",
+      "description": "小栗和海龟米粒寻找贝壳歌声的来源，发现是老鲸鱼在给海洋的新生命唱摇篮曲。",
+      "premise": "小栗和海龟米粒寻找贝壳歌声的来源，发现是老鲸鱼在给海洋的新生命唱摇篮曲。",
+      "moral": "安静地观察，会听见世界细小的美好。",
+      "tags": [
+        "海洋奇遇",
+        "贝壳",
+        "鲸鱼",
+        "声音",
+        "观察",
+        "故事模板",
+        "ocean"
+      ],
+      "theme": "ocean",
+      "path": "templates/template-ocean-01.json",
+      "url": "/files/library/templates/template-ocean-01.json",
+      "age_range": "4–9 岁",
+      "scene_count": 6,
+      "outline": [
+        {
+          "title": "口袋里的小愿望",
+          "text": "小栗和海龟米粒寻找贝壳歌声的来源，发现是老鲸鱼在给海洋的新生命唱摇篮曲。 这是第 1 幕：口袋里的小愿望。以小栗和米粒的行动、感受和对话推动情节，结尾回应“安静地观察，会听见世界细小的美好。”。",
+          "visual_prompt": "海洋奇遇，穿过蓝色的光，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "好奇"
+        },
+        {
+          "title": "和伙伴一起出发",
+          "text": "小栗和海龟米粒寻找贝壳歌声的来源，发现是老鲸鱼在给海洋的新生命唱摇篮曲。 这是第 2 幕：和伙伴一起出发。以小栗和米粒的行动、感受和对话推动情节，结尾回应“安静地观察，会听见世界细小的美好。”。",
+          "visual_prompt": "海洋奇遇，珊瑚花园的秘密，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "期待"
+        },
+        {
+          "title": "一个意想不到的困难",
+          "text": "小栗和海龟米粒寻找贝壳歌声的来源，发现是老鲸鱼在给海洋的新生命唱摇篮曲。 这是第 3 幕：一个意想不到的困难。以小栗和米粒的行动、感受和对话推动情节，结尾回应“安静地观察，会听见世界细小的美好。”。",
+          "visual_prompt": "海洋奇遇，海龟米粒的地图，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "紧张"
+        },
+        {
+          "title": "停下来，认真想一想",
+          "text": "小栗和海龟米粒寻找贝壳歌声的来源，发现是老鲸鱼在给海洋的新生命唱摇篮曲。 这是第 4 幕：停下来，认真想一想。以小栗和米粒的行动、感受和对话推动情节，结尾回应“安静地观察，会听见世界细小的美好。”。",
+          "visual_prompt": "海洋奇遇，贝壳里的小愿望，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "安静"
+        },
+        {
+          "title": "一起试试新的办法",
+          "text": "小栗和海龟米粒寻找贝壳歌声的来源，发现是老鲸鱼在给海洋的新生命唱摇篮曲。 这是第 5 幕：一起试试新的办法。以小栗和米粒的行动、感受和对话推动情节，结尾回应“安静地观察，会听见世界细小的美好。”。",
+          "visual_prompt": "海洋奇遇，水母灯下的舞会，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "勇敢"
+        },
+        {
+          "title": "把发现带回家",
+          "text": "小栗和海龟米粒寻找贝壳歌声的来源，发现是老鲸鱼在给海洋的新生命唱摇篮曲。 这是第 6 幕：把发现带回家。以小栗和米粒的行动、感受和对话推动情节，结尾回应“安静地观察，会听见世界细小的美好。”。",
+          "visual_prompt": "海洋奇遇，勇敢的小小信使，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "温暖"
+        }
+      ],
+      "characters": [
+        {
+          "name": "小栗",
+          "role": "protagonist",
+          "appearance": "暖橘色小狐狸、奶油白脸颊和尾尖、青绿色围巾、金色小背包"
+        },
+        {
+          "name": "米粒",
+          "role": "companion",
+          "appearance": "戴着海草小围巾的海龟"
+        }
+      ],
+      "source": "local_story_template",
+      "cover_url": "/files/library/images/ocean-01.png"
+    },
+    {
+      "id": "template-ocean-02",
+      "type": "template",
+      "title": "珊瑚花园的颜色",
+      "description": "珊瑚花园失去了颜色，小栗和海洋朋友从捡起一小片垃圾开始，一起让家园恢复生机。",
+      "premise": "珊瑚花园失去了颜色，小栗和海洋朋友从捡起一小片垃圾开始，一起让家园恢复生机。",
+      "moral": "保护环境，可以从身边的一件小事开始。",
+      "tags": [
+        "海洋奇遇",
+        "珊瑚",
+        "环保",
+        "家园",
+        "合作",
+        "故事模板",
+        "ocean"
+      ],
+      "theme": "ocean",
+      "path": "templates/template-ocean-02.json",
+      "url": "/files/library/templates/template-ocean-02.json",
+      "age_range": "4–9 岁",
+      "scene_count": 6,
+      "outline": [
+        {
+          "title": "口袋里的小愿望",
+          "text": "珊瑚花园失去了颜色，小栗和海洋朋友从捡起一小片垃圾开始，一起让家园恢复生机。 这是第 1 幕：口袋里的小愿望。以小栗和米粒的行动、感受和对话推动情节，结尾回应“保护环境，可以从身边的一件小事开始。”。",
+          "visual_prompt": "海洋奇遇，穿过蓝色的光，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "好奇"
+        },
+        {
+          "title": "和伙伴一起出发",
+          "text": "珊瑚花园失去了颜色，小栗和海洋朋友从捡起一小片垃圾开始，一起让家园恢复生机。 这是第 2 幕：和伙伴一起出发。以小栗和米粒的行动、感受和对话推动情节，结尾回应“保护环境，可以从身边的一件小事开始。”。",
+          "visual_prompt": "海洋奇遇，珊瑚花园的秘密，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "期待"
+        },
+        {
+          "title": "一个意想不到的困难",
+          "text": "珊瑚花园失去了颜色，小栗和海洋朋友从捡起一小片垃圾开始，一起让家园恢复生机。 这是第 3 幕：一个意想不到的困难。以小栗和米粒的行动、感受和对话推动情节，结尾回应“保护环境，可以从身边的一件小事开始。”。",
+          "visual_prompt": "海洋奇遇，海龟米粒的地图，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "紧张"
+        },
+        {
+          "title": "停下来，认真想一想",
+          "text": "珊瑚花园失去了颜色，小栗和海洋朋友从捡起一小片垃圾开始，一起让家园恢复生机。 这是第 4 幕：停下来，认真想一想。以小栗和米粒的行动、感受和对话推动情节，结尾回应“保护环境，可以从身边的一件小事开始。”。",
+          "visual_prompt": "海洋奇遇，贝壳里的小愿望，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "安静"
+        },
+        {
+          "title": "一起试试新的办法",
+          "text": "珊瑚花园失去了颜色，小栗和海洋朋友从捡起一小片垃圾开始，一起让家园恢复生机。 这是第 5 幕：一起试试新的办法。以小栗和米粒的行动、感受和对话推动情节，结尾回应“保护环境，可以从身边的一件小事开始。”。",
+          "visual_prompt": "海洋奇遇，水母灯下的舞会，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "勇敢"
+        },
+        {
+          "title": "把发现带回家",
+          "text": "珊瑚花园失去了颜色，小栗和海洋朋友从捡起一小片垃圾开始，一起让家园恢复生机。 这是第 6 幕：把发现带回家。以小栗和米粒的行动、感受和对话推动情节，结尾回应“保护环境，可以从身边的一件小事开始。”。",
+          "visual_prompt": "海洋奇遇，勇敢的小小信使，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "温暖"
+        }
+      ],
+      "characters": [
+        {
+          "name": "小栗",
+          "role": "protagonist",
+          "appearance": "暖橘色小狐狸、奶油白脸颊和尾尖、青绿色围巾、金色小背包"
+        },
+        {
+          "name": "米粒",
+          "role": "companion",
+          "appearance": "戴着海草小围巾的海龟"
+        }
+      ],
+      "source": "local_story_template",
+      "cover_url": "/files/library/images/ocean-02.png"
+    },
+    {
+      "id": "template-ocean-03",
+      "type": "template",
+      "title": "海龟的慢慢地图",
+      "description": "小栗嫌米粒游得太慢，但米粒仔细记下每一处海流，带大家平安穿过迷雾海湾。",
+      "premise": "小栗嫌米粒游得太慢，但米粒仔细记下每一处海流，带大家平安穿过迷雾海湾。",
+      "moral": "每个人都有自己的节奏和长处。",
+      "tags": [
+        "海洋奇遇",
+        "海龟",
+        "节奏",
+        "尊重",
+        "耐心",
+        "故事模板",
+        "ocean"
+      ],
+      "theme": "ocean",
+      "path": "templates/template-ocean-03.json",
+      "url": "/files/library/templates/template-ocean-03.json",
+      "age_range": "4–9 岁",
+      "scene_count": 6,
+      "outline": [
+        {
+          "title": "口袋里的小愿望",
+          "text": "小栗嫌米粒游得太慢，但米粒仔细记下每一处海流，带大家平安穿过迷雾海湾。 这是第 1 幕：口袋里的小愿望。以小栗和米粒的行动、感受和对话推动情节，结尾回应“每个人都有自己的节奏和长处。”。",
+          "visual_prompt": "海洋奇遇，穿过蓝色的光，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "好奇"
+        },
+        {
+          "title": "和伙伴一起出发",
+          "text": "小栗嫌米粒游得太慢，但米粒仔细记下每一处海流，带大家平安穿过迷雾海湾。 这是第 2 幕：和伙伴一起出发。以小栗和米粒的行动、感受和对话推动情节，结尾回应“每个人都有自己的节奏和长处。”。",
+          "visual_prompt": "海洋奇遇，珊瑚花园的秘密，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "期待"
+        },
+        {
+          "title": "一个意想不到的困难",
+          "text": "小栗嫌米粒游得太慢，但米粒仔细记下每一处海流，带大家平安穿过迷雾海湾。 这是第 3 幕：一个意想不到的困难。以小栗和米粒的行动、感受和对话推动情节，结尾回应“每个人都有自己的节奏和长处。”。",
+          "visual_prompt": "海洋奇遇，海龟米粒的地图，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "紧张"
+        },
+        {
+          "title": "停下来，认真想一想",
+          "text": "小栗嫌米粒游得太慢，但米粒仔细记下每一处海流，带大家平安穿过迷雾海湾。 这是第 4 幕：停下来，认真想一想。以小栗和米粒的行动、感受和对话推动情节，结尾回应“每个人都有自己的节奏和长处。”。",
+          "visual_prompt": "海洋奇遇，贝壳里的小愿望，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "安静"
+        },
+        {
+          "title": "一起试试新的办法",
+          "text": "小栗嫌米粒游得太慢，但米粒仔细记下每一处海流，带大家平安穿过迷雾海湾。 这是第 5 幕：一起试试新的办法。以小栗和米粒的行动、感受和对话推动情节，结尾回应“每个人都有自己的节奏和长处。”。",
+          "visual_prompt": "海洋奇遇，水母灯下的舞会，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "勇敢"
+        },
+        {
+          "title": "把发现带回家",
+          "text": "小栗嫌米粒游得太慢，但米粒仔细记下每一处海流，带大家平安穿过迷雾海湾。 这是第 6 幕：把发现带回家。以小栗和米粒的行动、感受和对话推动情节，结尾回应“每个人都有自己的节奏和长处。”。",
+          "visual_prompt": "海洋奇遇，勇敢的小小信使，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "温暖"
+        }
+      ],
+      "characters": [
+        {
+          "name": "小栗",
+          "role": "protagonist",
+          "appearance": "暖橘色小狐狸、奶油白脸颊和尾尖、青绿色围巾、金色小背包"
+        },
+        {
+          "name": "米粒",
+          "role": "companion",
+          "appearance": "戴着海草小围巾的海龟"
+        }
+      ],
+      "source": "local_story_template",
+      "cover_url": "/files/library/images/ocean-03.png"
+    },
+    {
+      "id": "template-ocean-04",
+      "type": "template",
+      "title": "送给潮汐的小礼物",
+      "description": "小栗想留下所有漂亮贝壳，后来学会只带走照片，把海边的小家还给寄居蟹。",
+      "premise": "小栗想留下所有漂亮贝壳，后来学会只带走照片，把海边的小家还给寄居蟹。",
+      "moral": "喜欢一个地方，也可以选择轻轻地守护它。",
+      "tags": [
+        "海洋奇遇",
+        "海边",
+        "分享",
+        "环保",
+        "寄居蟹",
+        "故事模板",
+        "ocean"
+      ],
+      "theme": "ocean",
+      "path": "templates/template-ocean-04.json",
+      "url": "/files/library/templates/template-ocean-04.json",
+      "age_range": "4–9 岁",
+      "scene_count": 6,
+      "outline": [
+        {
+          "title": "口袋里的小愿望",
+          "text": "小栗想留下所有漂亮贝壳，后来学会只带走照片，把海边的小家还给寄居蟹。 这是第 1 幕：口袋里的小愿望。以小栗和米粒的行动、感受和对话推动情节，结尾回应“喜欢一个地方，也可以选择轻轻地守护它。”。",
+          "visual_prompt": "海洋奇遇，穿过蓝色的光，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "好奇"
+        },
+        {
+          "title": "和伙伴一起出发",
+          "text": "小栗想留下所有漂亮贝壳，后来学会只带走照片，把海边的小家还给寄居蟹。 这是第 2 幕：和伙伴一起出发。以小栗和米粒的行动、感受和对话推动情节，结尾回应“喜欢一个地方，也可以选择轻轻地守护它。”。",
+          "visual_prompt": "海洋奇遇，珊瑚花园的秘密，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "期待"
+        },
+        {
+          "title": "一个意想不到的困难",
+          "text": "小栗想留下所有漂亮贝壳，后来学会只带走照片，把海边的小家还给寄居蟹。 这是第 3 幕：一个意想不到的困难。以小栗和米粒的行动、感受和对话推动情节，结尾回应“喜欢一个地方，也可以选择轻轻地守护它。”。",
+          "visual_prompt": "海洋奇遇，海龟米粒的地图，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "紧张"
+        },
+        {
+          "title": "停下来，认真想一想",
+          "text": "小栗想留下所有漂亮贝壳，后来学会只带走照片，把海边的小家还给寄居蟹。 这是第 4 幕：停下来，认真想一想。以小栗和米粒的行动、感受和对话推动情节，结尾回应“喜欢一个地方，也可以选择轻轻地守护它。”。",
+          "visual_prompt": "海洋奇遇，贝壳里的小愿望，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "安静"
+        },
+        {
+          "title": "一起试试新的办法",
+          "text": "小栗想留下所有漂亮贝壳，后来学会只带走照片，把海边的小家还给寄居蟹。 这是第 5 幕：一起试试新的办法。以小栗和米粒的行动、感受和对话推动情节，结尾回应“喜欢一个地方，也可以选择轻轻地守护它。”。",
+          "visual_prompt": "海洋奇遇，水母灯下的舞会，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "勇敢"
+        },
+        {
+          "title": "把发现带回家",
+          "text": "小栗想留下所有漂亮贝壳，后来学会只带走照片，把海边的小家还给寄居蟹。 这是第 6 幕：把发现带回家。以小栗和米粒的行动、感受和对话推动情节，结尾回应“喜欢一个地方，也可以选择轻轻地守护它。”。",
+          "visual_prompt": "海洋奇遇，勇敢的小小信使，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "温暖"
+        }
+      ],
+      "characters": [
+        {
+          "name": "小栗",
+          "role": "protagonist",
+          "appearance": "暖橘色小狐狸、奶油白脸颊和尾尖、青绿色围巾、金色小背包"
+        },
+        {
+          "name": "米粒",
+          "role": "companion",
+          "appearance": "戴着海草小围巾的海龟"
+        }
+      ],
+      "source": "local_story_template",
+      "cover_url": "/files/library/images/ocean-04.png"
+    },
+    {
+      "id": "bgm-forest",
+      "type": "sound",
+      "title": "森林探险 · 轻柔音乐",
+      "description": "16 秒可播放轻柔背景音乐，本地程序合成原创音符；适合循环与低音量混音。",
+      "tags": [
+        "森林探险",
+        "背景音乐",
+        "轻柔",
+        "BGM",
+        "forest"
+      ],
+      "theme": "forest",
+      "path": "sounds/bgm-forest.wav",
+      "url": "/files/library/sounds/bgm-forest.wav",
+      "duration": 16,
+      "source": "local_procedural_audio"
+    },
+    {
+      "id": "bgm-space",
+      "type": "sound",
+      "title": "太空旅行 · 轻柔音乐",
+      "description": "16 秒可播放轻柔背景音乐，本地程序合成原创音符；适合循环与低音量混音。",
+      "tags": [
+        "太空旅行",
+        "背景音乐",
+        "轻柔",
+        "BGM",
+        "space"
+      ],
+      "theme": "space",
+      "path": "sounds/bgm-space.wav",
+      "url": "/files/library/sounds/bgm-space.wav",
+      "duration": 16,
+      "source": "local_procedural_audio"
+    },
+    {
+      "id": "bgm-ocean",
+      "type": "sound",
+      "title": "海洋奇遇 · 轻柔音乐",
+      "description": "16 秒可播放轻柔背景音乐，本地程序合成原创音符；适合循环与低音量混音。",
+      "tags": [
+        "海洋奇遇",
+        "背景音乐",
+        "轻柔",
+        "BGM",
+        "ocean"
+      ],
+      "theme": "ocean",
+      "path": "sounds/bgm-ocean.wav",
+      "url": "/files/library/sounds/bgm-ocean.wav",
+      "duration": 16,
+      "source": "local_procedural_audio"
+    },
+    {
+      "id": "magic-chime",
+      "type": "sound",
+      "title": "发现星光 · 风铃音效",
+      "description": "4 秒真实可播放 WAV 音效，本地程序合成示例，可用于故事转场或氛围。",
+      "tags": [
+        "太空旅行",
+        "音效",
+        "氛围",
+        "magic-chime"
+      ],
+      "theme": "space",
+      "path": "sounds/magic-chime.wav",
+      "url": "/files/library/sounds/magic-chime.wav",
+      "duration": 4,
+      "source": "local_procedural_audio"
+    },
+    {
+      "id": "gentle-waves",
+      "type": "sound",
+      "title": "蓝色海湾 · 柔和海浪",
+      "description": "8 秒真实可播放 WAV 音效，本地程序合成示例，可用于故事转场或氛围。",
+      "tags": [
+        "海洋奇遇",
+        "音效",
+        "氛围",
+        "gentle-waves"
+      ],
+      "theme": "ocean",
+      "path": "sounds/gentle-waves.wav",
+      "url": "/files/library/sounds/gentle-waves.wav",
+      "duration": 8,
+      "source": "local_procedural_audio"
+    },
+    {
+      "id": "forest-breeze",
+      "type": "sound",
+      "title": "叶片轻响 · 森林微风",
+      "description": "8 秒真实可播放 WAV 音效，本地程序合成示例，可用于故事转场或氛围。",
+      "tags": [
+        "森林探险",
+        "音效",
+        "氛围",
+        "forest-breeze"
+      ],
+      "theme": "forest",
+      "path": "sounds/forest-breeze.wav",
+      "url": "/files/library/sounds/forest-breeze.wav",
+      "duration": 8,
+      "source": "local_procedural_audio"
+    }
+  ],
+  "templates": [
+    {
+      "id": "template-forest-01",
+      "type": "template",
+      "title": "会发光的种子",
+      "description": "小栗和萤火虫米粒寻找一粒会发光的种子，发现它只在被认真照顾时亮起。",
+      "premise": "小栗和萤火虫米粒寻找一粒会发光的种子，发现它只在被认真照顾时亮起。",
+      "moral": "耐心照顾小生命，比急着看见结果更重要。",
+      "tags": [
+        "森林探险",
+        "自然",
+        "耐心",
+        "种子",
+        "成长",
+        "故事模板",
+        "forest"
+      ],
+      "theme": "forest",
+      "path": "templates/template-forest-01.json",
+      "url": "/files/library/templates/template-forest-01.json",
+      "age_range": "4–9 岁",
+      "scene_count": 6,
+      "outline": [
+        {
+          "title": "口袋里的小愿望",
+          "text": "小栗和萤火虫米粒寻找一粒会发光的种子，发现它只在被认真照顾时亮起。 这是第 1 幕：口袋里的小愿望。以小栗和米粒的行动、感受和对话推动情节，结尾回应“耐心照顾小生命，比急着看见结果更重要。”。",
+          "visual_prompt": "森林探险，晨光中的小木屋，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "好奇"
+        },
+        {
+          "title": "和伙伴一起出发",
+          "text": "小栗和萤火虫米粒寻找一粒会发光的种子，发现它只在被认真照顾时亮起。 这是第 2 幕：和伙伴一起出发。以小栗和米粒的行动、感受和对话推动情节，结尾回应“耐心照顾小生命，比急着看见结果更重要。”。",
+          "visual_prompt": "森林探险，苔藓桥上的约定，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "期待"
+        },
+        {
+          "title": "一个意想不到的困难",
+          "text": "小栗和萤火虫米粒寻找一粒会发光的种子，发现它只在被认真照顾时亮起。 这是第 3 幕：一个意想不到的困难。以小栗和米粒的行动、感受和对话推动情节，结尾回应“耐心照顾小生命，比急着看见结果更重要。”。",
+          "visual_prompt": "森林探险，蘑菇邮局的来信，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "紧张"
+        },
+        {
+          "title": "停下来，认真想一想",
+          "text": "小栗和萤火虫米粒寻找一粒会发光的种子，发现它只在被认真照顾时亮起。 这是第 4 幕：停下来，认真想一想。以小栗和米粒的行动、感受和对话推动情节，结尾回应“耐心照顾小生命，比急着看见结果更重要。”。",
+          "visual_prompt": "森林探险，会发光的勇气，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "安静"
+        },
+        {
+          "title": "一起试试新的办法",
+          "text": "小栗和萤火虫米粒寻找一粒会发光的种子，发现它只在被认真照顾时亮起。 这是第 5 幕：一起试试新的办法。以小栗和米粒的行动、感受和对话推动情节，结尾回应“耐心照顾小生命，比急着看见结果更重要。”。",
+          "visual_prompt": "森林探险，风铃树下的朋友，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "勇敢"
+        },
+        {
+          "title": "把发现带回家",
+          "text": "小栗和萤火虫米粒寻找一粒会发光的种子，发现它只在被认真照顾时亮起。 这是第 6 幕：把发现带回家。以小栗和米粒的行动、感受和对话推动情节，结尾回应“耐心照顾小生命，比急着看见结果更重要。”。",
+          "visual_prompt": "森林探险，口袋里的种子，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "温暖"
+        }
+      ],
+      "characters": [
+        {
+          "name": "小栗",
+          "role": "protagonist",
+          "appearance": "暖橘色小狐狸、奶油白脸颊和尾尖、青绿色围巾、金色小背包"
+        },
+        {
+          "name": "米粒",
+          "role": "companion",
+          "appearance": "一只温柔的小萤火虫"
+        }
+      ],
+      "source": "local_story_template",
+      "cover_url": "/files/library/images/forest-01.png"
+    },
+    {
+      "id": "template-forest-02",
+      "type": "template",
+      "title": "蘑菇邮局的一封信",
+      "description": "一封被雨打湿的信没有写地址。小栗跟着森林里的声音，替它找到等待的朋友。",
+      "premise": "一封被雨打湿的信没有写地址。小栗跟着森林里的声音，替它找到等待的朋友。",
+      "moral": "认真倾听，能找到被忽略的需要。",
+      "tags": [
+        "森林探险",
+        "友谊",
+        "倾听",
+        "助人",
+        "邮局",
+        "故事模板",
+        "forest"
+      ],
+      "theme": "forest",
+      "path": "templates/template-forest-02.json",
+      "url": "/files/library/templates/template-forest-02.json",
+      "age_range": "4–9 岁",
+      "scene_count": 6,
+      "outline": [
+        {
+          "title": "口袋里的小愿望",
+          "text": "一封被雨打湿的信没有写地址。小栗跟着森林里的声音，替它找到等待的朋友。 这是第 1 幕：口袋里的小愿望。以小栗和米粒的行动、感受和对话推动情节，结尾回应“认真倾听，能找到被忽略的需要。”。",
+          "visual_prompt": "森林探险，晨光中的小木屋，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "好奇"
+        },
+        {
+          "title": "和伙伴一起出发",
+          "text": "一封被雨打湿的信没有写地址。小栗跟着森林里的声音，替它找到等待的朋友。 这是第 2 幕：和伙伴一起出发。以小栗和米粒的行动、感受和对话推动情节，结尾回应“认真倾听，能找到被忽略的需要。”。",
+          "visual_prompt": "森林探险，苔藓桥上的约定，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "期待"
+        },
+        {
+          "title": "一个意想不到的困难",
+          "text": "一封被雨打湿的信没有写地址。小栗跟着森林里的声音，替它找到等待的朋友。 这是第 3 幕：一个意想不到的困难。以小栗和米粒的行动、感受和对话推动情节，结尾回应“认真倾听，能找到被忽略的需要。”。",
+          "visual_prompt": "森林探险，蘑菇邮局的来信，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "紧张"
+        },
+        {
+          "title": "停下来，认真想一想",
+          "text": "一封被雨打湿的信没有写地址。小栗跟着森林里的声音，替它找到等待的朋友。 这是第 4 幕：停下来，认真想一想。以小栗和米粒的行动、感受和对话推动情节，结尾回应“认真倾听，能找到被忽略的需要。”。",
+          "visual_prompt": "森林探险，会发光的勇气，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "安静"
+        },
+        {
+          "title": "一起试试新的办法",
+          "text": "一封被雨打湿的信没有写地址。小栗跟着森林里的声音，替它找到等待的朋友。 这是第 5 幕：一起试试新的办法。以小栗和米粒的行动、感受和对话推动情节，结尾回应“认真倾听，能找到被忽略的需要。”。",
+          "visual_prompt": "森林探险，风铃树下的朋友，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "勇敢"
+        },
+        {
+          "title": "把发现带回家",
+          "text": "一封被雨打湿的信没有写地址。小栗跟着森林里的声音，替它找到等待的朋友。 这是第 6 幕：把发现带回家。以小栗和米粒的行动、感受和对话推动情节，结尾回应“认真倾听，能找到被忽略的需要。”。",
+          "visual_prompt": "森林探险，口袋里的种子，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "温暖"
+        }
+      ],
+      "characters": [
+        {
+          "name": "小栗",
+          "role": "protagonist",
+          "appearance": "暖橘色小狐狸、奶油白脸颊和尾尖、青绿色围巾、金色小背包"
+        },
+        {
+          "name": "米粒",
+          "role": "companion",
+          "appearance": "一只温柔的小萤火虫"
+        }
+      ],
+      "source": "local_story_template",
+      "cover_url": "/files/library/images/forest-02.png"
+    },
+    {
+      "id": "template-forest-03",
+      "type": "template",
+      "title": "胆小的风也要出发",
+      "description": "小栗不敢独自穿过苔藓桥，米粒陪他把大困难拆成一步一步的小目标。",
+      "premise": "小栗不敢独自穿过苔藓桥，米粒陪他把大困难拆成一步一步的小目标。",
+      "moral": "勇敢可以很小，也可以和朋友一起练习。",
+      "tags": [
+        "森林探险",
+        "勇气",
+        "情绪",
+        "桥",
+        "合作",
+        "故事模板",
+        "forest"
+      ],
+      "theme": "forest",
+      "path": "templates/template-forest-03.json",
+      "url": "/files/library/templates/template-forest-03.json",
+      "age_range": "4–9 岁",
+      "scene_count": 6,
+      "outline": [
+        {
+          "title": "口袋里的小愿望",
+          "text": "小栗不敢独自穿过苔藓桥，米粒陪他把大困难拆成一步一步的小目标。 这是第 1 幕：口袋里的小愿望。以小栗和米粒的行动、感受和对话推动情节，结尾回应“勇敢可以很小，也可以和朋友一起练习。”。",
+          "visual_prompt": "森林探险，晨光中的小木屋，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "好奇"
+        },
+        {
+          "title": "和伙伴一起出发",
+          "text": "小栗不敢独自穿过苔藓桥，米粒陪他把大困难拆成一步一步的小目标。 这是第 2 幕：和伙伴一起出发。以小栗和米粒的行动、感受和对话推动情节，结尾回应“勇敢可以很小，也可以和朋友一起练习。”。",
+          "visual_prompt": "森林探险，苔藓桥上的约定，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "期待"
+        },
+        {
+          "title": "一个意想不到的困难",
+          "text": "小栗不敢独自穿过苔藓桥，米粒陪他把大困难拆成一步一步的小目标。 这是第 3 幕：一个意想不到的困难。以小栗和米粒的行动、感受和对话推动情节，结尾回应“勇敢可以很小，也可以和朋友一起练习。”。",
+          "visual_prompt": "森林探险，蘑菇邮局的来信，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "紧张"
+        },
+        {
+          "title": "停下来，认真想一想",
+          "text": "小栗不敢独自穿过苔藓桥，米粒陪他把大困难拆成一步一步的小目标。 这是第 4 幕：停下来，认真想一想。以小栗和米粒的行动、感受和对话推动情节，结尾回应“勇敢可以很小，也可以和朋友一起练习。”。",
+          "visual_prompt": "森林探险，会发光的勇气，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "安静"
+        },
+        {
+          "title": "一起试试新的办法",
+          "text": "小栗不敢独自穿过苔藓桥，米粒陪他把大困难拆成一步一步的小目标。 这是第 5 幕：一起试试新的办法。以小栗和米粒的行动、感受和对话推动情节，结尾回应“勇敢可以很小，也可以和朋友一起练习。”。",
+          "visual_prompt": "森林探险，风铃树下的朋友，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "勇敢"
+        },
+        {
+          "title": "把发现带回家",
+          "text": "小栗不敢独自穿过苔藓桥，米粒陪他把大困难拆成一步一步的小目标。 这是第 6 幕：把发现带回家。以小栗和米粒的行动、感受和对话推动情节，结尾回应“勇敢可以很小，也可以和朋友一起练习。”。",
+          "visual_prompt": "森林探险，口袋里的种子，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "温暖"
+        }
+      ],
+      "characters": [
+        {
+          "name": "小栗",
+          "role": "protagonist",
+          "appearance": "暖橘色小狐狸、奶油白脸颊和尾尖、青绿色围巾、金色小背包"
+        },
+        {
+          "name": "米粒",
+          "role": "companion",
+          "appearance": "一只温柔的小萤火虫"
+        }
+      ],
+      "source": "local_story_template",
+      "cover_url": "/files/library/images/forest-03.png"
+    },
+    {
+      "id": "template-forest-04",
+      "type": "template",
+      "title": "把星光送回家",
+      "description": "森林停电了，小栗召集朋友，用自己的微光为迷路的猫头鹰照亮回家的路。",
+      "premise": "森林停电了，小栗召集朋友，用自己的微光为迷路的猫头鹰照亮回家的路。",
+      "moral": "每个人的一点点力量，都能照亮别人。",
+      "tags": [
+        "森林探险",
+        "合作",
+        "分享",
+        "星光",
+        "归家",
+        "故事模板",
+        "forest"
+      ],
+      "theme": "forest",
+      "path": "templates/template-forest-04.json",
+      "url": "/files/library/templates/template-forest-04.json",
+      "age_range": "4–9 岁",
+      "scene_count": 6,
+      "outline": [
+        {
+          "title": "口袋里的小愿望",
+          "text": "森林停电了，小栗召集朋友，用自己的微光为迷路的猫头鹰照亮回家的路。 这是第 1 幕：口袋里的小愿望。以小栗和米粒的行动、感受和对话推动情节，结尾回应“每个人的一点点力量，都能照亮别人。”。",
+          "visual_prompt": "森林探险，晨光中的小木屋，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "好奇"
+        },
+        {
+          "title": "和伙伴一起出发",
+          "text": "森林停电了，小栗召集朋友，用自己的微光为迷路的猫头鹰照亮回家的路。 这是第 2 幕：和伙伴一起出发。以小栗和米粒的行动、感受和对话推动情节，结尾回应“每个人的一点点力量，都能照亮别人。”。",
+          "visual_prompt": "森林探险，苔藓桥上的约定，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "期待"
+        },
+        {
+          "title": "一个意想不到的困难",
+          "text": "森林停电了，小栗召集朋友，用自己的微光为迷路的猫头鹰照亮回家的路。 这是第 3 幕：一个意想不到的困难。以小栗和米粒的行动、感受和对话推动情节，结尾回应“每个人的一点点力量，都能照亮别人。”。",
+          "visual_prompt": "森林探险，蘑菇邮局的来信，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "紧张"
+        },
+        {
+          "title": "停下来，认真想一想",
+          "text": "森林停电了，小栗召集朋友，用自己的微光为迷路的猫头鹰照亮回家的路。 这是第 4 幕：停下来，认真想一想。以小栗和米粒的行动、感受和对话推动情节，结尾回应“每个人的一点点力量，都能照亮别人。”。",
+          "visual_prompt": "森林探险，会发光的勇气，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "安静"
+        },
+        {
+          "title": "一起试试新的办法",
+          "text": "森林停电了，小栗召集朋友，用自己的微光为迷路的猫头鹰照亮回家的路。 这是第 5 幕：一起试试新的办法。以小栗和米粒的行动、感受和对话推动情节，结尾回应“每个人的一点点力量，都能照亮别人。”。",
+          "visual_prompt": "森林探险，风铃树下的朋友，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "勇敢"
+        },
+        {
+          "title": "把发现带回家",
+          "text": "森林停电了，小栗召集朋友，用自己的微光为迷路的猫头鹰照亮回家的路。 这是第 6 幕：把发现带回家。以小栗和米粒的行动、感受和对话推动情节，结尾回应“每个人的一点点力量，都能照亮别人。”。",
+          "visual_prompt": "森林探险，口袋里的种子，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "温暖"
+        }
+      ],
+      "characters": [
+        {
+          "name": "小栗",
+          "role": "protagonist",
+          "appearance": "暖橘色小狐狸、奶油白脸颊和尾尖、青绿色围巾、金色小背包"
+        },
+        {
+          "name": "米粒",
+          "role": "companion",
+          "appearance": "一只温柔的小萤火虫"
+        }
+      ],
+      "source": "local_story_template",
+      "cover_url": "/files/library/images/forest-04.png"
+    },
+    {
+      "id": "template-space-01",
+      "type": "template",
+      "title": "月亮忘记了晚安",
+      "description": "月亮没有收到地球的晚安信，小栗和机器人米粒乘纸火箭，修好一条失灵的星际邮路。",
+      "premise": "月亮没有收到地球的晚安信，小栗和机器人米粒乘纸火箭，修好一条失灵的星际邮路。",
+      "moral": "表达关心，让遥远的朋友也感到温暖。",
+      "tags": [
+        "太空旅行",
+        "月亮",
+        "表达",
+        "火箭",
+        "友谊",
+        "故事模板",
+        "space"
+      ],
+      "theme": "space",
+      "path": "templates/template-space-01.json",
+      "url": "/files/library/templates/template-space-01.json",
+      "age_range": "4–9 岁",
+      "scene_count": 6,
+      "outline": [
+        {
+          "title": "口袋里的小愿望",
+          "text": "月亮没有收到地球的晚安信，小栗和机器人米粒乘纸火箭，修好一条失灵的星际邮路。 这是第 1 幕：口袋里的小愿望。以小栗和米粒的行动、感受和对话推动情节，结尾回应“表达关心，让遥远的朋友也感到温暖。”。",
+          "visual_prompt": "太空旅行，装满好奇的火箭，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "好奇"
+        },
+        {
+          "title": "和伙伴一起出发",
+          "text": "月亮没有收到地球的晚安信，小栗和机器人米粒乘纸火箭，修好一条失灵的星际邮路。 这是第 2 幕：和伙伴一起出发。以小栗和米粒的行动、感受和对话推动情节，结尾回应“表达关心，让遥远的朋友也感到温暖。”。",
+          "visual_prompt": "太空旅行，月亮上的第一枚脚印，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "期待"
+        },
+        {
+          "title": "一个意想不到的困难",
+          "text": "月亮没有收到地球的晚安信，小栗和机器人米粒乘纸火箭，修好一条失灵的星际邮路。 这是第 3 幕：一个意想不到的困难。以小栗和米粒的行动、感受和对话推动情节，结尾回应“表达关心，让遥远的朋友也感到温暖。”。",
+          "visual_prompt": "太空旅行，星星修理铺，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "紧张"
+        },
+        {
+          "title": "停下来，认真想一想",
+          "text": "月亮没有收到地球的晚安信，小栗和机器人米粒乘纸火箭，修好一条失灵的星际邮路。 这是第 4 幕：停下来，认真想一想。以小栗和米粒的行动、感受和对话推动情节，结尾回应“表达关心，让遥远的朋友也感到温暖。”。",
+          "visual_prompt": "太空旅行，机器人也会想家，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "安静"
+        },
+        {
+          "title": "一起试试新的办法",
+          "text": "月亮没有收到地球的晚安信，小栗和机器人米粒乘纸火箭，修好一条失灵的星际邮路。 这是第 5 幕：一起试试新的办法。以小栗和米粒的行动、感受和对话推动情节，结尾回应“表达关心，让遥远的朋友也感到温暖。”。",
+          "visual_prompt": "太空旅行，环形星球的拥抱，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "勇敢"
+        },
+        {
+          "title": "把发现带回家",
+          "text": "月亮没有收到地球的晚安信，小栗和机器人米粒乘纸火箭，修好一条失灵的星际邮路。 这是第 6 幕：把发现带回家。以小栗和米粒的行动、感受和对话推动情节，结尾回应“表达关心，让遥远的朋友也感到温暖。”。",
+          "visual_prompt": "太空旅行，银河信使，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "温暖"
+        }
+      ],
+      "characters": [
+        {
+          "name": "小栗",
+          "role": "protagonist",
+          "appearance": "暖橘色小狐狸、奶油白脸颊和尾尖、青绿色围巾、金色小背包"
+        },
+        {
+          "name": "米粒",
+          "role": "companion",
+          "appearance": "有发光心形灯的薄荷绿机器人"
+        }
+      ],
+      "source": "local_story_template",
+      "cover_url": "/files/library/images/space-01.png"
+    },
+    {
+      "id": "template-space-02",
+      "type": "template",
+      "title": "星星修理铺",
+      "description": "小栗发现一颗忽明忽暗的星星。它并没有坏，只是需要有人听完它的小烦恼。",
+      "premise": "小栗发现一颗忽明忽暗的星星。它并没有坏，只是需要有人听完它的小烦恼。",
+      "moral": "难过时，可以说出来，也可以被认真倾听。",
+      "tags": [
+        "太空旅行",
+        "星星",
+        "情绪",
+        "倾听",
+        "同理心",
+        "故事模板",
+        "space"
+      ],
+      "theme": "space",
+      "path": "templates/template-space-02.json",
+      "url": "/files/library/templates/template-space-02.json",
+      "age_range": "4–9 岁",
+      "scene_count": 6,
+      "outline": [
+        {
+          "title": "口袋里的小愿望",
+          "text": "小栗发现一颗忽明忽暗的星星。它并没有坏，只是需要有人听完它的小烦恼。 这是第 1 幕：口袋里的小愿望。以小栗和米粒的行动、感受和对话推动情节，结尾回应“难过时，可以说出来，也可以被认真倾听。”。",
+          "visual_prompt": "太空旅行，装满好奇的火箭，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "好奇"
+        },
+        {
+          "title": "和伙伴一起出发",
+          "text": "小栗发现一颗忽明忽暗的星星。它并没有坏，只是需要有人听完它的小烦恼。 这是第 2 幕：和伙伴一起出发。以小栗和米粒的行动、感受和对话推动情节，结尾回应“难过时，可以说出来，也可以被认真倾听。”。",
+          "visual_prompt": "太空旅行，月亮上的第一枚脚印，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "期待"
+        },
+        {
+          "title": "一个意想不到的困难",
+          "text": "小栗发现一颗忽明忽暗的星星。它并没有坏，只是需要有人听完它的小烦恼。 这是第 3 幕：一个意想不到的困难。以小栗和米粒的行动、感受和对话推动情节，结尾回应“难过时，可以说出来，也可以被认真倾听。”。",
+          "visual_prompt": "太空旅行，星星修理铺，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "紧张"
+        },
+        {
+          "title": "停下来，认真想一想",
+          "text": "小栗发现一颗忽明忽暗的星星。它并没有坏，只是需要有人听完它的小烦恼。 这是第 4 幕：停下来，认真想一想。以小栗和米粒的行动、感受和对话推动情节，结尾回应“难过时，可以说出来，也可以被认真倾听。”。",
+          "visual_prompt": "太空旅行，机器人也会想家，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "安静"
+        },
+        {
+          "title": "一起试试新的办法",
+          "text": "小栗发现一颗忽明忽暗的星星。它并没有坏，只是需要有人听完它的小烦恼。 这是第 5 幕：一起试试新的办法。以小栗和米粒的行动、感受和对话推动情节，结尾回应“难过时，可以说出来，也可以被认真倾听。”。",
+          "visual_prompt": "太空旅行，环形星球的拥抱，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "勇敢"
+        },
+        {
+          "title": "把发现带回家",
+          "text": "小栗发现一颗忽明忽暗的星星。它并没有坏，只是需要有人听完它的小烦恼。 这是第 6 幕：把发现带回家。以小栗和米粒的行动、感受和对话推动情节，结尾回应“难过时，可以说出来，也可以被认真倾听。”。",
+          "visual_prompt": "太空旅行，银河信使，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "温暖"
+        }
+      ],
+      "characters": [
+        {
+          "name": "小栗",
+          "role": "protagonist",
+          "appearance": "暖橘色小狐狸、奶油白脸颊和尾尖、青绿色围巾、金色小背包"
+        },
+        {
+          "name": "米粒",
+          "role": "companion",
+          "appearance": "有发光心形灯的薄荷绿机器人"
+        }
+      ],
+      "source": "local_story_template",
+      "cover_url": "/files/library/images/space-02.png"
+    },
+    {
+      "id": "template-space-03",
+      "type": "template",
+      "title": "机器人米粒的新朋友",
+      "description": "米粒误把陨石当成礼物，小栗和星际向导一起认识不同星球的生活习惯。",
+      "premise": "米粒误把陨石当成礼物，小栗和星际向导一起认识不同星球的生活习惯。",
+      "moral": "不同的想法，也值得被理解和尊重。",
+      "tags": [
+        "太空旅行",
+        "机器人",
+        "尊重",
+        "差异",
+        "科学",
+        "故事模板",
+        "space"
+      ],
+      "theme": "space",
+      "path": "templates/template-space-03.json",
+      "url": "/files/library/templates/template-space-03.json",
+      "age_range": "4–9 岁",
+      "scene_count": 6,
+      "outline": [
+        {
+          "title": "口袋里的小愿望",
+          "text": "米粒误把陨石当成礼物，小栗和星际向导一起认识不同星球的生活习惯。 这是第 1 幕：口袋里的小愿望。以小栗和米粒的行动、感受和对话推动情节，结尾回应“不同的想法，也值得被理解和尊重。”。",
+          "visual_prompt": "太空旅行，装满好奇的火箭，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "好奇"
+        },
+        {
+          "title": "和伙伴一起出发",
+          "text": "米粒误把陨石当成礼物，小栗和星际向导一起认识不同星球的生活习惯。 这是第 2 幕：和伙伴一起出发。以小栗和米粒的行动、感受和对话推动情节，结尾回应“不同的想法，也值得被理解和尊重。”。",
+          "visual_prompt": "太空旅行，月亮上的第一枚脚印，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "期待"
+        },
+        {
+          "title": "一个意想不到的困难",
+          "text": "米粒误把陨石当成礼物，小栗和星际向导一起认识不同星球的生活习惯。 这是第 3 幕：一个意想不到的困难。以小栗和米粒的行动、感受和对话推动情节，结尾回应“不同的想法，也值得被理解和尊重。”。",
+          "visual_prompt": "太空旅行，星星修理铺，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "紧张"
+        },
+        {
+          "title": "停下来，认真想一想",
+          "text": "米粒误把陨石当成礼物，小栗和星际向导一起认识不同星球的生活习惯。 这是第 4 幕：停下来，认真想一想。以小栗和米粒的行动、感受和对话推动情节，结尾回应“不同的想法，也值得被理解和尊重。”。",
+          "visual_prompt": "太空旅行，机器人也会想家，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "安静"
+        },
+        {
+          "title": "一起试试新的办法",
+          "text": "米粒误把陨石当成礼物，小栗和星际向导一起认识不同星球的生活习惯。 这是第 5 幕：一起试试新的办法。以小栗和米粒的行动、感受和对话推动情节，结尾回应“不同的想法，也值得被理解和尊重。”。",
+          "visual_prompt": "太空旅行，环形星球的拥抱，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "勇敢"
+        },
+        {
+          "title": "把发现带回家",
+          "text": "米粒误把陨石当成礼物，小栗和星际向导一起认识不同星球的生活习惯。 这是第 6 幕：把发现带回家。以小栗和米粒的行动、感受和对话推动情节，结尾回应“不同的想法，也值得被理解和尊重。”。",
+          "visual_prompt": "太空旅行，银河信使，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "温暖"
+        }
+      ],
+      "characters": [
+        {
+          "name": "小栗",
+          "role": "protagonist",
+          "appearance": "暖橘色小狐狸、奶油白脸颊和尾尖、青绿色围巾、金色小背包"
+        },
+        {
+          "name": "米粒",
+          "role": "companion",
+          "appearance": "有发光心形灯的薄荷绿机器人"
+        }
+      ],
+      "source": "local_story_template",
+      "cover_url": "/files/library/images/space-03.png"
+    },
+    {
+      "id": "template-space-04",
+      "type": "template",
+      "title": "一口袋银河尘",
+      "description": "为了给家人带回一条银河，小栗收集星尘，却发现最好的纪念是一起经历的故事。",
+      "premise": "为了给家人带回一条银河，小栗收集星尘，却发现最好的纪念是一起经历的故事。",
+      "moral": "珍贵的记忆，来自陪伴和经历。",
+      "tags": [
+        "太空旅行",
+        "银河",
+        "亲情",
+        "陪伴",
+        "探索",
+        "故事模板",
+        "space"
+      ],
+      "theme": "space",
+      "path": "templates/template-space-04.json",
+      "url": "/files/library/templates/template-space-04.json",
+      "age_range": "4–9 岁",
+      "scene_count": 6,
+      "outline": [
+        {
+          "title": "口袋里的小愿望",
+          "text": "为了给家人带回一条银河，小栗收集星尘，却发现最好的纪念是一起经历的故事。 这是第 1 幕：口袋里的小愿望。以小栗和米粒的行动、感受和对话推动情节，结尾回应“珍贵的记忆，来自陪伴和经历。”。",
+          "visual_prompt": "太空旅行，装满好奇的火箭，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "好奇"
+        },
+        {
+          "title": "和伙伴一起出发",
+          "text": "为了给家人带回一条银河，小栗收集星尘，却发现最好的纪念是一起经历的故事。 这是第 2 幕：和伙伴一起出发。以小栗和米粒的行动、感受和对话推动情节，结尾回应“珍贵的记忆，来自陪伴和经历。”。",
+          "visual_prompt": "太空旅行，月亮上的第一枚脚印，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "期待"
+        },
+        {
+          "title": "一个意想不到的困难",
+          "text": "为了给家人带回一条银河，小栗收集星尘，却发现最好的纪念是一起经历的故事。 这是第 3 幕：一个意想不到的困难。以小栗和米粒的行动、感受和对话推动情节，结尾回应“珍贵的记忆，来自陪伴和经历。”。",
+          "visual_prompt": "太空旅行，星星修理铺，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "紧张"
+        },
+        {
+          "title": "停下来，认真想一想",
+          "text": "为了给家人带回一条银河，小栗收集星尘，却发现最好的纪念是一起经历的故事。 这是第 4 幕：停下来，认真想一想。以小栗和米粒的行动、感受和对话推动情节，结尾回应“珍贵的记忆，来自陪伴和经历。”。",
+          "visual_prompt": "太空旅行，机器人也会想家，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "安静"
+        },
+        {
+          "title": "一起试试新的办法",
+          "text": "为了给家人带回一条银河，小栗收集星尘，却发现最好的纪念是一起经历的故事。 这是第 5 幕：一起试试新的办法。以小栗和米粒的行动、感受和对话推动情节，结尾回应“珍贵的记忆，来自陪伴和经历。”。",
+          "visual_prompt": "太空旅行，环形星球的拥抱，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "勇敢"
+        },
+        {
+          "title": "把发现带回家",
+          "text": "为了给家人带回一条银河，小栗收集星尘，却发现最好的纪念是一起经历的故事。 这是第 6 幕：把发现带回家。以小栗和米粒的行动、感受和对话推动情节，结尾回应“珍贵的记忆，来自陪伴和经历。”。",
+          "visual_prompt": "太空旅行，银河信使，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "温暖"
+        }
+      ],
+      "characters": [
+        {
+          "name": "小栗",
+          "role": "protagonist",
+          "appearance": "暖橘色小狐狸、奶油白脸颊和尾尖、青绿色围巾、金色小背包"
+        },
+        {
+          "name": "米粒",
+          "role": "companion",
+          "appearance": "有发光心形灯的薄荷绿机器人"
+        }
+      ],
+      "source": "local_story_template",
+      "cover_url": "/files/library/images/space-04.png"
+    },
+    {
+      "id": "template-ocean-01",
+      "type": "template",
+      "title": "会唱歌的贝壳",
+      "description": "小栗和海龟米粒寻找贝壳歌声的来源，发现是老鲸鱼在给海洋的新生命唱摇篮曲。",
+      "premise": "小栗和海龟米粒寻找贝壳歌声的来源，发现是老鲸鱼在给海洋的新生命唱摇篮曲。",
+      "moral": "安静地观察，会听见世界细小的美好。",
+      "tags": [
+        "海洋奇遇",
+        "贝壳",
+        "鲸鱼",
+        "声音",
+        "观察",
+        "故事模板",
+        "ocean"
+      ],
+      "theme": "ocean",
+      "path": "templates/template-ocean-01.json",
+      "url": "/files/library/templates/template-ocean-01.json",
+      "age_range": "4–9 岁",
+      "scene_count": 6,
+      "outline": [
+        {
+          "title": "口袋里的小愿望",
+          "text": "小栗和海龟米粒寻找贝壳歌声的来源，发现是老鲸鱼在给海洋的新生命唱摇篮曲。 这是第 1 幕：口袋里的小愿望。以小栗和米粒的行动、感受和对话推动情节，结尾回应“安静地观察，会听见世界细小的美好。”。",
+          "visual_prompt": "海洋奇遇，穿过蓝色的光，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "好奇"
+        },
+        {
+          "title": "和伙伴一起出发",
+          "text": "小栗和海龟米粒寻找贝壳歌声的来源，发现是老鲸鱼在给海洋的新生命唱摇篮曲。 这是第 2 幕：和伙伴一起出发。以小栗和米粒的行动、感受和对话推动情节，结尾回应“安静地观察，会听见世界细小的美好。”。",
+          "visual_prompt": "海洋奇遇，珊瑚花园的秘密，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "期待"
+        },
+        {
+          "title": "一个意想不到的困难",
+          "text": "小栗和海龟米粒寻找贝壳歌声的来源，发现是老鲸鱼在给海洋的新生命唱摇篮曲。 这是第 3 幕：一个意想不到的困难。以小栗和米粒的行动、感受和对话推动情节，结尾回应“安静地观察，会听见世界细小的美好。”。",
+          "visual_prompt": "海洋奇遇，海龟米粒的地图，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "紧张"
+        },
+        {
+          "title": "停下来，认真想一想",
+          "text": "小栗和海龟米粒寻找贝壳歌声的来源，发现是老鲸鱼在给海洋的新生命唱摇篮曲。 这是第 4 幕：停下来，认真想一想。以小栗和米粒的行动、感受和对话推动情节，结尾回应“安静地观察，会听见世界细小的美好。”。",
+          "visual_prompt": "海洋奇遇，贝壳里的小愿望，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "安静"
+        },
+        {
+          "title": "一起试试新的办法",
+          "text": "小栗和海龟米粒寻找贝壳歌声的来源，发现是老鲸鱼在给海洋的新生命唱摇篮曲。 这是第 5 幕：一起试试新的办法。以小栗和米粒的行动、感受和对话推动情节，结尾回应“安静地观察，会听见世界细小的美好。”。",
+          "visual_prompt": "海洋奇遇，水母灯下的舞会，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "勇敢"
+        },
+        {
+          "title": "把发现带回家",
+          "text": "小栗和海龟米粒寻找贝壳歌声的来源，发现是老鲸鱼在给海洋的新生命唱摇篮曲。 这是第 6 幕：把发现带回家。以小栗和米粒的行动、感受和对话推动情节，结尾回应“安静地观察，会听见世界细小的美好。”。",
+          "visual_prompt": "海洋奇遇，勇敢的小小信使，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "温暖"
+        }
+      ],
+      "characters": [
+        {
+          "name": "小栗",
+          "role": "protagonist",
+          "appearance": "暖橘色小狐狸、奶油白脸颊和尾尖、青绿色围巾、金色小背包"
+        },
+        {
+          "name": "米粒",
+          "role": "companion",
+          "appearance": "戴着海草小围巾的海龟"
+        }
+      ],
+      "source": "local_story_template",
+      "cover_url": "/files/library/images/ocean-01.png"
+    },
+    {
+      "id": "template-ocean-02",
+      "type": "template",
+      "title": "珊瑚花园的颜色",
+      "description": "珊瑚花园失去了颜色，小栗和海洋朋友从捡起一小片垃圾开始，一起让家园恢复生机。",
+      "premise": "珊瑚花园失去了颜色，小栗和海洋朋友从捡起一小片垃圾开始，一起让家园恢复生机。",
+      "moral": "保护环境，可以从身边的一件小事开始。",
+      "tags": [
+        "海洋奇遇",
+        "珊瑚",
+        "环保",
+        "家园",
+        "合作",
+        "故事模板",
+        "ocean"
+      ],
+      "theme": "ocean",
+      "path": "templates/template-ocean-02.json",
+      "url": "/files/library/templates/template-ocean-02.json",
+      "age_range": "4–9 岁",
+      "scene_count": 6,
+      "outline": [
+        {
+          "title": "口袋里的小愿望",
+          "text": "珊瑚花园失去了颜色，小栗和海洋朋友从捡起一小片垃圾开始，一起让家园恢复生机。 这是第 1 幕：口袋里的小愿望。以小栗和米粒的行动、感受和对话推动情节，结尾回应“保护环境，可以从身边的一件小事开始。”。",
+          "visual_prompt": "海洋奇遇，穿过蓝色的光，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "好奇"
+        },
+        {
+          "title": "和伙伴一起出发",
+          "text": "珊瑚花园失去了颜色，小栗和海洋朋友从捡起一小片垃圾开始，一起让家园恢复生机。 这是第 2 幕：和伙伴一起出发。以小栗和米粒的行动、感受和对话推动情节，结尾回应“保护环境，可以从身边的一件小事开始。”。",
+          "visual_prompt": "海洋奇遇，珊瑚花园的秘密，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "期待"
+        },
+        {
+          "title": "一个意想不到的困难",
+          "text": "珊瑚花园失去了颜色，小栗和海洋朋友从捡起一小片垃圾开始，一起让家园恢复生机。 这是第 3 幕：一个意想不到的困难。以小栗和米粒的行动、感受和对话推动情节，结尾回应“保护环境，可以从身边的一件小事开始。”。",
+          "visual_prompt": "海洋奇遇，海龟米粒的地图，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "紧张"
+        },
+        {
+          "title": "停下来，认真想一想",
+          "text": "珊瑚花园失去了颜色，小栗和海洋朋友从捡起一小片垃圾开始，一起让家园恢复生机。 这是第 4 幕：停下来，认真想一想。以小栗和米粒的行动、感受和对话推动情节，结尾回应“保护环境，可以从身边的一件小事开始。”。",
+          "visual_prompt": "海洋奇遇，贝壳里的小愿望，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "安静"
+        },
+        {
+          "title": "一起试试新的办法",
+          "text": "珊瑚花园失去了颜色，小栗和海洋朋友从捡起一小片垃圾开始，一起让家园恢复生机。 这是第 5 幕：一起试试新的办法。以小栗和米粒的行动、感受和对话推动情节，结尾回应“保护环境，可以从身边的一件小事开始。”。",
+          "visual_prompt": "海洋奇遇，水母灯下的舞会，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "勇敢"
+        },
+        {
+          "title": "把发现带回家",
+          "text": "珊瑚花园失去了颜色，小栗和海洋朋友从捡起一小片垃圾开始，一起让家园恢复生机。 这是第 6 幕：把发现带回家。以小栗和米粒的行动、感受和对话推动情节，结尾回应“保护环境，可以从身边的一件小事开始。”。",
+          "visual_prompt": "海洋奇遇，勇敢的小小信使，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "温暖"
+        }
+      ],
+      "characters": [
+        {
+          "name": "小栗",
+          "role": "protagonist",
+          "appearance": "暖橘色小狐狸、奶油白脸颊和尾尖、青绿色围巾、金色小背包"
+        },
+        {
+          "name": "米粒",
+          "role": "companion",
+          "appearance": "戴着海草小围巾的海龟"
+        }
+      ],
+      "source": "local_story_template",
+      "cover_url": "/files/library/images/ocean-02.png"
+    },
+    {
+      "id": "template-ocean-03",
+      "type": "template",
+      "title": "海龟的慢慢地图",
+      "description": "小栗嫌米粒游得太慢，但米粒仔细记下每一处海流，带大家平安穿过迷雾海湾。",
+      "premise": "小栗嫌米粒游得太慢，但米粒仔细记下每一处海流，带大家平安穿过迷雾海湾。",
+      "moral": "每个人都有自己的节奏和长处。",
+      "tags": [
+        "海洋奇遇",
+        "海龟",
+        "节奏",
+        "尊重",
+        "耐心",
+        "故事模板",
+        "ocean"
+      ],
+      "theme": "ocean",
+      "path": "templates/template-ocean-03.json",
+      "url": "/files/library/templates/template-ocean-03.json",
+      "age_range": "4–9 岁",
+      "scene_count": 6,
+      "outline": [
+        {
+          "title": "口袋里的小愿望",
+          "text": "小栗嫌米粒游得太慢，但米粒仔细记下每一处海流，带大家平安穿过迷雾海湾。 这是第 1 幕：口袋里的小愿望。以小栗和米粒的行动、感受和对话推动情节，结尾回应“每个人都有自己的节奏和长处。”。",
+          "visual_prompt": "海洋奇遇，穿过蓝色的光，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "好奇"
+        },
+        {
+          "title": "和伙伴一起出发",
+          "text": "小栗嫌米粒游得太慢，但米粒仔细记下每一处海流，带大家平安穿过迷雾海湾。 这是第 2 幕：和伙伴一起出发。以小栗和米粒的行动、感受和对话推动情节，结尾回应“每个人都有自己的节奏和长处。”。",
+          "visual_prompt": "海洋奇遇，珊瑚花园的秘密，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "期待"
+        },
+        {
+          "title": "一个意想不到的困难",
+          "text": "小栗嫌米粒游得太慢，但米粒仔细记下每一处海流，带大家平安穿过迷雾海湾。 这是第 3 幕：一个意想不到的困难。以小栗和米粒的行动、感受和对话推动情节，结尾回应“每个人都有自己的节奏和长处。”。",
+          "visual_prompt": "海洋奇遇，海龟米粒的地图，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "紧张"
+        },
+        {
+          "title": "停下来，认真想一想",
+          "text": "小栗嫌米粒游得太慢，但米粒仔细记下每一处海流，带大家平安穿过迷雾海湾。 这是第 4 幕：停下来，认真想一想。以小栗和米粒的行动、感受和对话推动情节，结尾回应“每个人都有自己的节奏和长处。”。",
+          "visual_prompt": "海洋奇遇，贝壳里的小愿望，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "安静"
+        },
+        {
+          "title": "一起试试新的办法",
+          "text": "小栗嫌米粒游得太慢，但米粒仔细记下每一处海流，带大家平安穿过迷雾海湾。 这是第 5 幕：一起试试新的办法。以小栗和米粒的行动、感受和对话推动情节，结尾回应“每个人都有自己的节奏和长处。”。",
+          "visual_prompt": "海洋奇遇，水母灯下的舞会，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "勇敢"
+        },
+        {
+          "title": "把发现带回家",
+          "text": "小栗嫌米粒游得太慢，但米粒仔细记下每一处海流，带大家平安穿过迷雾海湾。 这是第 6 幕：把发现带回家。以小栗和米粒的行动、感受和对话推动情节，结尾回应“每个人都有自己的节奏和长处。”。",
+          "visual_prompt": "海洋奇遇，勇敢的小小信使，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "温暖"
+        }
+      ],
+      "characters": [
+        {
+          "name": "小栗",
+          "role": "protagonist",
+          "appearance": "暖橘色小狐狸、奶油白脸颊和尾尖、青绿色围巾、金色小背包"
+        },
+        {
+          "name": "米粒",
+          "role": "companion",
+          "appearance": "戴着海草小围巾的海龟"
+        }
+      ],
+      "source": "local_story_template",
+      "cover_url": "/files/library/images/ocean-03.png"
+    },
+    {
+      "id": "template-ocean-04",
+      "type": "template",
+      "title": "送给潮汐的小礼物",
+      "description": "小栗想留下所有漂亮贝壳，后来学会只带走照片，把海边的小家还给寄居蟹。",
+      "premise": "小栗想留下所有漂亮贝壳，后来学会只带走照片，把海边的小家还给寄居蟹。",
+      "moral": "喜欢一个地方，也可以选择轻轻地守护它。",
+      "tags": [
+        "海洋奇遇",
+        "海边",
+        "分享",
+        "环保",
+        "寄居蟹",
+        "故事模板",
+        "ocean"
+      ],
+      "theme": "ocean",
+      "path": "templates/template-ocean-04.json",
+      "url": "/files/library/templates/template-ocean-04.json",
+      "age_range": "4–9 岁",
+      "scene_count": 6,
+      "outline": [
+        {
+          "title": "口袋里的小愿望",
+          "text": "小栗想留下所有漂亮贝壳，后来学会只带走照片，把海边的小家还给寄居蟹。 这是第 1 幕：口袋里的小愿望。以小栗和米粒的行动、感受和对话推动情节，结尾回应“喜欢一个地方，也可以选择轻轻地守护它。”。",
+          "visual_prompt": "海洋奇遇，穿过蓝色的光，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "好奇"
+        },
+        {
+          "title": "和伙伴一起出发",
+          "text": "小栗想留下所有漂亮贝壳，后来学会只带走照片，把海边的小家还给寄居蟹。 这是第 2 幕：和伙伴一起出发。以小栗和米粒的行动、感受和对话推动情节，结尾回应“喜欢一个地方，也可以选择轻轻地守护它。”。",
+          "visual_prompt": "海洋奇遇，珊瑚花园的秘密，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "期待"
+        },
+        {
+          "title": "一个意想不到的困难",
+          "text": "小栗想留下所有漂亮贝壳，后来学会只带走照片，把海边的小家还给寄居蟹。 这是第 3 幕：一个意想不到的困难。以小栗和米粒的行动、感受和对话推动情节，结尾回应“喜欢一个地方，也可以选择轻轻地守护它。”。",
+          "visual_prompt": "海洋奇遇，海龟米粒的地图，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "紧张"
+        },
+        {
+          "title": "停下来，认真想一想",
+          "text": "小栗想留下所有漂亮贝壳，后来学会只带走照片，把海边的小家还给寄居蟹。 这是第 4 幕：停下来，认真想一想。以小栗和米粒的行动、感受和对话推动情节，结尾回应“喜欢一个地方，也可以选择轻轻地守护它。”。",
+          "visual_prompt": "海洋奇遇，贝壳里的小愿望，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "安静"
+        },
+        {
+          "title": "一起试试新的办法",
+          "text": "小栗想留下所有漂亮贝壳，后来学会只带走照片，把海边的小家还给寄居蟹。 这是第 5 幕：一起试试新的办法。以小栗和米粒的行动、感受和对话推动情节，结尾回应“喜欢一个地方，也可以选择轻轻地守护它。”。",
+          "visual_prompt": "海洋奇遇，水母灯下的舞会，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "勇敢"
+        },
+        {
+          "title": "把发现带回家",
+          "text": "小栗想留下所有漂亮贝壳，后来学会只带走照片，把海边的小家还给寄居蟹。 这是第 6 幕：把发现带回家。以小栗和米粒的行动、感受和对话推动情节，结尾回应“喜欢一个地方，也可以选择轻轻地守护它。”。",
+          "visual_prompt": "海洋奇遇，勇敢的小小信使，小栗暖橘色狐狸、奶油白脸颊和尾尖、青绿色围巾、金色背包，儿童绘本水彩质感，留白构图。",
+          "mood": "温暖"
+        }
+      ],
+      "characters": [
+        {
+          "name": "小栗",
+          "role": "protagonist",
+          "appearance": "暖橘色小狐狸、奶油白脸颊和尾尖、青绿色围巾、金色小背包"
+        },
+        {
+          "name": "米粒",
+          "role": "companion",
+          "appearance": "戴着海草小围巾的海龟"
+        }
+      ],
+      "source": "local_story_template",
+      "cover_url": "/files/library/images/ocean-04.png"
+    }
+  ],
+  "counts": {
+    "templates": 12,
+    "images": 24,
+    "sounds": 6
+  }
+}
