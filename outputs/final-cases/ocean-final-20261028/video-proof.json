@@ -1,0 +1,22 @@
+{
+  "duration": 419.04,
+  "fps": 24,
+  "resolution": "1280x720",
+  "subtitle_count": 107,
+  "subtitle_renderer": "Pillow / Windows Chinese font",
+  "encoding": "bounded_rawvideo_pipe",
+  "encoder_threads": 1,
+  "input_queue_frames": 2,
+  "rendered_frames": 10057,
+  "render_seconds": 153.337,
+  "ffmpeg_peak_working_set_mb": 152.27,
+  "narration": "real Edge TTS",
+  "background_music": "bgm-ocean.wav",
+  "voices": [
+    "zh-CN-XiaoxiaoNeural",
+    "zh-CN-XiaoyiNeural",
+    "zh-CN-YunxiNeural",
+    "zh-CN-YunyangNeural"
+  ],
+  "sha256": "10fbd30ead34e813b74ad5f929fa5a4159870052ead952f9628159a633893729"
+}

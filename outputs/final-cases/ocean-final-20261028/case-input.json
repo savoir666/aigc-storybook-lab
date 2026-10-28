@@ -1,0 +1,15 @@
+{
+  "inputs": {
+    "name": "小橘",
+    "age": 8,
+    "audience_age": 6,
+    "interest": "海洋动物、发光贝壳、合作保护自然",
+    "theme": "ocean",
+    "setting": "有成年鲸鱼向导陪伴的珊瑚海湾，乘安全透明泡泡船帮助灯塔；狐狸、小海龟、鲸鱼都有独立对白；不触碰珊瑚或独闯沉船",
+    "length": "long",
+    "strategy": "role_play",
+    "mode": "live"
+  },
+  "purpose": "2026-10-28 strict requirement repair run",
+  "operator": "AI assistant; no student authorship claim"
+}

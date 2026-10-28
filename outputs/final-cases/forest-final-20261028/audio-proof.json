@@ -1,0 +1,293 @@
+{
+  "provider": "Microsoft Edge TTS",
+  "real_tts": true,
+  "prosody_method": "rate/pitch/volume parameters; not native emotion-style synthesis",
+  "voices": [
+    "zh-CN-XiaoxiaoNeural",
+    "zh-CN-XiaoyiNeural",
+    "zh-CN-YunxiNeural",
+    "zh-CN-YunyangNeural"
+  ],
+  "role_voices": {
+    "旁白": "zh-CN-XiaoxiaoNeural",
+    "narrator": "zh-CN-XiaoxiaoNeural",
+    "小栗": "zh-CN-YunxiNeural",
+    "character_1": "zh-CN-YunxiNeural",
+    "萤火虫米粒": "zh-CN-XiaoyiNeural",
+    "character_2": "zh-CN-XiaoyiNeural",
+    "树园丁": "zh-CN-YunyangNeural",
+    "character_3": "zh-CN-YunyangNeural"
+  },
+  "duration": 414.264,
+  "timing_source": "decoded PCM samples at 24000 Hz",
+  "created_at": "2026-10-28T04:15:18.328265+00:00",
+  "parts": [
+    {
+      "file": "audio_parts\\part-001.mp3",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "character": "旁白",
+      "emotion": "温柔",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 24.36,
+      "sha256": "15a5bd44b26ec5be4cb4cca80b7d8ce6b815bc3ee5f5dd76839b13dcf0fab45e",
+      "characters": 104
+    },
+    {
+      "file": "audio_parts\\part-002.mp3",
+      "voice": "zh-CN-YunxiNeural",
+      "character": "小栗",
+      "emotion": "兴奋",
+      "prosody": {
+        "rate": "+3%",
+        "pitch": "+4Hz",
+        "volume": "+0%"
+      },
+      "duration": 20.304,
+      "sha256": "bff4e047bbf30b27ffd3f25051d730189c9c5c24608f308410d45169bca07603",
+      "characters": 100
+    },
+    {
+      "file": "audio_parts\\part-003.mp3",
+      "voice": "zh-CN-XiaoyiNeural",
+      "character": "萤火虫米粒",
+      "emotion": "友好",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 15.984,
+      "sha256": "8d7a2a5c835965fd0c69e0b191e4154fbeb794b13a37759531a3b5e3cd9447c6",
+      "characters": 69
+    },
+    {
+      "file": "audio_parts\\part-004.mp3",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "character": "旁白",
+      "emotion": "温柔",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 43.2,
+      "sha256": "85c1e2524a90f2f1031bd447a2a01e35aad29b54bafc824fec5869ba6e10476d",
+      "characters": 184
+    },
+    {
+      "file": "audio_parts\\part-005.mp3",
+      "voice": "zh-CN-YunxiNeural",
+      "character": "小栗",
+      "emotion": "温柔",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 18.192,
+      "sha256": "bbd9764045c20b738aaa97eca238df7872cd82532459f35d2bd6ba5e1c094032",
+      "characters": 77
+    },
+    {
+      "file": "audio_parts\\part-006.mp3",
+      "voice": "zh-CN-XiaoyiNeural",
+      "character": "萤火虫米粒",
+      "emotion": "友好",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 13.128,
+      "sha256": "6f01e452d47797efb46f6827f745aabd8bedf0f32333e5b2786d327c5b3e2f22",
+      "characters": 56
+    },
+    {
+      "file": "audio_parts\\part-007.mp3",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "character": "旁白",
+      "emotion": "焦急",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 35.904,
+      "sha256": "dad1bb1f4b7f9483feebebc46840a017edfecd5b9cde6f22be0484bd4566b768",
+      "characters": 153
+    },
+    {
+      "file": "audio_parts\\part-008.mp3",
+      "voice": "zh-CN-YunxiNeural",
+      "character": "小栗",
+      "emotion": "兴奋",
+      "prosody": {
+        "rate": "+3%",
+        "pitch": "+4Hz",
+        "volume": "+0%"
+      },
+      "duration": 11.448,
+      "sha256": "a746fe545f38f9172e1c05199080c59e9a7bc9ee26b4f6328ca5de896f244991",
+      "characters": 54
+    },
+    {
+      "file": "audio_parts\\part-009.mp3",
+      "voice": "zh-CN-XiaoyiNeural",
+      "character": "萤火虫米粒",
+      "emotion": "友好",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 10.872,
+      "sha256": "e3098c26bb64775614c07c146d442e0a4424b3a599d0865e2365896769f09dbe",
+      "characters": 44
+    },
+    {
+      "file": "audio_parts\\part-010.mp3",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "character": "旁白",
+      "emotion": "温柔",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 32.736,
+      "sha256": "1fe253bcf36d98de1d5474a6c66e00e5178bfa2b1bcb01cc1b642b90a1d55358",
+      "characters": 140
+    },
+    {
+      "file": "audio_parts\\part-011.mp3",
+      "voice": "zh-CN-YunxiNeural",
+      "character": "小栗",
+      "emotion": "温柔",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 12.648,
+      "sha256": "c906bdf02b17002206fb12f0425fdd3f775aafa2a1c97a77c13685c5e786f010",
+      "characters": 54
+    },
+    {
+      "file": "audio_parts\\part-012.mp3",
+      "voice": "zh-CN-XiaoyiNeural",
+      "character": "萤火虫米粒",
+      "emotion": "友好",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 9.216,
+      "sha256": "aa99eb2905c09a37f77a1690737195b1f198a4a7f84924d89c51d1e64dd4ceda",
+      "characters": 38
+    },
+    {
+      "file": "audio_parts\\part-013.mp3",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "character": "旁白",
+      "emotion": "温柔",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 41.28,
+      "sha256": "b2bb5287395e20133f3616fd66916b2ae12365620dd32aebfef39f5617e3de67",
+      "characters": 176
+    },
+    {
+      "file": "audio_parts\\part-014.mp3",
+      "voice": "zh-CN-YunxiNeural",
+      "character": "小栗",
+      "emotion": "温柔",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 16.944,
+      "sha256": "4c78a443fc1adef7cd696a6b100e5dcd272ed9eb29d3bd24748a09e59d3aa3eb",
+      "characters": 74
+    },
+    {
+      "file": "audio_parts\\part-015.mp3",
+      "voice": "zh-CN-YunyangNeural",
+      "character": "树园丁",
+      "emotion": "慈祥",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 17.976,
+      "sha256": "6ada3231446e0ed46f7157c41ba424eef2d980917adb005d99b2b54a350340c3",
+      "characters": 83
+    },
+    {
+      "file": "audio_parts\\part-016.mp3",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "character": "旁白",
+      "emotion": "温柔",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 47.952,
+      "sha256": "7a166859859b4aa3b43e9c29e9439ba963707febb05c6d09007a97e28cf5a7e6",
+      "characters": 202
+    },
+    {
+      "file": "audio_parts\\part-017.mp3",
+      "voice": "zh-CN-YunxiNeural",
+      "character": "小栗",
+      "emotion": "温柔",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 15.96,
+      "sha256": "114bb64e438fbdd48df0c52b67427342b88a0b5f49414afb93481d6739a88d69",
+      "characters": 62
+    },
+    {
+      "file": "audio_parts\\part-018.mp3",
+      "voice": "zh-CN-XiaoyiNeural",
+      "character": "萤火虫米粒",
+      "emotion": "友好",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 11.904,
+      "sha256": "6dd3dfb433ad1bbeff80736c86385fa4339d58f07ae2598ed157053b6dfc3fac",
+      "characters": 49
+    },
+    {
+      "file": "audio_parts\\part-019.mp3",
+      "voice": "zh-CN-YunyangNeural",
+      "character": "树园丁",
+      "emotion": "慈祥",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 11.976,
+      "sha256": "8bb1d160368874d76d46dcecd75da227dea56972fbacd7be58b70ca3ccecc9c6",
+      "characters": 51
+    }
+  ],
+  "sha256": "56e5ff32dd14aa9834cf7330daa36dfc1682ded97eba212f0d82a7c7a92d65d3"
+}

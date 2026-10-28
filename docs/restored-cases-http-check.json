@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-29",
+  "checks": [
+    {
+      "path": "/trae-story.html",
+      "status": 200
+    },
+    {
+      "path": "/",
+      "status": 200
+    },
+    {
+      "path": "/api/projects",
+      "status": 200
+    },
+    {
+      "path": "/files/projects/forest-final-20261028/scene-01.png",
+      "status": 200,
+      "bytes": 1819588
+    },
+    {
+      "path": "/files/projects/forest-final-20261028/scene-06.png",
+      "status": 200,
+      "bytes": 1721883
+    },
+    {
+      "path": "/files/projects/forest-final-20261028/story-audio.mp3",
+      "status": 200,
+      "bytes": 3238124
+    },
+    {
+      "path": "/files/projects/forest-final-20261028/story-video.mp4",
+      "status": 200,
+      "bytes": 15117604
+    },
+    {
+      "path": "/files/projects/forest-final-20261028/storybook.pdf",
+      "status": 200,
+      "bytes": 20122688
+    },
+    {
+      "path": "/files/projects/ocean-final-20261028/scene-01.png",
+      "status": 200,
+      "bytes": 1636404
+    },
+    {
+      "path": "/files/projects/ocean-final-20261028/scene-06.png",
+      "status": 200,
+      "bytes": 1655872
+    },
+    {
+      "path": "/files/projects/ocean-final-20261028/story-audio.mp3",
+      "status": 200,
+      "bytes": 3289028
+    },
+    {
+      "path": "/files/projects/ocean-final-20261028/story-video.mp4",
+      "status": 200,
+      "bytes": 14770572
+    },
+    {
+      "path": "/files/projects/ocean-final-20261028/storybook.pdf",
+      "status": 200,
+      "bytes": 18435663
+    }
+  ],
+  "note": "本机TestClient真实文件读取，无新模型请求；不代表本人试听或现场答辩。"
+}

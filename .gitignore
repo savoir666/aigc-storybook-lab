@@ -10,8 +10,13 @@ data/jobs/
 data/responses/
 data/api_usage.jsonl
 work/
-outputs/
+outputs/*
+!outputs/README.md
+!outputs/final-cases/
+!outputs/prompt-comparison/
 *.log
 *.mp4
 *.webm
 *.zip
+
+!outputs/final-cases/*/story-video.mp4

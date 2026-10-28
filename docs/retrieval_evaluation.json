@@ -1,0 +1,326 @@
+{
+  "森林友谊": {
+    "results": [
+      {
+        "id": "image-forest-06",
+        "type": "image",
+        "title": "口袋里的种子",
+        "description": "森林探险主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+        "url": "/files/library/images/forest-06.png",
+        "tags": [
+          "森林探险",
+          "小狐狸",
+          "绘本",
+          "柔和",
+          "儿童",
+          "forest",
+          "口袋里的种子"
+        ],
+        "score": 0.305021,
+        "engine": "ONNX CLIP图文余弦相似度"
+      },
+      {
+        "id": "image-forest-02",
+        "type": "image",
+        "title": "苔藓桥上的约定",
+        "description": "森林探险主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+        "url": "/files/library/images/forest-02.png",
+        "tags": [
+          "森林探险",
+          "小狐狸",
+          "绘本",
+          "柔和",
+          "儿童",
+          "forest",
+          "苔藓桥上的约定"
+        ],
+        "score": 0.302269,
+        "engine": "ONNX CLIP图文余弦相似度"
+      },
+      {
+        "id": "image-forest-08",
+        "type": "image",
+        "title": "把星光送回家",
+        "description": "森林探险主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+        "url": "/files/library/images/forest-08.png",
+        "tags": [
+          "森林探险",
+          "小狐狸",
+          "绘本",
+          "柔和",
+          "儿童",
+          "forest",
+          "把星光送回家"
+        ],
+        "score": 0.301219,
+        "engine": "ONNX CLIP图文余弦相似度"
+      },
+      {
+        "id": "image-forest-03",
+        "type": "image",
+        "title": "蘑菇邮局的来信",
+        "description": "森林探险主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+        "url": "/files/library/images/forest-03.png",
+        "tags": [
+          "森林探险",
+          "小狐狸",
+          "绘本",
+          "柔和",
+          "儿童",
+          "forest",
+          "蘑菇邮局的来信"
+        ],
+        "score": 0.295337,
+        "engine": "ONNX CLIP图文余弦相似度"
+      },
+      {
+        "id": "image-forest-04",
+        "type": "image",
+        "title": "会发光的勇气",
+        "description": "森林探险主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+        "url": "/files/library/images/forest-04.png",
+        "tags": [
+          "森林探险",
+          "小狐狸",
+          "绘本",
+          "柔和",
+          "儿童",
+          "forest",
+          "会发光的勇气"
+        ],
+        "score": 0.295133,
+        "engine": "ONNX CLIP图文余弦相似度"
+      }
+    ],
+    "engine": "文本/音效：TF-IDF字符向量；图片：ONNX CLIP（英文编码器＋显式中文主题词典）",
+    "counts": {
+      "templates": 12,
+      "images": 24,
+      "sounds": 6
+    },
+    "clip_ready": true,
+    "clip_query": {
+      "text": "a children's storybook illustration of forest, friendship",
+      "method": "explicit Chinese topic dictionary + original English",
+      "unmapped_chinese": ""
+    },
+    "warning": "",
+    "image_errors": []
+  },
+  "太空火箭": {
+    "results": [
+      {
+        "id": "image-space-04",
+        "type": "image",
+        "title": "机器人也会想家",
+        "description": "太空旅行主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+        "url": "/files/library/images/space-04.png",
+        "tags": [
+          "太空旅行",
+          "小狐狸",
+          "绘本",
+          "柔和",
+          "儿童",
+          "space",
+          "机器人也会想家"
+        ],
+        "score": 0.307698,
+        "engine": "ONNX CLIP图文余弦相似度"
+      },
+      {
+        "id": "image-space-03",
+        "type": "image",
+        "title": "星星修理铺",
+        "description": "太空旅行主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+        "url": "/files/library/images/space-03.png",
+        "tags": [
+          "太空旅行",
+          "小狐狸",
+          "绘本",
+          "柔和",
+          "儿童",
+          "space",
+          "星星修理铺"
+        ],
+        "score": 0.304023,
+        "engine": "ONNX CLIP图文余弦相似度"
+      },
+      {
+        "id": "image-space-08",
+        "type": "image",
+        "title": "我们共享一片星空",
+        "description": "太空旅行主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+        "url": "/files/library/images/space-08.png",
+        "tags": [
+          "太空旅行",
+          "小狐狸",
+          "绘本",
+          "柔和",
+          "儿童",
+          "space",
+          "我们共享一片星空"
+        ],
+        "score": 0.303688,
+        "engine": "ONNX CLIP图文余弦相似度"
+      },
+      {
+        "id": "image-space-02",
+        "type": "image",
+        "title": "月亮上的第一枚脚印",
+        "description": "太空旅行主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+        "url": "/files/library/images/space-02.png",
+        "tags": [
+          "太空旅行",
+          "小狐狸",
+          "绘本",
+          "柔和",
+          "儿童",
+          "space",
+          "月亮上的第一枚脚印"
+        ],
+        "score": 0.303132,
+        "engine": "ONNX CLIP图文余弦相似度"
+      },
+      {
+        "id": "image-space-05",
+        "type": "image",
+        "title": "环形星球的拥抱",
+        "description": "太空旅行主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+        "url": "/files/library/images/space-05.png",
+        "tags": [
+          "太空旅行",
+          "小狐狸",
+          "绘本",
+          "柔和",
+          "儿童",
+          "space",
+          "环形星球的拥抱"
+        ],
+        "score": 0.302213,
+        "engine": "ONNX CLIP图文余弦相似度"
+      }
+    ],
+    "engine": "文本/音效：TF-IDF字符向量；图片：ONNX CLIP（英文编码器＋显式中文主题词典）",
+    "counts": {
+      "templates": 12,
+      "images": 24,
+      "sounds": 6
+    },
+    "clip_ready": true,
+    "clip_query": {
+      "text": "a children's storybook illustration of outer space, rocket",
+      "method": "explicit Chinese topic dictionary + original English",
+      "unmapped_chinese": ""
+    },
+    "warning": "",
+    "image_errors": []
+  },
+  "海底珊瑚": {
+    "results": [
+      {
+        "id": "image-ocean-06",
+        "type": "image",
+        "title": "勇敢的小小信使",
+        "description": "海洋奇遇主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+        "url": "/files/library/images/ocean-06.png",
+        "tags": [
+          "海洋奇遇",
+          "小狐狸",
+          "绘本",
+          "柔和",
+          "儿童",
+          "ocean",
+          "勇敢的小小信使"
+        ],
+        "score": 0.281465,
+        "engine": "ONNX CLIP图文余弦相似度"
+      },
+      {
+        "id": "image-ocean-08",
+        "type": "image",
+        "title": "一起守护蓝色家园",
+        "description": "海洋奇遇主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+        "url": "/files/library/images/ocean-08.png",
+        "tags": [
+          "海洋奇遇",
+          "小狐狸",
+          "绘本",
+          "柔和",
+          "儿童",
+          "ocean",
+          "一起守护蓝色家园"
+        ],
+        "score": 0.280331,
+        "engine": "ONNX CLIP图文余弦相似度"
+      },
+      {
+        "id": "image-ocean-05",
+        "type": "image",
+        "title": "水母灯下的舞会",
+        "description": "海洋奇遇主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+        "url": "/files/library/images/ocean-05.png",
+        "tags": [
+          "海洋奇遇",
+          "小狐狸",
+          "绘本",
+          "柔和",
+          "儿童",
+          "ocean",
+          "水母灯下的舞会"
+        ],
+        "score": 0.280267,
+        "engine": "ONNX CLIP图文余弦相似度"
+      },
+      {
+        "id": "image-ocean-03",
+        "type": "image",
+        "title": "海龟米粒的地图",
+        "description": "海洋奇遇主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+        "url": "/files/library/images/ocean-03.png",
+        "tags": [
+          "海洋奇遇",
+          "小狐狸",
+          "绘本",
+          "柔和",
+          "儿童",
+          "ocean",
+          "海龟米粒的地图"
+        ],
+        "score": 0.278052,
+        "engine": "ONNX CLIP图文余弦相似度"
+      },
+      {
+        "id": "image-ocean-02",
+        "type": "image",
+        "title": "珊瑚花园的秘密",
+        "description": "海洋奇遇主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+        "url": "/files/library/images/ocean-02.png",
+        "tags": [
+          "海洋奇遇",
+          "小狐狸",
+          "绘本",
+          "柔和",
+          "儿童",
+          "ocean",
+          "珊瑚花园的秘密"
+        ],
+        "score": 0.277477,
+        "engine": "ONNX CLIP图文余弦相似度"
+      }
+    ],
+    "engine": "文本/音效：TF-IDF字符向量；图片：ONNX CLIP（英文编码器＋显式中文主题词典）",
+    "counts": {
+      "templates": 12,
+      "images": 24,
+      "sounds": 6
+    },
+    "clip_ready": true,
+    "clip_query": {
+      "text": "a children's storybook illustration of underwater, coral reef",
+      "method": "explicit Chinese topic dictionary + original English",
+      "unmapped_chinese": ""
+    },
+    "warning": "",
+    "image_errors": []
+  }
+}

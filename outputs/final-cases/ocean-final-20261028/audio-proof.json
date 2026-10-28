@@ -1,0 +1,363 @@
+{
+  "provider": "Microsoft Edge TTS",
+  "real_tts": true,
+  "prosody_method": "rate/pitch/volume parameters; not native emotion-style synthesis",
+  "voices": [
+    "zh-CN-XiaoxiaoNeural",
+    "zh-CN-XiaoyiNeural",
+    "zh-CN-YunxiNeural",
+    "zh-CN-YunyangNeural"
+  ],
+  "role_voices": {
+    "旁白": "zh-CN-XiaoxiaoNeural",
+    "narrator": "zh-CN-XiaoxiaoNeural",
+    "小橘": "zh-CN-YunxiNeural",
+    "character_1": "zh-CN-YunxiNeural",
+    "小海龟": "zh-CN-XiaoyiNeural",
+    "character_2": "zh-CN-XiaoyiNeural",
+    "鲸鱼爷爷": "zh-CN-YunyangNeural",
+    "character_3": "zh-CN-YunyangNeural"
+  },
+  "duration": 419.04,
+  "timing_source": "decoded PCM samples at 24000 Hz",
+  "created_at": "2026-10-28T04:15:06.993051+00:00",
+  "parts": [
+    {
+      "file": "audio_parts\\part-001.mp3",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "character": "旁白",
+      "emotion": "兴奋",
+      "prosody": {
+        "rate": "+3%",
+        "pitch": "+4Hz",
+        "volume": "+0%"
+      },
+      "duration": 43.392,
+      "sha256": "3f70beebeed6fe3510d8e092bff82cc3f1539cc34cd5019a90d3c0555dc3e528",
+      "characters": 207
+    },
+    {
+      "file": "audio_parts\\part-002.mp3",
+      "voice": "zh-CN-YunxiNeural",
+      "character": "小橘",
+      "emotion": "兴奋",
+      "prosody": {
+        "rate": "+3%",
+        "pitch": "+4Hz",
+        "volume": "+0%"
+      },
+      "duration": 11.304,
+      "sha256": "2969289bcaefa1adc42822c42fa580f28089b5409bd397529a6f687d7e1cbe8c",
+      "characters": 49
+    },
+    {
+      "file": "audio_parts\\part-003.mp3",
+      "voice": "zh-CN-XiaoyiNeural",
+      "character": "小海龟",
+      "emotion": "兴奋",
+      "prosody": {
+        "rate": "+3%",
+        "pitch": "+4Hz",
+        "volume": "+0%"
+      },
+      "duration": 12.12,
+      "sha256": "f190cfe013e9f15cf1a3bd4f15c8ebe5eb20f71f2dbd10927d118854bc905064",
+      "characters": 57
+    },
+    {
+      "file": "audio_parts\\part-004.mp3",
+      "voice": "zh-CN-YunyangNeural",
+      "character": "鲸鱼爷爷",
+      "emotion": "温柔",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 9.216,
+      "sha256": "c174e7d49ecf4efa5d3572e633cce0c34f0690c417eb6e59c455324f6eeec6ab",
+      "characters": 45
+    },
+    {
+      "file": "audio_parts\\part-005.mp3",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "character": "旁白",
+      "emotion": "兴奋",
+      "prosody": {
+        "rate": "+3%",
+        "pitch": "+4Hz",
+        "volume": "+0%"
+      },
+      "duration": 45.024,
+      "sha256": "1f497d363d35b64a3ebdbe1e8e3d075fc54b201a346e4e087228d99bd609fca1",
+      "characters": 213
+    },
+    {
+      "file": "audio_parts\\part-006.mp3",
+      "voice": "zh-CN-YunxiNeural",
+      "character": "小橘",
+      "emotion": "兴奋",
+      "prosody": {
+        "rate": "+3%",
+        "pitch": "+4Hz",
+        "volume": "+0%"
+      },
+      "duration": 12.48,
+      "sha256": "9e8e43105009481c95769e89a9b11fdeb1201eda2920a24a75f8d1f447b7efe5",
+      "characters": 54
+    },
+    {
+      "file": "audio_parts\\part-007.mp3",
+      "voice": "zh-CN-XiaoyiNeural",
+      "character": "小海龟",
+      "emotion": "兴奋",
+      "prosody": {
+        "rate": "+3%",
+        "pitch": "+4Hz",
+        "volume": "+0%"
+      },
+      "duration": 11.712,
+      "sha256": "7b8a3a2d08859f59ad80ae2060f6545a2aa208201623db797b244bb1530dfc24",
+      "characters": 56
+    },
+    {
+      "file": "audio_parts\\part-008.mp3",
+      "voice": "zh-CN-YunyangNeural",
+      "character": "鲸鱼爷爷",
+      "emotion": "温柔",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 10.824,
+      "sha256": "16e90228a7dee8428623478092ff9bda144f443401c71fb0127d218ec0c02335",
+      "characters": 53
+    },
+    {
+      "file": "audio_parts\\part-009.mp3",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "character": "旁白",
+      "emotion": "担忧",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 34.32,
+      "sha256": "fbb089f8c10eba00914903a908801ef63e5f59bbf970e931aef2dbb6bd729eab",
+      "characters": 142
+    },
+    {
+      "file": "audio_parts\\part-010.mp3",
+      "voice": "zh-CN-YunxiNeural",
+      "character": "小橘",
+      "emotion": "担忧",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 9.768,
+      "sha256": "5a02c4c21b61f6319a723b0890d94aa5d8dfb9d4133642aaa06fc71bf0b30c4b",
+      "characters": 41
+    },
+    {
+      "file": "audio_parts\\part-011.mp3",
+      "voice": "zh-CN-XiaoyiNeural",
+      "character": "小海龟",
+      "emotion": "担忧",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 13.032,
+      "sha256": "45f0a8dcb29a9ac0eafc44dea80990ed31d20efae623b379a94842649b5b27c2",
+      "characters": 55
+    },
+    {
+      "file": "audio_parts\\part-012.mp3",
+      "voice": "zh-CN-YunyangNeural",
+      "character": "鲸鱼爷爷",
+      "emotion": "温柔",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 10.248,
+      "sha256": "ca9a6f91a71a73f813607b5cec85c4ff1ba0643cd13d71d26d4a13c772cb8f7b",
+      "characters": 47
+    },
+    {
+      "file": "audio_parts\\part-013.mp3",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "character": "旁白",
+      "emotion": "兴奋",
+      "prosody": {
+        "rate": "+3%",
+        "pitch": "+4Hz",
+        "volume": "+0%"
+      },
+      "duration": 22.464,
+      "sha256": "9c11baff1faffe16afec70a6b0dbd7ed30e26a37437b6228a58aebe3f9afd014",
+      "characters": 102
+    },
+    {
+      "file": "audio_parts\\part-014.mp3",
+      "voice": "zh-CN-YunxiNeural",
+      "character": "小橘",
+      "emotion": "兴奋",
+      "prosody": {
+        "rate": "+3%",
+        "pitch": "+4Hz",
+        "volume": "+0%"
+      },
+      "duration": 13.632,
+      "sha256": "444064b53b6374d5510a1d0d64041b99c384adbbc193f8b47f6b6091d3dad8f4",
+      "characters": 65
+    },
+    {
+      "file": "audio_parts\\part-015.mp3",
+      "voice": "zh-CN-XiaoyiNeural",
+      "character": "小海龟",
+      "emotion": "兴奋",
+      "prosody": {
+        "rate": "+3%",
+        "pitch": "+4Hz",
+        "volume": "+0%"
+      },
+      "duration": 11.664,
+      "sha256": "c4443c7b0f88c74386876c86466ca0f72e41f575750b76a85c045f3ecd948617",
+      "characters": 56
+    },
+    {
+      "file": "audio_parts\\part-016.mp3",
+      "voice": "zh-CN-YunyangNeural",
+      "character": "鲸鱼爷爷",
+      "emotion": "温柔",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 11.592,
+      "sha256": "d4b2e06151d4d4c2631770248322de1bbb8cf5119cb6f9e16c830161abc0cc62",
+      "characters": 50
+    },
+    {
+      "file": "audio_parts\\part-017.mp3",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "character": "旁白",
+      "emotion": "温柔",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 34.032,
+      "sha256": "7bfcc13f4e68ae816b5f241fce26613e3f6cca485f52b0248ad91a265f6737f6",
+      "characters": 143
+    },
+    {
+      "file": "audio_parts\\part-018.mp3",
+      "voice": "zh-CN-YunxiNeural",
+      "character": "小橘",
+      "emotion": "温柔",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 13.488,
+      "sha256": "bfce91e8176b5b0204f9bff91e040eec0007067108d5264352054c19f56b80c7",
+      "characters": 60
+    },
+    {
+      "file": "audio_parts\\part-019.mp3",
+      "voice": "zh-CN-XiaoyiNeural",
+      "character": "小海龟",
+      "emotion": "温柔",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 12.144,
+      "sha256": "03c02eb7b4ff67d9ca9ffd1e103506a408e2dc45434c58e211b71ddaa02bd553",
+      "characters": 53
+    },
+    {
+      "file": "audio_parts\\part-020.mp3",
+      "voice": "zh-CN-YunyangNeural",
+      "character": "鲸鱼爷爷",
+      "emotion": "温柔",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 11.4,
+      "sha256": "c341534568cda2a5c9ce3650c7ebe3298fcb088336cf4452ecb10273c9f2e9f4",
+      "characters": 51
+    },
+    {
+      "file": "audio_parts\\part-021.mp3",
+      "voice": "zh-CN-XiaoxiaoNeural",
+      "character": "旁白",
+      "emotion": "温柔",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 31.344,
+      "sha256": "4d7035f27182d2c79bced6c079bfe120bfa86ba14b1fe2b896dc5192291d0e9f",
+      "characters": 131
+    },
+    {
+      "file": "audio_parts\\part-022.mp3",
+      "voice": "zh-CN-YunxiNeural",
+      "character": "小橘",
+      "emotion": "温柔",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 13.608,
+      "sha256": "0c0f62f3ac06935976c92e10b8fbeb310e8bf8e66ce82cba8432aa70e5e00dc0",
+      "characters": 61
+    },
+    {
+      "file": "audio_parts\\part-023.mp3",
+      "voice": "zh-CN-XiaoyiNeural",
+      "character": "小海龟",
+      "emotion": "温柔",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 9.216,
+      "sha256": "ed1a76b8faba5a2c556cb3e890eda685d693d3c3a2bdbfb6c67542e8ec4ee0d0",
+      "characters": 39
+    },
+    {
+      "file": "audio_parts\\part-024.mp3",
+      "voice": "zh-CN-YunyangNeural",
+      "character": "鲸鱼爷爷",
+      "emotion": "温柔",
+      "prosody": {
+        "rate": "-8%",
+        "pitch": "+0Hz",
+        "volume": "+0%"
+      },
+      "duration": 8.136,
+      "sha256": "e10fe30c475be8ccd3a7807da6462d01e3bb674267d0a0c4d85814b55567727e",
+      "characters": 35
+    }
+  ],
+  "sha256": "83bc7f9f09faf4255fcc8c7cd71469ea84e3d50e34a14c67167e8fd114685b1f"
+}

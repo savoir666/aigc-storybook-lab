@@ -1,0 +1,124 @@
+{
+  "schema": 1,
+  "created_at": "2026-10-28T04:38:10+00:00",
+  "project_id": "ocean-final-20261028",
+  "job_id": "c1a27bf9024940ca",
+  "story_sha256": "948977703ba905c2343ea7ea1cced1c7873463eeca174a9fd541e812657dae1c",
+  "inputs": {
+    "name": "小橘",
+    "age": 8,
+    "audience_age": 6,
+    "interest": "海洋动物、发光贝壳、合作保护自然",
+    "theme": "ocean",
+    "setting": "有成年鲸鱼向导陪伴的珊瑚海湾，乘安全透明泡泡船帮助灯塔；狐狸、小海龟、鲸鱼都有独立对白；不触碰珊瑚或独闯沉船",
+    "length": "long",
+    "strategy": "role_play",
+    "mode": "live"
+  },
+  "files": {
+    "agent_trace.json": {
+      "sha256": "fd67886cb88c25802b12fe2a98865a402589121a6e7a8ec9ffe7899ca1b03125",
+      "bytes": 3928
+    },
+    "prompt-record.json": {
+      "sha256": "3231d96a112e76e3561255b478bfe378c330965230f0b2f8cc6f4a895df62454",
+      "bytes": 15580
+    },
+    "image-review.json": {
+      "sha256": "c89e4247e388f087ca6d50859ef30010f408da843909ba2076ed6c073fcb0f6f",
+      "bytes": 564
+    },
+    "audio-proof.json": {
+      "sha256": "1678b7a4ebb0b6feacce0b51aacfb4d6f96b1a6eed8eff9f35eea6bab6baf8a3",
+      "bytes": 10429
+    },
+    "video-proof.json": {
+      "sha256": "7ea09d3658105e63169449b3f4de008980fc3f2118a37defb9493a1f9e588566",
+      "bytes": 629
+    },
+    "scene-01.png": {
+      "sha256": "df1352e859fbb236c822c2bba9116c4d9d85caeefde5151746f10b922c8fdf3a",
+      "bytes": 1636404
+    },
+    "scene-02.png": {
+      "sha256": "0308b9c57b553c2da44b2bb35ba9ee5dcf3994d1ebc317f7d8fcb4755af3a8cb",
+      "bytes": 1704686
+    },
+    "scene-03.png": {
+      "sha256": "b151026497a192b3616d48fe65299983a7473f6387654022e6b4a6f888177717",
+      "bytes": 1569589
+    },
+    "scene-04.png": {
+      "sha256": "966daab88b0a7a55cc0e89074b2b00e18f207a7f00f7c806d07a8cce149b6fc1",
+      "bytes": 1538622
+    },
+    "scene-05.png": {
+      "sha256": "9f6680ce0621653ca4151d87646a705392d219bd0bb6a812f908390c9c83e410",
+      "bytes": 1501923
+    },
+    "scene-06.png": {
+      "sha256": "0dee52bd1f2138e7685455c638121404adbc6b64bada8ae99c92a4ee4c95fc35",
+      "bytes": 1655872
+    },
+    "scene-01.proof.json": {
+      "sha256": "2cd4de108720ed3b6aa67c0f3b686b0e894fca03bef46d611d6fc872d9023f0b",
+      "bytes": 5815
+    },
+    "scene-02.proof.json": {
+      "sha256": "e44c32bd5e0eb17235b2f44fd1ede9ee7852515200d284350b8d5d5d997c8337",
+      "bytes": 5863
+    },
+    "scene-03.proof.json": {
+      "sha256": "8c9106497eca3eaba912bba513fe43105c1a60ec2f5c7f1a7d16a4c0af30100d",
+      "bytes": 5269
+    },
+    "scene-04.proof.json": {
+      "sha256": "d390869bdc025fb4627ce2571b87ac3e3af37b7e53fd6cb39d66e132d5337117",
+      "bytes": 5686
+    },
+    "scene-05.proof.json": {
+      "sha256": "feeff120dd754355b62a559063748b6f3d67593ce1629f181c735040ef801803",
+      "bytes": 5449
+    },
+    "scene-06.proof.json": {
+      "sha256": "2a38791261586709ec4910c0595ff556dd446196ec82fc5584d72d124f19809f",
+      "bytes": 5167
+    },
+    "scene-01.response.json": {
+      "sha256": "3d1f180ebbe695310c1d5702a03a176bbfcaa00ef17778acaf569311da27d6b5",
+      "bytes": 738
+    },
+    "scene-02.response.json": {
+      "sha256": "e62844dcf394515e5b58f3da672b143faaedc9da90fc23b28d71f4472ecea776",
+      "bytes": 740
+    },
+    "scene-03.response.json": {
+      "sha256": "ee5fe205a09ecd0cf87e5e39142f3648939906fb2ed50029c6b60c4d84448567",
+      "bytes": 742
+    },
+    "scene-04.response.json": {
+      "sha256": "c01690ff84f8a5be2ae33e548b537241e88563a7f1a63e08f26d5727a7451880",
+      "bytes": 742
+    },
+    "scene-05.response.json": {
+      "sha256": "6eaa4b769102029f9c28b81f66a2af16991dffe80bc00896f4a496e26909b758",
+      "bytes": 738
+    },
+    "scene-06.response.json": {
+      "sha256": "e7cec13edd1d0edc93cfc39a626fa4e5f818fca297f3856fa1c07abded67f7f5",
+      "bytes": 736
+    },
+    "story-audio.mp3": {
+      "sha256": "83bc7f9f09faf4255fcc8c7cd71469ea84e3d50e34a14c67167e8fd114685b1f",
+      "bytes": 3289028
+    },
+    "story-video.mp4": {
+      "sha256": "10fbd30ead34e813b74ad5f929fa5a4159870052ead952f9628159a633893729",
+      "bytes": 14770572
+    },
+    "storybook.pdf": {
+      "sha256": "594b77df9113355771fa4e7372b18eabf9f904ee190383b8941e4a60530c6e46",
+      "bytes": 18435663
+    }
+  }
+}

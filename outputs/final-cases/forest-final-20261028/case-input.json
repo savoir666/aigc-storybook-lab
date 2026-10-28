@@ -1,0 +1,15 @@
+{
+  "inputs": {
+    "name": "小栗",
+    "age": 7,
+    "audience_age": 5,
+    "interest": "照顾种子、观察萤火虫、交朋友",
+    "theme": "forest",
+    "setting": "安全的溪边花园，寻找会发光的种子；主角、萤火虫米粒、成年树园丁都有独立对白；困难须用观察与请教解决；场景画出具体动作",
+    "length": "long",
+    "strategy": "role_play",
+    "mode": "live"
+  },
+  "purpose": "2026-10-28 strict requirement repair run",
+  "operator": "AI assistant; no student authorship claim"
+}

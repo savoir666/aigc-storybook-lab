@@ -1,0 +1,261 @@
+{
+  "date": "2026-10-28",
+  "operator": "AI assistant technical verification and visual review; not student full playback or teacher acceptance",
+  "projects": [
+    {
+      "project_id": "forest-final-20261028",
+      "title": "会发光的种子",
+      "inputs": {
+        "name": "小栗",
+        "age": 7,
+        "audience_age": 5,
+        "interest": "照顾种子、观察萤火虫、交朋友",
+        "theme": "forest",
+        "setting": "安全的溪边花园，寻找会发光的种子；主角、萤火虫米粒、成年树园丁都有独立对白；困难须用观察与请教解决；场景画出具体动作",
+        "length": "long",
+        "strategy": "role_play",
+        "mode": "live"
+      },
+      "manifest_matches": true,
+      "job_id": "14a2a6d3b4f043c4",
+      "pdf_pages": 8,
+      "all_scene_endings_present": {
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true
+      },
+      "decoded_audio_seconds": 414.264,
+      "proof_audio_seconds": 414.264,
+      "voices": [
+        "zh-CN-XiaoxiaoNeural",
+        "zh-CN-XiaoyiNeural",
+        "zh-CN-YunxiNeural",
+        "zh-CN-YunyangNeural"
+      ],
+      "speaking_cast": [
+        "小栗",
+        "树园丁",
+        "萤火虫米粒"
+      ],
+      "video_seconds": 414.26,
+      "subtitle_count": 108,
+      "all_word_boundary_transcripts_match": true,
+      "segments_with_word_boundaries": 19,
+      "core_tools_completed": [
+        "generate_audio",
+        "generate_images",
+        "render_video",
+        "retrieve_materials",
+        "review_story",
+        "write_story"
+      ],
+      "images": [
+        {
+          "scene_id": 1,
+          "sha256": "71cf178fe2872d70b6ce6268165fab7e3d2be9ba2f1bd7519b1ea3132d2dab24",
+          "seed": 20261027,
+          "request_id": "1794c87c-7471-91a9-a408-078695c54013"
+        },
+        {
+          "scene_id": 2,
+          "sha256": "11a2755b4c8ec7b4770c1143f76f99ee91edf016a886520973dabae95b92f572",
+          "seed": 20261027,
+          "request_id": "5c47ed3b-9049-9075-b496-8f483cbad246"
+        },
+        {
+          "scene_id": 3,
+          "sha256": "814fc2409f2fcb023ece88ca19eedb9b3174ee8ce2e7931b947e30a80fb6e2f5",
+          "seed": 20261027,
+          "request_id": "94d77ee7-0f77-9ce1-bab8-000b68c4de74"
+        },
+        {
+          "scene_id": 4,
+          "sha256": "1043cef7d118c382b9106a0c179c288e00af8777907a14c1a1944de363a0fed1",
+          "seed": 20261027,
+          "request_id": "c7cbbd9f-6d7a-9c0f-b09a-bf361df9ea1e"
+        },
+        {
+          "scene_id": 5,
+          "sha256": "cb492d87f848c6d07c669d9ca7c3d0d12c2597d3bcd02734e20ba8310a1d26d1",
+          "seed": 20261027,
+          "request_id": "ab2ea155-4831-9ba2-a1be-016e751ac174"
+        },
+        {
+          "scene_id": 6,
+          "sha256": "ce7a886ba030749fac212ad7c6e35d4ecf15b3fec0ceb06f02a69e7a4f4d4218",
+          "seed": 20261027,
+          "request_id": "bfc299a9-1aa0-9e46-94b6-92f27e416c7a"
+        }
+      ],
+      "frames": [
+        {
+          "seconds": 3,
+          "file": "forest-final-20261028-video-start.png"
+        },
+        {
+          "seconds": 207.132,
+          "file": "forest-final-20261028-video-middle.png"
+        },
+        {
+          "seconds": 405.264,
+          "file": "forest-final-20261028-video-end.png"
+        }
+      ],
+      "audio_windows": [
+        {
+          "seconds": 3,
+          "rms": 0.053616877645254135,
+          "peak": 0.2960220277309418,
+          "clip_fraction": 0.0
+        },
+        {
+          "seconds": 207.132,
+          "rms": 0.06254798173904419,
+          "peak": 0.25887244939804077,
+          "clip_fraction": 0.0
+        },
+        {
+          "seconds": 405.264,
+          "rms": 0.027824457734823227,
+          "peak": 0.23212827742099762,
+          "clip_fraction": 0.0
+        }
+      ],
+      "encoder_threads": 1,
+      "ffmpeg_peak_mb": 154.62,
+      "previous_five_scenes_preserved": true,
+      "actual_user_instruction": "保留主角“小栗”，让故事结尾更突出朋友之间的合作。",
+      "revision_method": "model_ending_patch",
+      "original_pause_record": "first-attempt-case-job.json",
+      "retry_provenance": "human-intervention-retry.json"
+    },
+    {
+      "project_id": "ocean-final-20261028",
+      "title": "小橘的珊瑚湾奇遇",
+      "inputs": {
+        "name": "小橘",
+        "age": 8,
+        "audience_age": 6,
+        "interest": "海洋动物、发光贝壳、合作保护自然",
+        "theme": "ocean",
+        "setting": "有成年鲸鱼向导陪伴的珊瑚海湾，乘安全透明泡泡船帮助灯塔；狐狸、小海龟、鲸鱼都有独立对白；不触碰珊瑚或独闯沉船",
+        "length": "long",
+        "strategy": "role_play",
+        "mode": "live"
+      },
+      "manifest_matches": true,
+      "job_id": "c1a27bf9024940ca",
+      "pdf_pages": 8,
+      "all_scene_endings_present": {
+        "1": true,
+        "2": true,
+        "3": true,
+        "4": true,
+        "5": true,
+        "6": true
+      },
+      "decoded_audio_seconds": 419.04,
+      "proof_audio_seconds": 419.04,
+      "voices": [
+        "zh-CN-XiaoxiaoNeural",
+        "zh-CN-XiaoyiNeural",
+        "zh-CN-YunxiNeural",
+        "zh-CN-YunyangNeural"
+      ],
+      "speaking_cast": [
+        "小橘",
+        "小海龟",
+        "鲸鱼爷爷"
+      ],
+      "video_seconds": 419.04,
+      "subtitle_count": 107,
+      "all_word_boundary_transcripts_match": true,
+      "segments_with_word_boundaries": 24,
+      "core_tools_completed": [
+        "generate_audio",
+        "generate_images",
+        "render_video",
+        "retrieve_materials",
+        "review_story",
+        "write_story"
+      ],
+      "images": [
+        {
+          "scene_id": 1,
+          "sha256": "df1352e859fbb236c822c2bba9116c4d9d85caeefde5151746f10b922c8fdf3a",
+          "seed": 20261027,
+          "request_id": "4497abef-f521-9d19-be8c-6152705167b3"
+        },
+        {
+          "scene_id": 2,
+          "sha256": "0308b9c57b553c2da44b2bb35ba9ee5dcf3994d1ebc317f7d8fcb4755af3a8cb",
+          "seed": 20261027,
+          "request_id": "97be0588-36b3-9abe-ba62-b8db5522d859"
+        },
+        {
+          "scene_id": 3,
+          "sha256": "b151026497a192b3616d48fe65299983a7473f6387654022e6b4a6f888177717",
+          "seed": 20261027,
+          "request_id": "59256504-c32f-9fb7-a127-602633725076"
+        },
+        {
+          "scene_id": 4,
+          "sha256": "966daab88b0a7a55cc0e89074b2b00e18f207a7f00f7c806d07a8cce149b6fc1",
+          "seed": 20261027,
+          "request_id": "a9df55c9-726e-9e96-a32a-1e8850ae0f99"
+        },
+        {
+          "scene_id": 5,
+          "sha256": "9f6680ce0621653ca4151d87646a705392d219bd0bb6a812f908390c9c83e410",
+          "seed": 20261027,
+          "request_id": "434f8697-75b2-9b4b-a8a9-2c8488d13e51"
+        },
+        {
+          "scene_id": 6,
+          "sha256": "0dee52bd1f2138e7685455c638121404adbc6b64bada8ae99c92a4ee4c95fc35",
+          "seed": 20261027,
+          "request_id": "08fd11d3-05d9-90df-ab0b-f48e8e2f99f5"
+        }
+      ],
+      "frames": [
+        {
+          "seconds": 3,
+          "file": "ocean-final-20261028-video-start.png"
+        },
+        {
+          "seconds": 209.52,
+          "file": "ocean-final-20261028-video-middle.png"
+        },
+        {
+          "seconds": 410.04,
+          "file": "ocean-final-20261028-video-end.png"
+        }
+      ],
+      "audio_windows": [
+        {
+          "seconds": 3,
+          "rms": 0.04889465868473053,
+          "peak": 0.2918342649936676,
+          "clip_fraction": 0.0
+        },
+        {
+          "seconds": 209.52,
+          "rms": 0.04721452668309212,
+          "peak": 0.1751551330089569,
+          "clip_fraction": 0.0
+        },
+        {
+          "seconds": 410.04,
+          "rms": 0.0230040792375803,
+          "peak": 0.3965914845466614,
+          "clip_fraction": 0.0
+        }
+      ],
+      "encoder_threads": 1,
+      "ffmpeg_peak_mb": 152.27
+    }
+  ]
+}

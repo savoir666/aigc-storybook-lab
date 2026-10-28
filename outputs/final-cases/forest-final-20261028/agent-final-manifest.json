@@ -1,0 +1,136 @@
+{
+  "schema": 1,
+  "created_at": "2026-10-28T04:38:00+00:00",
+  "project_id": "forest-final-20261028",
+  "job_id": "14a2a6d3b4f043c4",
+  "story_sha256": "4baf32bdcaabe96253c13aef1125b9316989147265e8f04cb45e047df6054e98",
+  "inputs": {
+    "name": "小栗",
+    "age": 7,
+    "audience_age": 5,
+    "interest": "照顾种子、观察萤火虫、交朋友",
+    "theme": "forest",
+    "setting": "安全的溪边花园，寻找会发光的种子；主角、萤火虫米粒、成年树园丁都有独立对白；困难须用观察与请教解决；场景画出具体动作",
+    "length": "long",
+    "strategy": "role_play",
+    "mode": "live"
+  },
+  "files": {
+    "agent_trace.json": {
+      "sha256": "97efce40e73747cd731a225402577556a5f86e89aa2ae7958ffeed2165160a10",
+      "bytes": 5264
+    },
+    "prompt-record.json": {
+      "sha256": "1f8c9ac3f8b3ceb5f9a08e4fb944df401cf005cc6505702dc68d2a9086418741",
+      "bytes": 12942
+    },
+    "revision-record.json": {
+      "sha256": "62be7e6d7f78f38a0e8937f72226addf078ede7f10adb39dbab75fdfe388efc4",
+      "bytes": 5194
+    },
+    "human-intervention.json": {
+      "sha256": "0f5c381e0baef90dba9d00796398ce05eab15abb0f987a255b2d20cda231a1e8",
+      "bytes": 210
+    },
+    "human-intervention-retry.json": {
+      "sha256": "f53defaebd918a5f05dc5014ce60240dba32e5370f596b06a60a1e17dbe3ee90",
+      "bytes": 278
+    },
+    "image-review.json": {
+      "sha256": "c9f9ed0fb04ba7ef15bb6d0090d61b502eae8c4146b5f10cb9068c4fafea94b4",
+      "bytes": 549
+    },
+    "audio-proof.json": {
+      "sha256": "ab3b18a8d33d1274396c52733e4e992cd689e4af77dbd039da9b9343d7389e31",
+      "bytes": 8450
+    },
+    "video-proof.json": {
+      "sha256": "e0352f44aab875bfff278322385c7b52b6f4ac35f7fe46fc9620c7c2078b94a0",
+      "bytes": 630
+    },
+    "scene-01.png": {
+      "sha256": "71cf178fe2872d70b6ce6268165fab7e3d2be9ba2f1bd7519b1ea3132d2dab24",
+      "bytes": 1819588
+    },
+    "scene-02.png": {
+      "sha256": "11a2755b4c8ec7b4770c1143f76f99ee91edf016a886520973dabae95b92f572",
+      "bytes": 1827496
+    },
+    "scene-03.png": {
+      "sha256": "814fc2409f2fcb023ece88ca19eedb9b3174ee8ce2e7931b947e30a80fb6e2f5",
+      "bytes": 1801504
+    },
+    "scene-04.png": {
+      "sha256": "1043cef7d118c382b9106a0c179c288e00af8777907a14c1a1944de363a0fed1",
+      "bytes": 1633058
+    },
+    "scene-05.png": {
+      "sha256": "cb492d87f848c6d07c669d9ca7c3d0d12c2597d3bcd02734e20ba8310a1d26d1",
+      "bytes": 1661253
+    },
+    "scene-06.png": {
+      "sha256": "ce7a886ba030749fac212ad7c6e35d4ecf15b3fec0ceb06f02a69e7a4f4d4218",
+      "bytes": 1721883
+    },
+    "scene-01.proof.json": {
+      "sha256": "17dec0003c08fc441b03b6cdf2c04c51a18fc6a71ae231f9b7ca967308530c29",
+      "bytes": 5088
+    },
+    "scene-02.proof.json": {
+      "sha256": "cdc06e57971a5f71ec3a9efef13fb5219f82f085bd18ee8454d576bea3412ec3",
+      "bytes": 5160
+    },
+    "scene-03.proof.json": {
+      "sha256": "1cf5bc5d29995bff44984b7ee1742debcbb74c26729dadba44644e07728ecd49",
+      "bytes": 4683
+    },
+    "scene-04.proof.json": {
+      "sha256": "adc6e5b660b60ec444bf9bf68c2f207bd2bfd1a85afc1387f24689437ff0980a",
+      "bytes": 4575
+    },
+    "scene-05.proof.json": {
+      "sha256": "6f394607be0d24812e5732839caff00d6ce4ced699a947e34afda692bad896d6",
+      "bytes": 5595
+    },
+    "scene-06.proof.json": {
+      "sha256": "0a673b964fe4f307e6c0f12618cac05082986fa72bd338dcdda6d65d14e2f2b3",
+      "bytes": 5770
+    },
+    "scene-01.response.json": {
+      "sha256": "c4c0bc9bdb80bcb843389e4ccc83909a6c687b7a7a7e26a620404d25973fe1f0",
+      "bytes": 736
+    },
+    "scene-02.response.json": {
+      "sha256": "cbcab99bc36e970f652ae28f04de0043bd98a247b7d2ffa322771161ebaf1222",
+      "bytes": 736
+    },
+    "scene-03.response.json": {
+      "sha256": "278fbc235089946e078324620666fc1cdc43459fb3f93a81434d25d3ca16f65e",
+      "bytes": 744
+    },
+    "scene-04.response.json": {
+      "sha256": "73d9c572484a8a373d09589f570586302b4a3201d958914abd5ed5ccebf0eb18",
+      "bytes": 736
+    },
+    "scene-05.response.json": {
+      "sha256": "5e601f43711b2e60d58f9656091556f4a1fabd28d9ebe4b93ca6942ea1e63c68",
+      "bytes": 740
+    },
+    "scene-06.response.json": {
+      "sha256": "647bb0577eadffc0aba5760b3ee89f367ad92f5f7ebec2e2190738f962fe0211",
+      "bytes": 736
+    },
+    "story-audio.mp3": {
+      "sha256": "56e5ff32dd14aa9834cf7330daa36dfc1682ded97eba212f0d82a7c7a92d65d3",
+      "bytes": 3238124
+    },
+    "story-video.mp4": {
+      "sha256": "dd4b5cde2c4b802779d8b4d93baf6a4c0be7e3768625f2c685e7ace796d6c808",
+      "bytes": 15117604
+    },
+    "storybook.pdf": {
+      "sha256": "9d0717cf2f8f72b74eb53df1023f4792002aae962764acf0e879928e80972175",
+      "bytes": 20122688
+    }
+  }
+}

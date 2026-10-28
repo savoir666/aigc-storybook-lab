@@ -57,3 +57,16 @@ tests/                  共享工程测试
 此前实际浏览器检查涵盖三个主题、翻页、输入检查、错误提示和移动端布局，记录见 `docs/evidence/trae/qa-report.json`；18幅分镜检查见 `scene-art-qa.json`。这些是对应记录中的历史检查，新整理仓库的检查另见 `docs/repository-validation.json`。
 
 仓库不包含 `.env`、API密钥、模型权重、用户作品和任务日志。`.env.example` 只提供空密钥配置示例。不要将本机密钥上传到公开仓库。
+
+## 前八周完整交付入口
+
+|内容|入口|
+|---|---|
+|逐周要求与交付索引|[前八周清单](docs/course-submission.md)|
+|两套真实图文音视频案例|[最终作品目录](outputs/README.md)|
+|系统架构与数据流|[架构图及说明](docs/architecture.md)|
+|完整工程复现与CLIP准备|[复现步骤](docs/reproduce.md)|
+|每次作业AI日志|[日志总表](ai_log.md)|
+|个人反思草稿和现场演示|[本人确认指南](docs/student-confirmation.md)|
+
+用时如实记为未记录；个人反思草稿待本人确认，第八周现场演示和老师指定平台提交尚未完成。报告、成品和原始日志已经按周归档，不将当前整理冒充过去每周的Git提交。

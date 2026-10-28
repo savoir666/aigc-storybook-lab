@@ -1,0 +1,538 @@
+{
+  "date": "2026-10-28",
+  "operator": "AI assistant actual local inference; no human rating claim",
+  "counts": {
+    "templates": 12,
+    "images": 24,
+    "sounds": 6
+  },
+  "queries": [
+    {
+      "query": "雨打湿了没有地址的信，寻找等待来信的朋友",
+      "expected_template": "template-forest-02",
+      "expected_in_top3": true,
+      "template_rank": 1,
+      "templates": [
+        {
+          "id": "template-forest-02",
+          "type": "template",
+          "title": "蘑菇邮局的一封信",
+          "description": "一封被雨打湿的信没有写地址。小栗跟着森林里的声音，替它找到等待的朋友。",
+          "url": "/files/library/templates/template-forest-02.json",
+          "tags": [
+            "森林探险",
+            "友谊",
+            "倾听",
+            "助人",
+            "邮局",
+            "故事模板",
+            "forest"
+          ],
+          "score": 0.261623,
+          "engine": "TF-IDF字符向量"
+        },
+        {
+          "id": "template-space-01",
+          "type": "template",
+          "title": "月亮忘记了晚安",
+          "description": "月亮没有收到地球的晚安信，小栗和机器人米粒乘纸火箭，修好一条失灵的星际邮路。",
+          "url": "/files/library/templates/template-space-01.json",
+          "tags": [
+            "太空旅行",
+            "月亮",
+            "表达",
+            "火箭",
+            "友谊",
+            "故事模板",
+            "space"
+          ],
+          "score": 0.084126,
+          "engine": "TF-IDF字符向量"
+        },
+        {
+          "id": "template-forest-01",
+          "type": "template",
+          "title": "会发光的种子",
+          "description": "小栗和萤火虫米粒寻找一粒会发光的种子，发现它只在被认真照顾时亮起。",
+          "url": "/files/library/templates/template-forest-01.json",
+          "tags": [
+            "森林探险",
+            "自然",
+            "耐心",
+            "种子",
+            "成长",
+            "故事模板",
+            "forest"
+          ],
+          "score": 0.058023,
+          "engine": "TF-IDF字符向量"
+        }
+      ],
+      "images": [
+        {
+          "id": "image-ocean-01",
+          "type": "image",
+          "title": "穿过蓝色的光",
+          "description": "海洋奇遇主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+          "url": "/files/library/images/ocean-01.png",
+          "tags": [
+            "海洋奇遇",
+            "小狐狸",
+            "绘本",
+            "柔和",
+            "儿童",
+            "ocean",
+            "穿过蓝色的光"
+          ],
+          "score": 0.297477,
+          "engine": "ONNX CLIP图文余弦相似度"
+        },
+        {
+          "id": "image-ocean-03",
+          "type": "image",
+          "title": "海龟米粒的地图",
+          "description": "海洋奇遇主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+          "url": "/files/library/images/ocean-03.png",
+          "tags": [
+            "海洋奇遇",
+            "小狐狸",
+            "绘本",
+            "柔和",
+            "儿童",
+            "ocean",
+            "海龟米粒的地图"
+          ],
+          "score": 0.297338,
+          "engine": "ONNX CLIP图文余弦相似度"
+        },
+        {
+          "id": "image-ocean-04",
+          "type": "image",
+          "title": "贝壳里的小愿望",
+          "description": "海洋奇遇主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+          "url": "/files/library/images/ocean-04.png",
+          "tags": [
+            "海洋奇遇",
+            "小狐狸",
+            "绘本",
+            "柔和",
+            "儿童",
+            "ocean",
+            "贝壳里的小愿望"
+          ],
+          "score": 0.295682,
+          "engine": "ONNX CLIP图文余弦相似度"
+        }
+      ],
+      "sounds": [
+        {
+          "id": "gentle-waves",
+          "type": "sound",
+          "title": "蓝色海湾 · 柔和海浪",
+          "description": "8 秒真实可播放 WAV 音效，本地程序合成示例，可用于故事转场或氛围。",
+          "url": "/files/library/sounds/gentle-waves.wav",
+          "tags": [
+            "海洋奇遇",
+            "音效",
+            "氛围",
+            "gentle-waves"
+          ],
+          "score": 0.003802,
+          "engine": "TF-IDF字符向量"
+        },
+        {
+          "id": "magic-chime",
+          "type": "sound",
+          "title": "发现星光 · 风铃音效",
+          "description": "4 秒真实可播放 WAV 音效，本地程序合成示例，可用于故事转场或氛围。",
+          "url": "/files/library/sounds/magic-chime.wav",
+          "tags": [
+            "太空旅行",
+            "音效",
+            "氛围",
+            "magic-chime"
+          ],
+          "score": 0.003775,
+          "engine": "TF-IDF字符向量"
+        }
+      ],
+      "clip_query": {
+        "text": "a children's storybook illustration of friends, rain",
+        "method": "explicit Chinese topic dictionary + original English",
+        "unmapped_chinese": "打湿了没有地址的信寻找等待来信的"
+      },
+      "clip_ready": true,
+      "image_errors": [],
+      "suggestions": {
+        "query": "雨打湿了没有地址的信，寻找等待来信的朋友",
+        "template_ids": [
+          "template-forest-02",
+          "template-space-01"
+        ],
+        "image_ids": [
+          "image-ocean-01",
+          "image-ocean-03",
+          "image-ocean-04"
+        ],
+        "sound_ids": [
+          "gentle-waves",
+          "magic-chime"
+        ],
+        "visual_prompt_hint": "a children's storybook illustration of friends, rain",
+        "usage": "依据检索素材选定故事背景，复用角色设定；图片与音效作为参考。相似度为检索分数，不是质量保证。"
+      }
+    },
+    {
+      "query": "月亮收不到晚安信，用纸火箭修复星际邮路",
+      "expected_template": "template-space-01",
+      "expected_in_top3": true,
+      "template_rank": 1,
+      "templates": [
+        {
+          "id": "template-space-01",
+          "type": "template",
+          "title": "月亮忘记了晚安",
+          "description": "月亮没有收到地球的晚安信，小栗和机器人米粒乘纸火箭，修好一条失灵的星际邮路。",
+          "url": "/files/library/templates/template-space-01.json",
+          "tags": [
+            "太空旅行",
+            "月亮",
+            "表达",
+            "火箭",
+            "友谊",
+            "故事模板",
+            "space"
+          ],
+          "score": 0.296812,
+          "engine": "TF-IDF字符向量"
+        },
+        {
+          "id": "template-forest-04",
+          "type": "template",
+          "title": "把星光送回家",
+          "description": "森林停电了，小栗召集朋友，用自己的微光为迷路的猫头鹰照亮回家的路。",
+          "url": "/files/library/templates/template-forest-04.json",
+          "tags": [
+            "森林探险",
+            "合作",
+            "分享",
+            "星光",
+            "归家",
+            "故事模板",
+            "forest"
+          ],
+          "score": 0.061933,
+          "engine": "TF-IDF字符向量"
+        },
+        {
+          "id": "template-space-03",
+          "type": "template",
+          "title": "机器人米粒的新朋友",
+          "description": "米粒误把陨石当成礼物，小栗和星际向导一起认识不同星球的生活习惯。",
+          "url": "/files/library/templates/template-space-03.json",
+          "tags": [
+            "太空旅行",
+            "机器人",
+            "尊重",
+            "差异",
+            "科学",
+            "故事模板",
+            "space"
+          ],
+          "score": 0.057577,
+          "engine": "TF-IDF字符向量"
+        }
+      ],
+      "images": [
+        {
+          "id": "image-space-04",
+          "type": "image",
+          "title": "机器人也会想家",
+          "description": "太空旅行主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+          "url": "/files/library/images/space-04.png",
+          "tags": [
+            "太空旅行",
+            "小狐狸",
+            "绘本",
+            "柔和",
+            "儿童",
+            "space",
+            "机器人也会想家"
+          ],
+          "score": 0.319386,
+          "engine": "ONNX CLIP图文余弦相似度"
+        },
+        {
+          "id": "image-space-08",
+          "type": "image",
+          "title": "我们共享一片星空",
+          "description": "太空旅行主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+          "url": "/files/library/images/space-08.png",
+          "tags": [
+            "太空旅行",
+            "小狐狸",
+            "绘本",
+            "柔和",
+            "儿童",
+            "space",
+            "我们共享一片星空"
+          ],
+          "score": 0.315603,
+          "engine": "ONNX CLIP图文余弦相似度"
+        },
+        {
+          "id": "image-space-02",
+          "type": "image",
+          "title": "月亮上的第一枚脚印",
+          "description": "太空旅行主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+          "url": "/files/library/images/space-02.png",
+          "tags": [
+            "太空旅行",
+            "小狐狸",
+            "绘本",
+            "柔和",
+            "儿童",
+            "space",
+            "月亮上的第一枚脚印"
+          ],
+          "score": 0.314758,
+          "engine": "ONNX CLIP图文余弦相似度"
+        }
+      ],
+      "sounds": [
+        {
+          "id": "magic-chime",
+          "type": "sound",
+          "title": "发现星光 · 风铃音效",
+          "description": "4 秒真实可播放 WAV 音效，本地程序合成示例，可用于故事转场或氛围。",
+          "url": "/files/library/sounds/magic-chime.wav",
+          "tags": [
+            "太空旅行",
+            "音效",
+            "氛围",
+            "magic-chime"
+          ],
+          "score": 0.019675,
+          "engine": "TF-IDF字符向量"
+        },
+        {
+          "id": "gentle-waves",
+          "type": "sound",
+          "title": "蓝色海湾 · 柔和海浪",
+          "description": "8 秒真实可播放 WAV 音效，本地程序合成示例，可用于故事转场或氛围。",
+          "url": "/files/library/sounds/gentle-waves.wav",
+          "tags": [
+            "海洋奇遇",
+            "音效",
+            "氛围",
+            "gentle-waves"
+          ],
+          "score": 0.013384,
+          "engine": "TF-IDF字符向量"
+        }
+      ],
+      "clip_query": {
+        "text": "a children's storybook illustration of moon, rocket",
+        "method": "explicit Chinese topic dictionary + original English",
+        "unmapped_chinese": "收不到晚安信用纸修复星际邮路"
+      },
+      "clip_ready": true,
+      "image_errors": [],
+      "suggestions": {
+        "query": "月亮收不到晚安信，用纸火箭修复星际邮路",
+        "template_ids": [
+          "template-space-01",
+          "template-forest-04"
+        ],
+        "image_ids": [
+          "image-space-04",
+          "image-space-08",
+          "image-space-02"
+        ],
+        "sound_ids": [
+          "magic-chime",
+          "gentle-waves"
+        ],
+        "visual_prompt_hint": "a children's storybook illustration of moon, rocket",
+        "usage": "依据检索素材选定故事背景，复用角色设定；图片与音效作为参考。相似度为检索分数，不是质量保证。"
+      }
+    },
+    {
+      "query": "把漂亮贝壳留给寄居蟹，只拍照片保护海洋",
+      "expected_template": "template-ocean-04",
+      "expected_in_top3": true,
+      "template_rank": 1,
+      "templates": [
+        {
+          "id": "template-ocean-04",
+          "type": "template",
+          "title": "送给潮汐的小礼物",
+          "description": "小栗想留下所有漂亮贝壳，后来学会只带走照片，把海边的小家还给寄居蟹。",
+          "url": "/files/library/templates/template-ocean-04.json",
+          "tags": [
+            "海洋奇遇",
+            "海边",
+            "分享",
+            "环保",
+            "寄居蟹",
+            "故事模板",
+            "ocean"
+          ],
+          "score": 0.29036,
+          "engine": "TF-IDF字符向量"
+        },
+        {
+          "id": "template-ocean-02",
+          "type": "template",
+          "title": "珊瑚花园的颜色",
+          "description": "珊瑚花园失去了颜色，小栗和海洋朋友从捡起一小片垃圾开始，一起让家园恢复生机。",
+          "url": "/files/library/templates/template-ocean-02.json",
+          "tags": [
+            "海洋奇遇",
+            "珊瑚",
+            "环保",
+            "家园",
+            "合作",
+            "故事模板",
+            "ocean"
+          ],
+          "score": 0.06464,
+          "engine": "TF-IDF字符向量"
+        },
+        {
+          "id": "template-ocean-01",
+          "type": "template",
+          "title": "会唱歌的贝壳",
+          "description": "小栗和海龟米粒寻找贝壳歌声的来源，发现是老鲸鱼在给海洋的新生命唱摇篮曲。",
+          "url": "/files/library/templates/template-ocean-01.json",
+          "tags": [
+            "海洋奇遇",
+            "贝壳",
+            "鲸鱼",
+            "声音",
+            "观察",
+            "故事模板",
+            "ocean"
+          ],
+          "score": 0.05243,
+          "engine": "TF-IDF字符向量"
+        }
+      ],
+      "images": [
+        {
+          "id": "image-ocean-06",
+          "type": "image",
+          "title": "勇敢的小小信使",
+          "description": "海洋奇遇主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+          "url": "/files/library/images/ocean-06.png",
+          "tags": [
+            "海洋奇遇",
+            "小狐狸",
+            "绘本",
+            "柔和",
+            "儿童",
+            "ocean",
+            "勇敢的小小信使"
+          ],
+          "score": 0.308582,
+          "engine": "ONNX CLIP图文余弦相似度"
+        },
+        {
+          "id": "image-ocean-03",
+          "type": "image",
+          "title": "海龟米粒的地图",
+          "description": "海洋奇遇主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+          "url": "/files/library/images/ocean-03.png",
+          "tags": [
+            "海洋奇遇",
+            "小狐狸",
+            "绘本",
+            "柔和",
+            "儿童",
+            "ocean",
+            "海龟米粒的地图"
+          ],
+          "score": 0.306674,
+          "engine": "ONNX CLIP图文余弦相似度"
+        },
+        {
+          "id": "image-ocean-05",
+          "type": "image",
+          "title": "水母灯下的舞会",
+          "description": "海洋奇遇主题绘本插画。固定橘色小狐狸、青绿色围巾、金色背包，柔和配色和留白；本地 Pillow 程序绘制示例，非 AI 生成。",
+          "url": "/files/library/images/ocean-05.png",
+          "tags": [
+            "海洋奇遇",
+            "小狐狸",
+            "绘本",
+            "柔和",
+            "儿童",
+            "ocean",
+            "水母灯下的舞会"
+          ],
+          "score": 0.303799,
+          "engine": "ONNX CLIP图文余弦相似度"
+        }
+      ],
+      "sounds": [
+        {
+          "id": "bgm-ocean",
+          "type": "sound",
+          "title": "海洋奇遇 · 轻柔音乐",
+          "description": "16 秒可播放轻柔背景音乐，本地程序合成原创音符；适合循环与低音量混音。",
+          "url": "/files/library/sounds/bgm-ocean.wav",
+          "tags": [
+            "海洋奇遇",
+            "背景音乐",
+            "轻柔",
+            "BGM",
+            "ocean"
+          ],
+          "score": 0.026096,
+          "engine": "TF-IDF字符向量"
+        },
+        {
+          "id": "gentle-waves",
+          "type": "sound",
+          "title": "蓝色海湾 · 柔和海浪",
+          "description": "8 秒真实可播放 WAV 音效，本地程序合成示例，可用于故事转场或氛围。",
+          "url": "/files/library/sounds/gentle-waves.wav",
+          "tags": [
+            "海洋奇遇",
+            "音效",
+            "氛围",
+            "gentle-waves"
+          ],
+          "score": 0.022285,
+          "engine": "TF-IDF字符向量"
+        }
+      ],
+      "clip_query": {
+        "text": "a children's storybook illustration of ocean",
+        "method": "explicit Chinese topic dictionary + original English",
+        "unmapped_chinese": "把漂亮贝壳留给寄居蟹只拍照片保护"
+      },
+      "clip_ready": true,
+      "image_errors": [],
+      "suggestions": {
+        "query": "把漂亮贝壳留给寄居蟹，只拍照片保护海洋",
+        "template_ids": [
+          "template-ocean-04",
+          "template-ocean-02"
+        ],
+        "image_ids": [
+          "image-ocean-06",
+          "image-ocean-03",
+          "image-ocean-05"
+        ],
+        "sound_ids": [
+          "bgm-ocean",
+          "gentle-waves"
+        ],
+        "visual_prompt_hint": "a children's storybook illustration of ocean",
+        "usage": "依据检索素材选定故事背景，复用角色设定；图片与音效作为参考。相似度为检索分数，不是质量保证。"
+      }
+    }
+  ],
+  "limitations": "3 preselected queries with known intended assets; not independent blind evaluation. Scores from different engines are not calibrated. Chinese CLIP input uses limited dictionary."
+}
