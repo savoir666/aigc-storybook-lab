@@ -33,7 +33,7 @@
 
 ## 本次续作
 
-工具：Trae Builder（具体模型未提供）与Codex。用户按本聊天提示实际创建web/trae-story.html/css/js，见[可核查记录](../trae-development-record.md)。原始Trae文件、用户截图、Codex修复记录分开保留；工时仍未记录，个人反思没有代填。
+工具：Trae Builder（具体模型未提供）与Codex。用户按本聊天提示实际创建web/trae-story.html/css/js，见[可核查记录](trae-development-record.md)。原始Trae文件、用户截图、Codex修复记录分开保留；工时仍未记录，个人反思没有代填。
 
 ## 用户翻页反馈后的逐幕插画修改
 

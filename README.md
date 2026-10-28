@@ -1,72 +1,67 @@
-# 小主角的故事书 · AIGC 创新应用实践
+# 星芽故事屋 · 个性化儿童故事创作
 
-第一周（作业0）：使用 Trae 辅助开发个性化儿童故事网页。输入主角姓名、年龄、兴趣，选择森林、太空或海洋主题，阅读六幕故事并前后翻页。
+AIGC创新应用实践课程项目。围绕个性化儿童故事，提供结构化写作、绘本配图、多角色朗读、视频合成、素材检索及Agent工作流。
 
-**第一周入口：**启动服务后访问 http://127.0.0.1:8766/trae-story.html 。完整操作见[使用说明](使用说明.md)。
+## 快速启动
 
-![表单页面](docs/evidence/trae/qa-desktop-setup.png)
+推荐Windows + Python3.12。将整个仓库克隆或解压到D盘，双击根目录`启动故事屋.cmd`，保持终端窗口打开。
 
-## 功能与作业要求对应
+- 第一周故事网页：http://127.0.0.1:8766/trae-story.html
+- 完整应用：http://127.0.0.1:8766
+- [第一周使用说明](使用说明.md)
+- [完整工程复现与CLIP准备](docs/reproduce.md)
 
-| 作业要求 | 当前实现 |
+首次启动按需安装requirements.txt中的依赖，虚拟环境和缓存保存在项目目录。第一周页面使用本地模板和预设插画，不需要API密钥。真实模型创作需另行配置本机.env；密钥与模型权重不进入仓库。
+
+## 功能
+
+|模块|功能|
 |---|---|
-| 姓名、年龄、兴趣、主题输入 | 表单输入，并区分主角年龄与读者年龄；年龄3–12岁 |
-| 至少3种主题 | 森林探险、太空旅行、海洋奇遇 |
-| 可交互的故事展示 | 人物卡片、六幕正文、情绪标签、上一幕/下一幕、键盘左右键、重新创作 |
-| 页面美观、交互友好 | 奶油色与橘绿色调、移动端布局、输入检查、加载状态与错误提示 |
-| 代码仓库、使用说明、2分钟内演示 | 本仓库与使用说明；本人录屏1分57.87秒，另作附件提交 |
+|个性化网页|姓名、主角年龄、读者年龄、兴趣、背景与长度设置；森林、太空、海洋三主题；逐幕翻页|
+|结构化故事|Python模型接口、JSON校验与格式修复、零样本/少样本/角色扮演对比|
+|绘本|逐幕API配图、固定角色描述与Seed、PDF排版|
+|有声书|三位故事角色与旁白使用4种音色，情绪韵律参数，同步文字高亮|
+|故事视频|图片、配音、背景音乐及字幕自动合成为MP4|
+|素材检索|12模板、24张素材图、6音效；文本TF-IDF与图像ONNX CLIP|
+|Agent|LangChain工具注册、模型规划、暂停干预与四项核心工具执行|
 
-## 快速运行
+![故事表单](docs/evidence/trae/qa-desktop-setup.png)
 
-推荐 Windows + Python 3.12。将整个仓库下载并解压至 D 盘，例如 `D:\AIGC作业\aigc-storybook-lab`，双击根目录的 `启动故事屋.cmd`，保持服务窗口打开，再在浏览器打开第一周入口。
+## 作品与报告
 
-首次运行可能安装 `requirements.txt` 中的开源依赖，需要联网。启动脚本将虚拟环境、临时文件和依赖缓存放在项目目录中。已有开发环境可被复用；不需要重新安装 Python 或下载模型权重。
-
-**第一周不需要 API Key，也不调用收费模型。**阅读页使用本地模板故事与程序绘制的示例插画。三个主题各有六幅预设分镜；输入自定义背景不会实时生成新插画。
+|内容|入口|
+|---|---|
+|前八周逐项交付|[交付索引](docs/course-submission.md)|
+|两套完整图文音视频案例|[作品目录](outputs/README.md)|
+|系统架构与数据流|[架构说明](docs/architecture.md)|
+|三种Prompt策略对比|[对比报告](docs/prompt-quality-analysis.md)|
+|角色一致性方案|[方案与对比图](docs/character-consistency.md)|
+|多角色配音|[音色及参数表](docs/voice-design.md)|
+|视频制作|[剪辑流程](docs/audio-video-pipeline.md)|
+|素材检索|[构建与评估](docs/week06_retrieval_evaluation.md)|
+|Agent工作流|[架构与案例](docs/week07_agent_architecture.md)|
+|协作记录|[AI协作日志](ai_log.md)|
+|现场展示|[操作检查与答辩指南](docs/student-confirmation.md)|
 
 ## 项目结构
 
 ```text
-web/trae-story.html       第一周网页结构
-web/trae-story.css        第一周页面样式
-web/trae-story.js         表单、请求与阅读交互
-web/demo-scenes/         三主题18幅本地示例分镜
-src/storybook/           共享Python服务、模板与后续课程模块
-scripts/start.ps1        本机启动脚本
-scripts/seed_assets.py   本地素材生成脚本
-data/library/            共享本地示例素材
-docs/evidence/trae/      Trae初版文件、页面截图及核验记录
-tests/                  共享工程测试
-使用说明.md             安装、操作、常见问题
+src/storybook/        Python服务、生成、媒体、检索与Agent
+web/                  完整应用及第一周独立页面
+scripts/              启动、素材准备、样本恢复与校验
+data/library/         本地可复用素材
+docs/                 报告、方案、运行验证与协作日志
+outputs/final-cases/  森林、海洋两套终版作品与流程记录
+outputs/prompt-comparison/ 三策略真实输出
+tests/                工程测试
+ai_log.md             协作日志索引
+requirements.txt      依赖版本
 ```
 
-`web/index.html` 是后续课程的主应用，第一周验收优先使用 `trae-story.html`。仓库保留共享服务及后续模块，以保持项目可运行；这不代表所有模块都由 Trae 创建，也不代表后续作业已提交验收。
+## 验证与使用边界
 
-## 实现和 AI 协作说明
+`python scripts/verify_submission.py`离线校验两套案例的55个清单文件和故事绑定；运行检查记录见`docs/submission-verification.json`与`docs/restored-cases-http-check.json`。
 
-- 学生实际在 Trae Builder 操作后，反馈创建了 `trae-story.html`、`trae-story.css`、`trae-story.js`，并提供页面截图。初版保存在 `docs/evidence/trae/original-files/`。
-- 后续由 Codex 辅助修复输入校验、错误提示、重复正文与长度标签，补充逐幕示例插画，并整理文档与仓库。
-- 学生实际试用翻页，提出每页插画重复的问题，并自行提供第一周操作录屏。
-- 故事由 Python 本地模板生成，插画为预设 SVG 分镜；不把本地演示说成实时大模型生成。真实模型调用属于后续课程功能，需自行配置，第一周无需使用。
-- 未记录的个人工时、完整 Trae 对话与模型名称不补造。
+模板模式与真实模型模式分别标注。第一周18幅SVG和素材库程序图不作为文生图API产物；最终API作品见作品目录。CLIP缺失时会明确降级，需按复现说明准备模型。视频与音频为预生成案例，可本机直接播放。
 
-## 演示与验证
-
-本人第一周操作视频作为独立附件提交，时长117.87秒；文件指纹见 `docs/video-record.json`。不将视频打入代码历史，也不将 AI 助理演示冒充本人录屏。
-
-此前实际浏览器检查涵盖三个主题、翻页、输入检查、错误提示和移动端布局，记录见 `docs/evidence/trae/qa-report.json`；18幅分镜检查见 `scene-art-qa.json`。这些是对应记录中的历史检查，新整理仓库的检查另见 `docs/repository-validation.json`。
-
-仓库不包含 `.env`、API密钥、模型权重、用户作品和任务日志。`.env.example` 只提供空密钥配置示例。不要将本机密钥上传到公开仓库。
-
-## 前八周完整交付入口
-
-|内容|入口|
-|---|---|
-|逐周要求与交付索引|[前八周清单](docs/course-submission.md)|
-|两套真实图文音视频案例|[最终作品目录](outputs/README.md)|
-|系统架构与数据流|[架构图及说明](docs/architecture.md)|
-|完整工程复现与CLIP准备|[复现步骤](docs/reproduce.md)|
-|每次作业AI日志|[日志总表](ai_log.md)|
-|个人反思草稿和现场演示|[本人确认指南](docs/student-confirmation.md)|
-
-用时如实记为未记录；个人反思草稿待本人确认，第八周现场演示和老师指定平台提交尚未完成。报告、成品和原始日志已经按周归档，不将当前整理冒充过去每周的Git提交。
+第一周117.87秒操作录屏独立作为附件提交。课程平台提交与第八周现场展示状态见交付索引。

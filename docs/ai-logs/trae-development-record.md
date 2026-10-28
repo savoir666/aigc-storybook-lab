@@ -4,10 +4,10 @@
 
 ## 证据
 
-- 用户打开Trae截图：[user-opened-trae.png](evidence/trae/user-opened-trae.png)。
-- 用户提供的原始页面截图：[user-shared-page.png](evidence/trae/user-shared-page.png)。截图仅证明当时页面呈现。
-- Trae初版文件保存在[evidence/trae/original-files/](evidence/trae/original-files/)，哈希见provenance.json。
-- Codex真实浏览器检查[qa-report.json](evidence/trae/qa-report.json)：8/8通过；初次7/8的错误结果保存在qa-before-error-fix.json。
+- 用户打开Trae截图：[user-opened-trae.png](../evidence/trae/user-opened-trae.png)。
+- 用户提供的原始页面截图：[user-shared-page.png](../evidence/trae/user-shared-page.png)。截图仅证明当时页面呈现。
+- Trae初版文件保存在[evidence/trae/original-files/](../evidence/trae/original-files/)，哈希见provenance.json。
+- Codex真实浏览器检查[qa-report.json](../evidence/trae/qa-report.json)：8/8通过；初次7/8的错误结果保存在qa-before-error-fix.json。
 - 早期AI助理页面操作演示（历史核验视频，本次不随代码提交）：由AI助理实际操作Chrome录制，静音附说明；不是用户操作录屏，也不是Trae开发过程录屏或第8周现场答辩。
 
 ## Codex后续修复
