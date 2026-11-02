@@ -13,3 +13,6 @@ dialog{border:1px solid #e3d8d0;padding:0;background:#f8f8ef;color:var(--ink);bo
 
 dialog[open]>.global-busy{position:fixed;left:50%;bottom:max(22px,env(safe-area-inset-bottom));max-width:calc(100vw - 36px);z-index:1001}dialog[open]>.toast-stack{position:fixed;right:max(20px,env(safe-area-inset-right));bottom:max(82px,calc(env(safe-area-inset-bottom) + 62px));max-width:min(420px,calc(100vw - 40px));z-index:1002}/* The baby-fox reference keeps its complete ears and paws inside the hero. */
 .hero-art .hero-seed-image{object-fit:contain;object-position:center center}
+
+/* Compact settings shortcut after removing decorative copy. */
+.settings-shortcut{background:transparent;border:0;padding:0 12px;margin-bottom:24px}.settings-shortcut:after{content:none}

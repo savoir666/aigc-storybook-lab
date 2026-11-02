@@ -261,7 +261,7 @@
       button.classList.toggle("active", button.dataset.mode === state.mode);
       button.setAttribute("aria-pressed", String(button.dataset.mode === state.mode));
     });
-    $("mode-description").textContent = state.mode === "demo" ? "本地模板与程序插画示例，可直接体验；不会调用大模型。" : "使用你配置的免费模型真实生成文字与插画；需要有效密钥和网络连接。";
+    $("mode-description").textContent = state.mode === "demo" ? "本地模式：模板故事与示例插画。" : "在线模式：使用已配置模型，需要网络与密钥。";
   }
   async function createProject() {
     const data = new FormData($("create-form"));
