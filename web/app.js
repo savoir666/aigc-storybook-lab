@@ -230,7 +230,7 @@
     $("preview-name").textContent = $("child-name").value.trim() || "小主角";
     $("preview-title").textContent = themeTitles[state.theme];
     $("preview-title").style.whiteSpace = "pre-line";
-    const colors = { forest: ["#e5e9d3", "#607047", "♧"], space: ["#e7e1ed", "#82708f", "✧"], ocean: ["#deebea", "#668e8c", "≈"] }[state.theme];
+    const colors = { forest: ["#f6dcc0", "#8a4e32", "♧"], space: ["#f2d7d2", "#915751", "✧"], ocean: ["#f6e5c5", "#8b6540", "≈"] }[state.theme];
     const cover = document.querySelector(".preview-book");
     cover.style.background = colors[0];
     $("preview-title").style.color = colors[1];
